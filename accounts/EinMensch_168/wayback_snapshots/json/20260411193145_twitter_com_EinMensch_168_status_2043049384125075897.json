@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043049381746855936"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2043049384125075897",
+    "created_at": "2026-04-11T19:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T20:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043049384125075897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VtHZLiDIiE",
+          "end": 47,
+          "expanded_url": "https://x.com/EinMensch_168/status/2043049384125075897/photo/1",
+          "media_key": "3_2043049381746855936",
+          "start": 24,
+          "url": "https://t.co/VtHZLiDIiE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043049384125075897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "按照计划，今天早上还得赶紧去把日语班的合同签了 https://t.co/VtHZLiDIiE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_2043049381746855936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFpelpGaUAAJHye.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043049381746855936"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2043049384125075897",
+        "created_at": "2026-04-11T19:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T20:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043049384125075897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VtHZLiDIiE",
+              "end": 47,
+              "expanded_url": "https://x.com/EinMensch_168/status/2043049384125075897/photo/1",
+              "media_key": "3_2043049381746855936",
+              "start": 24,
+              "url": "https://t.co/VtHZLiDIiE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043049384125075897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "按照计划，今天早上还得赶紧去把日语班的合同签了 https://t.co/VtHZLiDIiE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃1.0，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。\n            ——双刀王小桃-2026-3.1",
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 116,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 169
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

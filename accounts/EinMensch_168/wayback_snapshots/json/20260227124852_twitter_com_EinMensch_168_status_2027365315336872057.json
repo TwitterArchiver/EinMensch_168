@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1357835469099134977",
+          "name": "English language learning"
+        }
+      }
+    ],
+    "conversation_id": "2027356632099991959",
+    "created_at": "2026-02-27T12:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T13:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027365315336872057"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "中国",
+          "probability": 0.8116,
+          "start": 27,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "292929499",
+          "start": 0,
+          "username": "shushuglad"
+        },
+        {
+          "end": 26,
+          "id": "1830674795081748480",
+          "start": 12,
+          "username": "Believer_TERD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027365315336872057",
+    "in_reply_to_user_id": "292929499",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027359501310173526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shushuglad @Believer_TERD 中国のほとんどの地域では中学2年生は英語を学んでおり、一部は別の外国語を学んでいる"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357835469099134977",
+              "name": "English language learning"
+            }
+          }
+        ],
+        "conversation_id": "2027356632099991959",
+        "created_at": "2026-02-27T12:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027365315336872057"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "中国",
+              "probability": 0.8116,
+              "start": 27,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "292929499",
+              "start": 0,
+              "username": "shushuglad"
+            },
+            {
+              "end": 26,
+              "id": "1830674795081748480",
+              "start": 12,
+              "username": "Believer_TERD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027365315336872057",
+        "in_reply_to_user_id": "292929499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027359501310173526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shushuglad @Believer_TERD 中国のほとんどの地域では中学2年生は英語を学んでおり、一部は別の外国語を学んでいる"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "292929499",
+        "conversation_id": "2027356632099991959",
+        "created_at": "2026-02-27T12:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027359501310173526"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "日本",
+              "probability": 0.587,
+              "start": 15,
+              "type": "Place"
+            },
+            {
+              "end": 28,
+              "normalized_text": "日本",
+              "probability": 0.6932,
+              "start": 27,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830674795081748480",
+              "start": 0,
+              "username": "Believer_TERD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027359501310173526",
+        "in_reply_to_user_id": "1830674795081748480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027358073220919758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Believer_TERD 日本初中生学习只英语。\n日本の中学生は英語だけです。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我已内卷致死｜在校高一学生",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026364444683751424/wHBmVhSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 38,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-04T13:37:57.000Z",
+        "description": "我是个日本的老人，已经73岁了。我学习汉语，想学好汉语，常常用日语和汉语发推。我们互相一起学习外语吧。HEADER的照片是我故乡。文好部　No.826    gladgameassn #001",
+        "id": "292929499",
+        "location": "日本 大阪",
+        "name": "老爷爷/大叔/叔叔/学习汉语很开心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656540248032317440/2R5dWY-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9394,
+          "following_count": 1618,
+          "like_count": 1616,
+          "listed_count": 64,
+          "media_count": 5440,
+          "tweet_count": 111272
+        },
+        "username": "shushuglad",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T18:31:26.000Z",
+        "description": "心外无物",
+        "id": "1830674795081748480",
+        "location": "In most everything.",
+        "name": "Alessa",
+        "pinned_tweet_id": "1895767017766207843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987395416573595648/A5kkra0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 324,
+          "like_count": 16177,
+          "listed_count": 1,
+          "media_count": 375,
+          "tweet_count": 5348
+        },
+        "username": "Believer_TERD",
+        "verified": false
+      }
+    ]
+  }
+}

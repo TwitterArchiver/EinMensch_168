@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994670487872704514"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "1994670490489950474",
+    "created_at": "2025-11-29T07:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T08:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994670490489950474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hQ7DDeMxa8",
+          "end": 23,
+          "expanded_url": "https://x.com/EinMensch_168/status/1994670490489950474/photo/1",
+          "media_key": "3_1994670487872704514",
+          "start": 0,
+          "url": "https://t.co/hQ7DDeMxa8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994670490489950474",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/hQ7DDeMxa8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1994670487872704514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65-PZGbkAI1B3D.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994670487872704514"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "1994670490489950474",
+        "created_at": "2025-11-29T07:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994670490489950474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQ7DDeMxa8",
+              "end": 23,
+              "expanded_url": "https://x.com/EinMensch_168/status/1994670490489950474/photo/1",
+              "media_key": "3_1994670487872704514",
+              "start": 0,
+              "url": "https://t.co/hQ7DDeMxa8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994670490489950474",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hQ7DDeMxa8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "学习雷锋好榜样",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "潘国平",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956250009793650688/y_E5BChX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 132,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 30
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

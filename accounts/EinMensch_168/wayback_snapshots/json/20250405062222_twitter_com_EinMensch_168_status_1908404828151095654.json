@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908404824443342848"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "1908404828151095654",
+    "created_at": "2025-04-05T06:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T07:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908404828151095654"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D2KBXWdmwO",
+          "end": 53,
+          "expanded_url": "https://x.com/EinMensch_168/status/1908404828151095654/photo/1",
+          "media_key": "3_1908404824443342848",
+          "start": 30,
+          "url": "https://t.co/D2KBXWdmwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908404828151095654",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "高齢の中国人の多くは依然として強い人種的価値観を持っている https://t.co/D2KBXWdmwO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 921,
+        "media_key": "3_1908404824443342848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnwEE6CWUAAJ_ID.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908404824443342848"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "1908404828151095654",
+        "created_at": "2025-04-05T06:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T07:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908404828151095654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2KBXWdmwO",
+              "end": 53,
+              "expanded_url": "https://x.com/EinMensch_168/status/1908404828151095654/photo/1",
+              "media_key": "3_1908404824443342848",
+              "start": 30,
+              "url": "https://t.co/D2KBXWdmwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908404828151095654",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高齢の中国人の多くは依然として強い人種的価値観を持っている https://t.co/D2KBXWdmwO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "マルクス主義/毛沢東主義/反官僚主義、形式主義/反抑圧搾取/平等を主張/学習中/中国人",
+        "id": "1659190798104297476",
+        "name": "EinMensch",
+        "pinned_tweet_id": "1906716661366837264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884943704986714112/Bu12rl1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 88,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 22
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

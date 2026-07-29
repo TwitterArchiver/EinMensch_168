@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2060651005604397461",
+    "created_at": "2026-05-30T09:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060653239868244175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2012831008148869120",
+          "start": 0,
+          "username": "520_xiaoshang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060653239868244175",
+    "in_reply_to_user_id": "2012831008148869120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060653136516432110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520_xiaoshang 大狗叫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2060651005604397461",
+        "created_at": "2026-05-30T09:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060653239868244175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2012831008148869120",
+              "start": 0,
+              "username": "520_xiaoshang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060653239868244175",
+        "in_reply_to_user_id": "2012831008148869120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060653136516432110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520_xiaoshang 大狗叫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012831008148869120",
+        "conversation_id": "2060651005604397461",
+        "created_at": "2026-05-30T09:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060653136516432110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060653136516432110",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060651005604397461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 叮咚鸡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 330,
+          "like_count": 3174,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 1266
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T10:14:51.000Z",
+        "description": "糖人/不键政/11.10.19/171cm",
+        "id": "2012831008148869120",
+        "location": "-18cm",
+        "name": "情緒",
+        "pinned_tweet_id": "2059936945254572353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050474494658297857/Lh5vdTTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 40,
+          "like_count": 513,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 435
+        },
+        "username": "520_xiaoshang",
+        "verified": false
+      }
+    ]
+  }
+}

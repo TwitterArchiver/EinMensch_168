@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2051139930861277260",
+    "created_at": "2026-05-04T11:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T12:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051265235852619925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1818138034132676608",
+          "start": 0,
+          "username": "Minecraft365871"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051265235852619925",
+    "in_reply_to_user_id": "1818138034132676608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051265167367799007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minecraft365871 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2051139930861277260",
+        "created_at": "2026-05-04T11:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051265235852619925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1818138034132676608",
+              "start": 0,
+              "username": "Minecraft365871"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051265235852619925",
+        "in_reply_to_user_id": "1818138034132676608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051265167367799007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minecraft365871 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818138034132676608",
+        "conversation_id": "2051139930861277260",
+        "created_at": "2026-05-04T11:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051265167367799007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051265167367799007",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051139930861277260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨我将持续思考如何整个狠活让我出名丨我将挑战性激素双低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2050968410188820804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050563509176672256/H_sZedmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 282,
+          "like_count": 2500,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1000
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-30T04:14:36.000Z",
+        "description": "ISFP-T | 简繁中文 | 大小写敏感 | 深色模式享受者 | 互联网泔水爱好者 | 编程只会Hello world | 作业永远写不完",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft-365871.rian.cloud",
+                "end": 23,
+                "expanded_url": "http://minecraft-365871.rian.cloud",
+                "start": 0,
+                "url": "https://t.co/MLU3vxTloj"
+              }
+            ]
+          }
+        },
+        "id": "1818138034132676608",
+        "location": "Internet",
+        "name": "Minecraft_365871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999755978259202049/9gexIFIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 116,
+          "like_count": 1217,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 144
+        },
+        "url": "https://t.co/MLU3vxTloj",
+        "username": "Minecraft365871",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "1908459152386510929",
+    "created_at": "2025-04-06T01:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T02:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908687912583025074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2689312646",
+          "start": 0,
+          "username": "redflag420"
+        },
+        {
+          "end": 24,
+          "id": "1084804009884557312",
+          "start": 12,
+          "username": "Anomalotism"
+        },
+        {
+          "end": 38,
+          "id": "1826609272353931264",
+          "start": 25,
+          "username": "redbooks1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908687912583025074",
+    "in_reply_to_user_id": "2689312646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908558546427400464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redflag420 @Anomalotism @redbooks1966 事实上感觉像军大衣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "1908459152386510929",
+        "created_at": "2025-04-06T01:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T02:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908687912583025074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2689312646",
+              "start": 0,
+              "username": "redflag420"
+            },
+            {
+              "end": 24,
+              "id": "1084804009884557312",
+              "start": 12,
+              "username": "Anomalotism"
+            },
+            {
+              "end": 38,
+              "id": "1826609272353931264",
+              "start": 25,
+              "username": "redbooks1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908687912583025074",
+        "in_reply_to_user_id": "2689312646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908558546427400464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redflag420 @Anomalotism @redbooks1966 事实上感觉像军大衣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2689312646",
+        "conversation_id": "1908459152386510929",
+        "created_at": "2025-04-05T16:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T17:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908558546427400464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1084804009884557312",
+              "start": 0,
+              "username": "Anomalotism"
+            },
+            {
+              "end": 26,
+              "id": "1826609272353931264",
+              "start": 13,
+              "username": "redbooks1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908558546427400464",
+        "in_reply_to_user_id": "1084804009884557312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908471836406390959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anomalotism @redbooks1966 It doesn’t really have a name, it’s a PLA women’s uniform jacket, probably Type 65"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "マルクス主義/毛沢東主義/反官僚主義、形式主義/反抑圧搾取/平等を主張/学習中/中国人",
+        "id": "1659190798104297476",
+        "name": "EinMensch🇨🇳",
+        "pinned_tweet_id": "1906716661366837264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884943704986714112/Bu12rl1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 96,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 27
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-29T06:14:20.000Z",
+        "description": "",
+        "id": "2689312646",
+        "name": "Ok.",
+        "pinned_tweet_id": "1335041607654105091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1335017004818968578/3-HlpNWy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 128,
+          "like_count": 11669,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 374
+        },
+        "username": "redflag420",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-14T13:26:45.000Z",
+        "description": "Freelance Photographer/Werewolf Nomadism//Queer Ecstaticism///dérive:acc alt: @anomalotysm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 78,
+                "username": "anomalotysm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "capitalistmetanoia.substack.com",
+                "end": 23,
+                "expanded_url": "https://capitalistmetanoia.substack.com/",
+                "start": 0,
+                "url": "https://t.co/eqPXW7pfU7"
+              }
+            ]
+          }
+        },
+        "id": "1084804009884557312",
+        "location": "Any/All (yes i mean it)",
+        "name": "🟠Feedback_Crab (egregorian marxism arc)",
+        "pinned_tweet_id": "1771913882681979191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1561369665456246787/L1OTxPM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 639,
+          "like_count": 76217,
+          "listed_count": 5,
+          "media_count": 571,
+          "tweet_count": 7601
+        },
+        "url": "https://t.co/eqPXW7pfU7",
+        "username": "Anomalotism",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T13:16:12.000Z",
+        "description": "📕",
+        "id": "1826609272353931264",
+        "location": "check media tab",
+        "name": "Red Book",
+        "pinned_tweet_id": "1908250638179344697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856367308727365632/xfj0nJCm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2433,
+          "following_count": 170,
+          "like_count": 810,
+          "listed_count": 9,
+          "media_count": 345,
+          "tweet_count": 721
+        },
+        "username": "redbooks1966",
+        "verified": false
+      }
+    ]
+  }
+}

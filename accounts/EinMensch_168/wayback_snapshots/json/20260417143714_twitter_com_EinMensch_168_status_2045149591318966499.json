@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2044907174426767794",
+    "created_at": "2026-04-17T14:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045149591318966499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646432732589985793",
+          "start": 0,
+          "username": "ONITAKE1227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045149591318966499",
+    "in_reply_to_user_id": "1646432732589985793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044907174426767794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ONITAKE1227 麦田怪圈（悟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 559,
+        "media_key": "3_2044907169162973184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGD4PGib0AA31tf.jpg",
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2044907174426767794",
+        "created_at": "2026-04-17T14:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045149591318966499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646432732589985793",
+              "start": 0,
+              "username": "ONITAKE1227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045149591318966499",
+        "in_reply_to_user_id": "1646432732589985793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044907174426767794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ONITAKE1227 麦田怪圈（悟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044907169162973184"
+          ]
+        },
+        "author_id": "1646432732589985793",
+        "conversation_id": "2044907174426767794",
+        "created_at": "2026-04-16T22:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T23:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044907174426767794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMAc7j8iKo",
+              "end": 38,
+              "expanded_url": "https://x.com/ONITAKE1227/status/2044907174426767794/photo/1",
+              "media_key": "3_2044907169162973184",
+              "start": 15,
+              "url": "https://t.co/vMAc7j8iKo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044907174426767794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 101631,
+          "like_count": 5187,
+          "quote_count": 11,
+          "reply_count": 27,
+          "retweet_count": 547
+        },
+        "reply_settings": "everyone",
+        "text": "速報！DOROは実在した！？ https://t.co/vMAc7j8iKo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃1.0，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。\n            ——双刀王小桃-2026-3.1",
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2040416708238954882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 137,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 264
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T08:39:30.000Z",
+        "description": "ジャッカル推し！ユニオン:メイドインナナチ所属！無能雰囲気ちのうなし指揮官ですがよろしくお願いしますぞ～！＼(・ω・＼)SAN値!(/・ω・)/ピンチ!",
+        "id": "1646432732589985793",
+        "name": "オニタケ@NIKKE",
+        "pinned_tweet_id": "1989619189985022399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856350726236364800/Ztb7azRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6567,
+          "following_count": 3689,
+          "like_count": 466395,
+          "listed_count": 44,
+          "media_count": 8813,
+          "tweet_count": 63518
+        },
+        "username": "ONITAKE1227",
+        "verified": true
+      }
+    ]
+  }
+}

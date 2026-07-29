@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2045420924347039848",
+    "created_at": "2026-04-18T12:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T13:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045477535581126895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045477535581126895",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045420924347039848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim33 快要完全胜利了（喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2045420919292846080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLLfS6aYAAzt3c.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2045420924347039848",
+        "created_at": "2026-04-18T12:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045477535581126895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045477535581126895",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045420924347039848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 快要完全胜利了（喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045420919292846080"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2045420924347039848",
+        "created_at": "2026-04-18T08:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045420924347039848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W78WKLt8Ea",
+              "end": 29,
+              "expanded_url": "https://x.com/aoim33/status/2045420924347039848/photo/1",
+              "media_key": "3_2045420919292846080",
+              "start": 6,
+              "url": "https://t.co/W78WKLt8Ea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045420924347039848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 408,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "差差 13 https://t.co/W78WKLt8Ea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃2.1，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。\n            ——双刀王小桃-2026-3.1",
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2040416708238954882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 148,
+          "like_count": 513,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 341
+        },
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / Languages / SH HZ metro bot / Photography / 沪浙可飞 / Education & Psychology / CN EN JP KR /@supernovaArcaea team member / @aoim31 / tutoring service",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 闵行 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2044289664308445259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4861,
+          "following_count": 2810,
+          "like_count": 44238,
+          "listed_count": 18,
+          "media_count": 2457,
+          "tweet_count": 10880
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

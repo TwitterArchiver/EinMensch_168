@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2053124547474575826",
+    "created_at": "2026-05-09T15:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T16:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053129389924380740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1385919167971282946",
+          "start": 0,
+          "username": "whyyoutangping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053129389924380740",
+    "in_reply_to_user_id": "1385919167971282946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053129197900779756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutangping 没办法，如果可以谁想上学？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2053124547474575826",
+        "created_at": "2026-05-09T15:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053129389924380740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1385919167971282946",
+              "start": 0,
+              "username": "whyyoutangping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053129389924380740",
+        "in_reply_to_user_id": "1385919167971282946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053129197900779756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutangping 没办法，如果可以谁想上学？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385919167971282946",
+        "conversation_id": "2053124547474575826",
+        "created_at": "2026-05-09T15:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053129197900779756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053129197900779756",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053124547474575826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 一周坐牢五天那确实很难记住你😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨我将持续思考如何整个狠活让我出名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2050968410188820804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 297,
+          "like_count": 2726,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 1094
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-24T11:31:04.000Z",
+        "description": "无证含豆｜含豆日2026.4.2｜世界唯一豆娘｜04｜心情超棒（一直吃喵！）｜I人（友跨喵！）｜服用大豆异黄酮｜禁止涩涩｜也许是MTX？？？｜互fo喵！！！\n欢迎骚扰我喵：https://t.co/fmhkL0PNyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/tangpingDN",
+                "end": 109,
+                "expanded_url": "http://t.me/tangpingDN",
+                "start": 86,
+                "url": "https://t.co/fmhkL0PNyb"
+              }
+            ]
+          }
+        },
+        "id": "1385919167971282946",
+        "location": "躺平星球",
+        "name": "𝑆𝑜𝑦𝑖𝑠𝑜～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050243518149636096/lalp9RN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 81,
+          "like_count": 1403,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 515
+        },
+        "username": "whyyoutangping",
+        "verified": true
+      }
+    ]
+  }
+}

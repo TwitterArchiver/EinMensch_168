@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063480767347613696"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063466939482251631",
+    "created_at": "2026-06-07T04:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063480770103271792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921862257874702337",
+          "start": 0,
+          "username": "Theprophetsfox"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rr4ZIgESDP",
+          "end": 39,
+          "expanded_url": "https://x.com/EinMensch_168/status/2063480770103271792/photo/1",
+          "media_key": "3_2063480767347613696",
+          "start": 16,
+          "url": "https://t.co/rr4ZIgESDP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063480770103271792",
+    "in_reply_to_user_id": "1921862257874702337",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063479565272707216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Theprophetsfox https://t.co/rr4ZIgESDP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_2063480767347613696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKL00zqa4AAdw_f.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063480767347613696"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063466939482251631",
+        "created_at": "2026-06-07T04:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063480770103271792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921862257874702337",
+              "start": 0,
+              "username": "Theprophetsfox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rr4ZIgESDP",
+              "end": 39,
+              "expanded_url": "https://x.com/EinMensch_168/status/2063480770103271792/photo/1",
+              "media_key": "3_2063480767347613696",
+              "start": 16,
+              "url": "https://t.co/rr4ZIgESDP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063480770103271792",
+        "in_reply_to_user_id": "1921862257874702337",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063479565272707216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Theprophetsfox https://t.co/rr4ZIgESDP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921862257874702337",
+        "conversation_id": "2063466939482251631",
+        "created_at": "2026-06-07T04:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063479565272707216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063479565272707216",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063466939482251631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 真是活久見，雖然我也沒活多久。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 336,
+          "like_count": 3277,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 1336
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-12T09:37:33.000Z",
+        "description": "愿你我的心永远纯洁，灵魂永远高尚……",
+        "id": "1921862257874702337",
+        "location": "三一綜合學園",
+        "name": "Angel fox",
+        "pinned_tweet_id": "1933621953933553865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062771871595245568/_Ow4fGFN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 84,
+          "like_count": 760,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 684
+        },
+        "username": "Theprophetsfox",
+        "verified": false
+      }
+    ]
+  }
+}

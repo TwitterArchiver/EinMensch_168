@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "1908139405283582213",
+    "created_at": "2025-04-04T13:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T14:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908149396656755062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1466316822882709505",
+          "start": 0,
+          "username": "Hitomura_san"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908149396656755062",
+    "in_reply_to_user_id": "1466316822882709505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908139405283582213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hitomura_san 以斗争求和平则和平存，\n以和平求和平则和平亡。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "1908139405283582213",
+        "created_at": "2025-04-04T13:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T14:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908149396656755062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1466316822882709505",
+              "start": 0,
+              "username": "Hitomura_san"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908149396656755062",
+        "in_reply_to_user_id": "1466316822882709505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908139405283582213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hitomura_san 以斗争求和平则和平存，\n以和平求和平则和平亡。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1466316822882709505",
+        "conversation_id": "1908139405283582213",
+        "created_at": "2025-04-04T12:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T13:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908139405283582213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nhk_news/statu…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/nhk_news/status/1908105021587341373",
+              "start": 44,
+              "url": "https://t.co/Cgu3AaEbTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908139405283582213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908105021587341373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "坚定不移的支持中国的做法！！！\n打他一拳开！免得百拳来！\n打败美帝野心狼！🇨🇳🇨🇳🇨🇳 https://t.co/Cgu3AaEbTW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "マルクス主義/毛沢東主義/反官僚主義、形式主義/反抑圧搾取/平等を主張/学習中/中国人",
+        "id": "1659190798104297476",
+        "name": "EinMensch",
+        "pinned_tweet_id": "1906716661366837264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884943704986714112/Bu12rl1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 87,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-02T08:03:50.000Z",
+        "description": "世界史にわか/基本フォロバ100(怪しい垢は除く)/陰謀論者、ネトウヨ、支黒は問答無用でブロック/🔑(愚痴兼変態垢)→@Hitomura_sub1/日中ハーフ(中日混血的在日华人)/日中友好万歳🇯🇵🤝🇨🇳/希望中日友好🇨🇳🤝🇯🇵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 59,
+                "username": "Hitomura_sub1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/hitomu…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/hitomura-san.bsky.social",
+                "start": 0,
+                "url": "https://t.co/QDRp2sIGf7"
+              }
+            ]
+          }
+        },
+        "id": "1466316822882709505",
+        "location": "日本＝中華連合帝国",
+        "name": "人村🇯🇵🤝🇨🇳",
+        "pinned_tweet_id": "1821482840288321858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907601342857883649/grWigGLY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 1308,
+          "like_count": 37927,
+          "listed_count": 8,
+          "media_count": 1342,
+          "tweet_count": 19838
+        },
+        "url": "https://t.co/QDRp2sIGf7",
+        "username": "Hitomura_san",
+        "verified": false
+      }
+    ]
+  }
+}

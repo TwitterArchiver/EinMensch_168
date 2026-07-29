@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037518523736752128"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2037518526291026144",
+    "created_at": "2026-03-27T13:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037518526291026144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kmjE8JbyAu",
+          "end": 27,
+          "expanded_url": "https://x.com/EinMensch_168/status/2037518526291026144/photo/1",
+          "media_key": "3_2037518523736752128",
+          "start": 4,
+          "url": "https://t.co/kmjE8JbyAu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037518526291026144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新水杯 https://t.co/kmjE8JbyAu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037518523736752128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEa4TVabgAAZfJN.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037518523736752128"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037518526291026144",
+        "created_at": "2026-03-27T13:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037518526291026144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kmjE8JbyAu",
+              "end": 27,
+              "expanded_url": "https://x.com/EinMensch_168/status/2037518526291026144/photo/1",
+              "media_key": "3_2037518523736752128",
+              "start": 4,
+              "url": "https://t.co/kmjE8JbyAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037518526291026144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新水杯 https://t.co/kmjE8JbyAu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我已内卷致死｜在校高一学生\n我来外网纯是因为无聊",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 47,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 61
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

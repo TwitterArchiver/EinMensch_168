@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2047855566488584543",
+    "created_at": "2026-04-25T01:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T02:49:04.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047855379288334561",
+      "2047855566488584543"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047855566488584543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "冷知识:其实很多人都被儿时许下的愿望砸到了，许多人在儿时都会想如果每天都有100该多好，结果这个梦想在成年后实现了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2047855379288334561",
+        "created_at": "2026-04-25T01:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:49:04.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047855379288334561",
+          "2047855566488584543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047855379288334561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多人都被儿时许下的愿望砸到了，许多人在儿时都会想如果每天都有100该多好，结果这个梦想在成年后实现了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2047855566488584543",
+        "created_at": "2026-04-25T01:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:49:04.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047855379288334561",
+          "2047855566488584543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047855566488584543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识:其实很多人都被儿时许下的愿望砸到了，许多人在儿时都会想如果每天都有100该多好，结果这个梦想在成年后实现了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃2.1，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。🏳️‍🌈🏳️‍⚧️🏳️*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2047728143939862951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 224,
+          "like_count": 1432,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 678
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      }
+    ]
+  }
+}

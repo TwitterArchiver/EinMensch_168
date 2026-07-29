@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2027093725357424718",
+    "created_at": "2026-02-27T14:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027394459298828786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "604681512",
+          "start": 0,
+          "username": "yukikousa"
+        },
+        {
+          "end": 24,
+          "id": "1245494356888317952",
+          "start": 11,
+          "username": "pinopino0831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027394459298828786",
+    "in_reply_to_user_id": "604681512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027261655940550788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukikousa @pinopino0831 我只会黑暗料理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2027093725357424718",
+        "created_at": "2026-02-27T14:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027394459298828786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "604681512",
+              "start": 0,
+              "username": "yukikousa"
+            },
+            {
+              "end": 24,
+              "id": "1245494356888317952",
+              "start": 11,
+              "username": "pinopino0831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027394459298828786",
+        "in_reply_to_user_id": "604681512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027261655940550788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukikousa @pinopino0831 我只会黑暗料理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "604681512",
+        "conversation_id": "2027093725357424718",
+        "created_at": "2026-02-27T05:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027261655940550788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1245494356888317952",
+              "start": 0,
+              "username": "pinopino0831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027261655940550788",
+        "in_reply_to_user_id": "1245494356888317952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11662,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027093725357424718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pinopino0831 中国男性は料理上手です。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我已内卷致死｜在校高一学生",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026364444683751424/wHBmVhSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 38,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-10T15:25:21.000Z",
+        "description": "ItisYukiko.R-Financialplanner-Tokyo-外資系💲📈Art.161tall45k.Trump🇺🇸BustEcup英語中国語韓国語、Nophotoediting🇯加工無し🫱猫顔",
+        "id": "604681512",
+        "name": "悠紀子Yukiko.rArt🇮🇹",
+        "pinned_tweet_id": "1737711426872148179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933832625460056064/HgAVYQTk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3862,
+          "following_count": 6123,
+          "like_count": 39614,
+          "listed_count": 14,
+          "media_count": 1057,
+          "tweet_count": 120306
+        },
+        "username": "yukikousa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-01T23:32:57.000Z",
+        "description": "40代超氷河期単身世帯。猫好き。 \n#猫の幸せ顔選手権 　#女性が一人で当たり前に生きていける社会を望みます",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 18,
+                "tag": "猫の幸せ顔選手権"
+              },
+              {
+                "end": 54,
+                "start": 29,
+                "tag": "女性が一人で当たり前に生きていける社会を望みます"
+              }
+            ]
+          }
+        },
+        "id": "1245494356888317952",
+        "location": "男子禁制",
+        "name": "ピノ",
+        "pinned_tweet_id": "1325552518005288960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013586123352616961/C4cH-aJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3364,
+          "following_count": 1447,
+          "like_count": 740425,
+          "listed_count": 73,
+          "media_count": 475,
+          "tweet_count": 50372
+        },
+        "username": "pinopino0831",
+        "verified": false
+      }
+    ]
+  }
+}

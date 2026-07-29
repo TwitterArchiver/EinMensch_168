@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1913430741200867328"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "1913430964207800407",
+    "created_at": "2025-04-19T03:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T04:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913430964207800407"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4agKTnzSwM",
+          "end": 29,
+          "expanded_url": "https://x.com/EinMensch_168/status/1913430964207800407/video/1",
+          "media_key": "7_1913430741200867328",
+          "start": 6,
+          "url": "https://t.co/4agKTnzSwM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913430964207800407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经费在燃烧 https://t.co/4agKTnzSwM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22800,
+        "height": 720,
+        "media_key": "7_1913430741200867328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1913430741200867328/pu/img/s3f9zgJRo4Xk5mU4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913430741200867328/pu/vid/avc1/320x320/G39cA6kQtV0ovPC4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913430741200867328/pu/vid/avc1/540x540/bDmJEbg0m45-Gi6W.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913430741200867328/pu/vid/avc1/720x720/G9E7H7RUozkRhOTH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1913430741200867328/pu/pl/74ZnTVVkb1IWinSa.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1913430741200867328"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "1913430964207800407",
+        "created_at": "2025-04-19T03:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T04:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913430964207800407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4agKTnzSwM",
+              "end": 29,
+              "expanded_url": "https://x.com/EinMensch_168/status/1913430964207800407/video/1",
+              "media_key": "7_1913430741200867328",
+              "start": 6,
+              "url": "https://t.co/4agKTnzSwM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913430964207800407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经费在燃烧 https://t.co/4agKTnzSwM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "マルクス主義/毛沢東主義/反官僚主義、形式主義/反抑圧搾取/平等を主張/学習中/中国人",
+        "id": "1659190798104297476",
+        "location": "世界の人々は団結している",
+        "name": "EinMensch🇨🇳",
+        "pinned_tweet_id": "1906716661366837264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884943704986714112/Bu12rl1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 105,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 35
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

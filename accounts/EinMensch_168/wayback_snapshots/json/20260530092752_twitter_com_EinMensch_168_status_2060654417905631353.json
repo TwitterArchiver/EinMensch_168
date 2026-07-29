@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2060653984323682721",
+    "created_at": "2026-05-30T09:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060654417905631353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2050276668066111488",
+          "start": 0,
+          "username": "4x6xa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060654417905631353",
+    "in_reply_to_user_id": "2050276668066111488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060653984323682721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4x6xa 怪异的动物"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060653978850119680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjp4D5bUAAXHJF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060653978837491712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjp4D2aoAAaSvg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060653978845884416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjp4D4asAA7zrO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2060653984323682721",
+        "created_at": "2026-05-30T09:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060654417905631353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2050276668066111488",
+              "start": 0,
+              "username": "4x6xa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060654417905631353",
+        "in_reply_to_user_id": "2050276668066111488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060653984323682721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4x6xa 怪异的动物"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060653978850119680",
+            "3_2060653978837491712",
+            "3_2060653978845884416"
+          ]
+        },
+        "author_id": "2050276668066111488",
+        "conversation_id": "2060653984323682721",
+        "created_at": "2026-05-30T09:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060653984323682721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uyGMEPrVvk",
+              "end": 26,
+              "expanded_url": "https://x.com/4x6xa/status/2060653984323682721/photo/1",
+              "media_key": "3_2060653978850119680",
+              "start": 3,
+              "url": "https://t.co/uyGMEPrVvk"
+            },
+            {
+              "display_url": "pic.x.com/uyGMEPrVvk",
+              "end": 26,
+              "expanded_url": "https://x.com/4x6xa/status/2060653984323682721/photo/1",
+              "media_key": "3_2060653978837491712",
+              "start": 3,
+              "url": "https://t.co/uyGMEPrVvk"
+            },
+            {
+              "display_url": "pic.x.com/uyGMEPrVvk",
+              "end": 26,
+              "expanded_url": "https://x.com/4x6xa/status/2060653984323682721/photo/1",
+              "media_key": "3_2060653978845884416",
+              "start": 3,
+              "url": "https://t.co/uyGMEPrVvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060653984323682721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "散歩 https://t.co/uyGMEPrVvk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 330,
+          "like_count": 3178,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 1268
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T18:11:08.000Z",
+        "description": "06 ⌇英文学科2年⌇二外🇨🇳 ⌇三外🇩🇪 ⌇INFP",
+        "id": "2050276668066111488",
+        "location": "ゆっくり返信，フォローバックします～！",
+        "name": "浪たりー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058648090790494208/uQz_FsT5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 432,
+          "like_count": 2688,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 466
+        },
+        "username": "4x6xa",
+        "verified": false
+      }
+    ]
+  }
+}

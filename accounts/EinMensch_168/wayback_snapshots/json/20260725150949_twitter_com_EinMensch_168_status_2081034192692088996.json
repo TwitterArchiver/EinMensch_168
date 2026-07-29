@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2069188406488563719",
+    "created_at": "2026-07-25T15:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081034192692088996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2024808750268461056",
+          "start": 0,
+          "username": "DiyanRanco2179"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081034192692088996",
+    "in_reply_to_user_id": "2024808750268461056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069188406488563719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DiyanRanco2179 在吗，我这边有急事找你，有人要自杀想问问你有没有线索"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2069188406488563719",
+        "created_at": "2026-07-25T15:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081034192692088996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2024808750268461056",
+              "start": 0,
+              "username": "DiyanRanco2179"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081034192692088996",
+        "in_reply_to_user_id": "2024808750268461056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069188406488563719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DiyanRanco2179 在吗，我这边有急事找你，有人要自杀想问问你有没有线索"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024808750268461056",
+        "conversation_id": "2069188406488563719",
+        "created_at": "2026-06-22T22:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T23:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069188406488563719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069188406488563719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私は猫派です"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "才清井泽",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 370,
+          "like_count": 3348,
+          "listed_count": 2,
+          "media_count": 309,
+          "tweet_count": 1498
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T11:30:11.000Z",
+        "description": "",
+        "id": "2024808750268461056",
+        "name": "Diyan Ranco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025977361901182978/Gw6FLxkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 37,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "DiyanRanco2179",
+        "verified": false
+      }
+    ]
+  }
+}

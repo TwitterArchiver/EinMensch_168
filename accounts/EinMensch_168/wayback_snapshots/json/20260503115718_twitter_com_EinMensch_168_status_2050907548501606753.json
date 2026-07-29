@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050907532106043392",
+        "3_2050907541979504640"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050907548501606753",
+    "created_at": "2026-05-03T11:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T12:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050907548501606753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xlnsPevbdE",
+          "end": 28,
+          "expanded_url": "https://x.com/EinMensch_168/status/2050907548501606753/photo/1",
+          "media_key": "3_2050907532106043392",
+          "start": 5,
+          "url": "https://t.co/xlnsPevbdE"
+        },
+        {
+          "display_url": "pic.x.com/xlnsPevbdE",
+          "end": 28,
+          "expanded_url": "https://x.com/EinMensch_168/status/2050907548501606753/photo/1",
+          "media_key": "3_2050907541979504640",
+          "start": 5,
+          "url": "https://t.co/xlnsPevbdE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050907548501606753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哪个好？ https://t.co/xlnsPevbdE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 785,
+        "media_key": "3_2050907532106043392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZJiMZakAAlg4i.jpg",
+        "width": 1611
+      },
+      {
+        "height": 785,
+        "media_key": "3_2050907541979504640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZJixLboAA40In.jpg",
+        "width": 1611
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050907532106043392",
+            "3_2050907541979504640"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050907548501606753",
+        "created_at": "2026-05-03T11:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T12:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050907548501606753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlnsPevbdE",
+              "end": 28,
+              "expanded_url": "https://x.com/EinMensch_168/status/2050907548501606753/photo/1",
+              "media_key": "3_2050907532106043392",
+              "start": 5,
+              "url": "https://t.co/xlnsPevbdE"
+            },
+            {
+              "display_url": "pic.x.com/xlnsPevbdE",
+              "end": 28,
+              "expanded_url": "https://x.com/EinMensch_168/status/2050907548501606753/photo/1",
+              "media_key": "3_2050907541979504640",
+              "start": 5,
+              "url": "https://t.co/xlnsPevbdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050907548501606753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪个好？ https://t.co/xlnsPevbdE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨我将持续思考如何整个狠活让我出名丨我将挑战性激素双低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2050379492401791461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050563509176672256/H_sZedmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 269,
+          "like_count": 2259,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 922
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      }
+    ]
+  }
+}

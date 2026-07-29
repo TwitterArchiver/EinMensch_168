@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "2079058634718269842",
+    "created_at": "2026-07-20T04:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079058634718269842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kotarou1014/st…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/kotarou1014/status/2078988337810231433",
+          "start": 46,
+          "url": "https://t.co/9693xdd2tO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079058634718269842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078988337810231433",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你喝茉莉花茶，其中的茉莉花可能就是目前正在受灾的横州产的，目前广西洪水带来灾难还在影响横州 https://t.co/9693xdd2tO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2079058634718269842",
+        "created_at": "2026-07-20T04:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079058634718269842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kotarou1014/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/kotarou1014/status/2078988337810231433",
+              "start": 46,
+              "url": "https://t.co/9693xdd2tO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079058634718269842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078988337810231433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你喝茉莉花茶，其中的茉莉花可能就是目前正在受灾的横州产的，目前广西洪水带来灾难还在影响横州 https://t.co/9693xdd2tO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400633114984992773",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2078988337810231433",
+        "created_at": "2026-07-19T23:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078988337810231433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078988337810231433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 184,
+                "start": 179,
+                "tag": "茉莉花茶"
+              },
+              {
+                "end": 189,
+                "start": 185,
+                "tag": "中国茶"
+              },
+              {
+                "end": 194,
+                "start": 190,
+                "tag": "求推荐"
+              }
+            ]
+          },
+          "text": "想请教一下中国的朋友们！🙏🍵\n\n之前在一家中餐厅喝到了一款特别好喝的茉莉花茶，一直到现在都忘不了那个味道。\n\n后来买了很多不同的茉莉花茶回来试，但始终没找到当时喝到的感觉🥲\n\n日本便利店和伊藤园的茉莉花茶不太符合我的口味。听店家说，他们的茶叶是从中国进口的。\n\n大家平时都喝什么牌子的茉莉花茶？有没有特别推荐的品牌或者茶叶？想参考一下大家的推荐，谢谢！✨\n\n#茉莉花茶 #中国茶 #求推荐"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2862,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想请教一下中国的朋友们！🙏🍵\n\n之前在一家中餐厅喝到了一款特别好喝的茉莉花茶，一直到现在都忘不了那个味道。\n\n后来买了很多不同的茉莉花茶回来试，但始终没找到当时喝到的感觉🥲\n\n日本便利店和伊藤园的茉莉花茶不太符合我的口味。听店家说，他们的茶叶是从中国进口的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "才清井泽",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 366,
+          "like_count": 3329,
+          "listed_count": 2,
+          "media_count": 304,
+          "tweet_count": 1480
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-04T01:59:15.000Z",
+        "description": "如月あろ 🇯🇵coser 関西 160cm エンドフィールドクリエイター｜ご依頼等はDMで🙇‍♂️\n 🌏ChatGPT翻訳で多言語対応🤖😂\nbilibili: https://t.co/b4RqpduB89",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/0LSJL98",
+                "end": 103,
+                "expanded_url": "https://b23.tv/0LSJL98",
+                "start": 80,
+                "url": "https://t.co/b4RqpduB89"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kotarou1014.booth.pm",
+                "end": 23,
+                "expanded_url": "https://kotarou1014.booth.pm",
+                "start": 0,
+                "url": "https://t.co/k67FZX1pav"
+              }
+            ]
+          }
+        },
+        "id": "1400633114984992773",
+        "location": "ff外通知🔕",
+        "name": "豪猫｜如月あろ",
+        "pinned_tweet_id": "2054522182441844903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912306349490200576/STM1Tbz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6954,
+          "following_count": 1010,
+          "like_count": 52955,
+          "listed_count": 65,
+          "media_count": 710,
+          "tweet_count": 52545
+        },
+        "url": "https://t.co/k67FZX1pav",
+        "username": "kotarou1014",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2048242865294492023",
+    "created_at": "2026-04-26T03:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T04:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048243283147788309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "85221173",
+          "start": 0,
+          "username": "daneishe888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048243283147788309",
+    "in_reply_to_user_id": "85221173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048242865294492023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daneishe888 中国教育一直主张都是日本普通民众没有错，错的是帝国主义和军国主义，中日两国民众有着共同的敌人，就是帝国主义和军国主义"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_2048242862551351296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzSCAwaQAAtVkw.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2048242863297990656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzSCDibEAAOEal.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2048242865294492023",
+        "created_at": "2026-04-26T03:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048243283147788309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "85221173",
+              "start": 0,
+              "username": "daneishe888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048243283147788309",
+        "in_reply_to_user_id": "85221173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048242865294492023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daneishe888 中国教育一直主张都是日本普通民众没有错，错的是帝国主义和军国主义，中日两国民众有着共同的敌人，就是帝国主义和军国主义"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048242862551351296",
+            "3_2048242863297990656"
+          ]
+        },
+        "author_id": "85221173",
+        "conversation_id": "2048242865294492023",
+        "created_at": "2026-04-26T03:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048242865294492023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RvrjtnuMDf",
+              "end": 166,
+              "expanded_url": "https://x.com/daneishe888/status/2048242865294492023/photo/1",
+              "media_key": "3_2048242862551351296",
+              "start": 143,
+              "url": "https://t.co/RvrjtnuMDf"
+            },
+            {
+              "display_url": "pic.x.com/RvrjtnuMDf",
+              "end": 166,
+              "expanded_url": "https://x.com/daneishe888/status/2048242865294492023/photo/1",
+              "media_key": "3_2048242863297990656",
+              "start": 143,
+              "url": "https://t.co/RvrjtnuMDf"
+            },
+            {
+              "display_url": "x.com/wink1280442/st…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/wink1280442/status/2048168162009473188",
+              "start": 167,
+              "url": "https://t.co/ON2Gkbuudi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048242865294492023",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048168162009473188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "VPNは使っておらず実際に日本国内からの投稿。日本人か台湾人による成りすましアカウントでしょうか。\n\n中国共産党が反日教育を行なってるなんて嘘八百もいいところ。むしろ一般の日本国民も被害者だという教育で洗脳してますね。当時も今も日本人庶民はほぼ全てが中国崩壊を望む準帝国主義者なのに🥱 https://t.co/RvrjtnuMDf https://t.co/ON2Gkbuudi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃2.1，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。🏳️‍🌈🏳️‍⚧️🏳️*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2047937776952484215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 239,
+          "like_count": 1739,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 795
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-26T02:41:51.000Z",
+        "description": "日中友好！我是会说中文的有良心日本人，三观正常☺️手机=Find X8s、中国留学経験あり中国語のみで会話可😃情報処理安全確保支援士/ネットワークスペシャリスト、課長職、好きなTVゲームはシェンムー、メガドライブ版アドバンスド大戦略、A列車で行こう4／3DS、グラディウスⅢ😉中国人との恋愛経験複数、日本人は0😆",
+        "id": "85221173",
+        "location": "Tokyo-to, Japan",
+        "name": "she888🇯🇵🤝🇨🇳日中友好！",
+        "pinned_tweet_id": "1281189599285374977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223411646850199552/SOc4SFe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4238,
+          "following_count": 276,
+          "like_count": 101209,
+          "listed_count": 20,
+          "media_count": 3645,
+          "tweet_count": 79685
+        },
+        "username": "daneishe888",
+        "verified": false
+      }
+    ]
+  }
+}

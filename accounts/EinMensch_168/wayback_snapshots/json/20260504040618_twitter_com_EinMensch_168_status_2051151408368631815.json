@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2051139930861277260",
+    "created_at": "2026-05-04T04:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T05:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051151408368631815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1833491107503869956",
+          "start": 0,
+          "username": "lyjjlch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051151408368631815",
+    "in_reply_to_user_id": "1833491107503869956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051150946315706693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyjjlch 融为了一体，形式上看着成了一个个体，本质上是两个意识两个个体，在旁人看来这种对话只是自言自语，但实质上是两个个体两个意识的交流，所以这种自言自语也算对话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2051139930861277260",
+        "created_at": "2026-05-04T04:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051151408368631815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1833491107503869956",
+              "start": 0,
+              "username": "lyjjlch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051151408368631815",
+        "in_reply_to_user_id": "1833491107503869956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051150946315706693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyjjlch 融为了一体，形式上看着成了一个个体，本质上是两个意识两个个体，在旁人看来这种对话只是自言自语，但实质上是两个个体两个意识的交流，所以这种自言自语也算对话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833491107503869956",
+        "conversation_id": "2051139930861277260",
+        "created_at": "2026-05-04T04:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051150946315706693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051150946315706693",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051139930861277260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 我和你融为一体的话，是不是自言自语也能算对话？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨我将持续思考如何整个狠活让我出名丨我将挑战性激素双低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2050968410188820804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050563509176672256/H_sZedmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 276,
+          "like_count": 2398,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 970
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-10T13:02:09.000Z",
+        "description": "Open-source software developer\nFood lover\n我永远深爱着我的祖国♥️\n关爱心理健康，拒绝OD/自残/兽药！\n对药物感兴趣但仅限理论！！！\n让我们拥抱更美好的明天\n喜欢贴贴，贴贴好耶！",
+        "id": "1833491107503869956",
+        "name": "某人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010216087665967104/XmGGooWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 33,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 50
+        },
+        "username": "lyjjlch",
+        "verified": false
+      }
+    ]
+  }
+}

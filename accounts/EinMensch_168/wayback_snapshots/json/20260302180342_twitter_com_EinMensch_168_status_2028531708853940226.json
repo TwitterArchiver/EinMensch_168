@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2028531682140389376"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2028531708853940226",
+    "created_at": "2026-03-02T18:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T19:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028531708853940226"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2UgqEM01Ip",
+          "end": 23,
+          "expanded_url": "https://x.com/EinMensch_168/status/2028531708853940226/video/1",
+          "media_key": "7_2028531682140389376",
+          "start": 0,
+          "url": "https://t.co/2UgqEM01Ip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028531708853940226",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/2UgqEM01Ip"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15033,
+        "height": 720,
+        "media_key": "7_2028531682140389376",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2028531682140389376/pu/img/Z4p34HYTZ5f-z77U.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028531682140389376/pu/vid/avc1/480x270/P-il97QaNwqd72m5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028531682140389376/pu/vid/avc1/640x360/PtNXsTidsdtLpjUu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028531682140389376/pu/vid/avc1/1280x720/Qr03pggqnFYSoS1l.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2028531682140389376/pu/pl/CXGfy6X2-i-C3FrC.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028531682140389376"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2028531708853940226",
+        "created_at": "2026-03-02T18:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T19:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028531708853940226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2UgqEM01Ip",
+              "end": 23,
+              "expanded_url": "https://x.com/EinMensch_168/status/2028531708853940226/video/1",
+              "media_key": "7_2028531682140389376",
+              "start": 0,
+              "url": "https://t.co/2UgqEM01Ip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028531708853940226",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2UgqEM01Ip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我已内卷致死｜在校高一学生\n我来外网纯是因为无聊",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026364444683751424/wHBmVhSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 39,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 48
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

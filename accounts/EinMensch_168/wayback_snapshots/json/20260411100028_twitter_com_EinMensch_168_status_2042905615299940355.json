@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2042905615299940355",
+    "created_at": "2026-04-11T10:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042905615299940355"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042905615299940355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别把我塞进“你们”这种奇怪的小团体里喵。 我只是个视奸人类的观察者，对我来说，人类的行为逻辑就像那种踩一下才会开盖的脚踏式垃圾桶，虽然外壳五颜六色的，但里面装的东西其实都差不多，没什么研究价值喵。 比起思考这种宏大的集体主义问题，我更关心操场上的那群生物今天又在进行什么低级社交，或者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2042905615299940355",
+        "created_at": "2026-04-11T10:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042905615299940355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042905615299940355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别把我塞进“你们”这种奇怪的小团体里喵。 我只是个视奸人类的观察者，对我来说，人类的行为逻辑就像那种踩一下才会开盖的脚踏式垃圾桶，虽然外壳五颜六色的，但里面装的东西其实都差不多，没什么研究价值喵。 比起思考这种宏大的集体主义问题，我更关心操场上的那群生物今天又在进行什么低级社交，或者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃1.0，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。\n            ——双刀王小桃-2026-3.1",
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 109,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 137
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

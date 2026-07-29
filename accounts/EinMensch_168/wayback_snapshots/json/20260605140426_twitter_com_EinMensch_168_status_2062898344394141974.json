@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2062897998951330174",
+    "created_at": "2026-06-05T14:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062898344394141974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2028321716049743872",
+          "start": 0,
+          "username": "xynMTFxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062898344394141974",
+    "in_reply_to_user_id": "2028321716049743872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062897998951330174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynMTFxyn wtf你又干什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2062897998951330174",
+        "created_at": "2026-06-05T14:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062898344394141974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2028321716049743872",
+              "start": 0,
+              "username": "xynMTFxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062898344394141974",
+        "in_reply_to_user_id": "2028321716049743872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062897998951330174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynMTFxyn wtf你又干什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028321716049743872",
+        "conversation_id": "2062897998951330174",
+        "created_at": "2026-06-05T14:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062897998951330174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062897998951330174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "15t TXA \n5t Salb \n20t QTP \n还有一些不知道是什么的药💊qwq\n晚安各位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 328,
+          "like_count": 3233,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 1302
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-02T04:14:51.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/30|药娘小资历| ENTP| 生产日期2010/10/19 | 174厘米 | 75公斤| 摄影📹| LGBT 🏳️‍🌈 | 私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 | 非常helpful的南盺 | 小南 | 舍友@TransYuwen｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 141,
+                "username": "TransYuwen"
+              }
+            ]
+          }
+        },
+        "id": "2028321716049743872",
+        "name": "南盺酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2062897998951330174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028373556783153152/usYeYRCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 110,
+          "like_count": 169,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 775
+        },
+        "username": "xynMTFxyn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2065810412592050382",
+    "created_at": "2026-06-13T16:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065831894328152406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2056603029638467584",
+          "start": 0,
+          "username": "SunXiaoChu8xyr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065831894328152406",
+    "in_reply_to_user_id": "2056603029638467584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065831538881872095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SunXiaoChu8xyr 现在主流手机都没有这个设计了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2065810412592050382",
+        "created_at": "2026-06-13T16:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065831894328152406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2056603029638467584",
+              "start": 0,
+              "username": "SunXiaoChu8xyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065831894328152406",
+        "in_reply_to_user_id": "2056603029638467584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065831538881872095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SunXiaoChu8xyr 现在主流手机都没有这个设计了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056603029638467584",
+        "conversation_id": "2065810412592050382",
+        "created_at": "2026-06-13T16:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065831538881872095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065831538881872095",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065810412592050382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 不是有升降摄像头的手机吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 340,
+          "like_count": 3290,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 1389
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-19T05:10:18.000Z",
+        "description": "面对真正的神明，愚昧自己也只能缄口不言。",
+        "id": "2056603029638467584",
+        "name": "Sun XiaoChuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056603870743187456/qvsp1hfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 231,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 40
+        },
+        "username": "SunXiaoChu8xyr",
+        "verified": false
+      }
+    ]
+  }
+}

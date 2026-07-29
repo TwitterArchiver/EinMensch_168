@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2045566223379820784",
+    "created_at": "2026-04-18T18:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T19:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045566758887772322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1223415775278428160",
+          "start": 0,
+          "username": "sophhhsama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045566758887772322",
+    "in_reply_to_user_id": "1223415775278428160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045566223379820784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sophhhsama 不要想不开，要好好活着"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 302,
+        "media_key": "3_2045566217776508928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGNPox8bsAAn4qh.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2045566223379820784",
+        "created_at": "2026-04-18T18:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T19:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045566758887772322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1223415775278428160",
+              "start": 0,
+              "username": "sophhhsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045566758887772322",
+        "in_reply_to_user_id": "1223415775278428160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045566223379820784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophhhsama 不要想不开，要好好活着"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045566217776508928"
+          ]
+        },
+        "author_id": "1223415775278428160",
+        "conversation_id": "2045566223379820784",
+        "created_at": "2026-04-18T18:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T19:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045566223379820784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wfnGizQxr4",
+              "end": 104,
+              "expanded_url": "https://x.com/sophhhsama/status/2045566223379820784/photo/1",
+              "media_key": "3_2045566217776508928",
+              "start": 81,
+              "url": "https://t.co/wfnGizQxr4"
+            },
+            {
+              "display_url": "x.com/dorothy1614926…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/dorothy1614926/status/2045496505176662339",
+              "start": 105,
+              "url": "https://t.co/hB21fgeVYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045566223379820784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045496505176662339",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1 2 3 都试过了\n怎么痛苦还在呢\n小猫会继续努力的\n小猫爱身边每一个人 脑里一直有个列表\n如果离开的时候 要给谁写告别信\n也挺多人的喵\n希望那些信不会被用上 https://t.co/wfnGizQxr4 https://t.co/hB21fgeVYW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃2.1，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。\n            ——双刀王小桃-2026-3.1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2040416708238954882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 169,
+          "like_count": 755,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 430
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-01T01:20:42.000Z",
+        "description": "🏳️‍⚧️ mtx/f | 可以叫我小猫/sophie/soph 想到什么发什么 07 | 超温柔的姐姐 @tingxinzhongyu | 二号机 @sophhhsama2 | 现生好鸽们 @slclst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "tingxinzhongyu"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "sophhhsama2"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "username": "slclst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sophhh35957",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sophhh35957",
+                "start": 0,
+                "url": "https://t.co/IVCvu9866k"
+              }
+            ]
+          }
+        },
+        "id": "1223415775278428160",
+        "location": "喵星",
+        "name": "小猫不可爱 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042633582007783424/GAN8S8Kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 339,
+          "like_count": 12324,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 1827
+        },
+        "url": "https://t.co/IVCvu9866k",
+        "username": "sophhhsama",
+        "verified": false
+      }
+    ]
+  }
+}

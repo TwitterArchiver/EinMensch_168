@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051138196390682624",
+        "3_2051138201721712640",
+        "3_2051138209556623360",
+        "3_2051138220776402944"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051138228259115026",
+    "created_at": "2026-05-04T03:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T04:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051138228259115026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IAE8CVRyYC",
+          "end": 51,
+          "expanded_url": "https://x.com/EinMensch_168/status/2051138228259115026/photo/1",
+          "media_key": "3_2051138196390682624",
+          "start": 28,
+          "url": "https://t.co/IAE8CVRyYC"
+        },
+        {
+          "display_url": "pic.x.com/IAE8CVRyYC",
+          "end": 51,
+          "expanded_url": "https://x.com/EinMensch_168/status/2051138228259115026/photo/1",
+          "media_key": "3_2051138201721712640",
+          "start": 28,
+          "url": "https://t.co/IAE8CVRyYC"
+        },
+        {
+          "display_url": "pic.x.com/IAE8CVRyYC",
+          "end": 51,
+          "expanded_url": "https://x.com/EinMensch_168/status/2051138228259115026/photo/1",
+          "media_key": "3_2051138209556623360",
+          "start": 28,
+          "url": "https://t.co/IAE8CVRyYC"
+        },
+        {
+          "display_url": "pic.x.com/IAE8CVRyYC",
+          "end": 51,
+          "expanded_url": "https://x.com/EinMensch_168/status/2051138228259115026/photo/1",
+          "media_key": "3_2051138220776402944",
+          "start": 28,
+          "url": "https://t.co/IAE8CVRyYC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051138228259115026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上架了网易，但是无法直接被搜到［防卫室室长不知火花耶］ https://t.co/IAE8CVRyYC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 128,
+        "media_key": "3_2051138196390682624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcbUn0aIAATcMW.jpg",
+        "width": 128
+      },
+      {
+        "height": 1264,
+        "media_key": "3_2051138201721712640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcbU7rbMAAvmUg.jpg",
+        "width": 2736
+      },
+      {
+        "height": 903,
+        "media_key": "3_2051138209556623360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcbVY3acAAAt4N.jpg",
+        "width": 923
+      },
+      {
+        "height": 2435,
+        "media_key": "3_2051138220776402944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcbWCqasAAVefU.jpg",
+        "width": 567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051138196390682624",
+            "3_2051138201721712640",
+            "3_2051138209556623360",
+            "3_2051138220776402944"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051138228259115026",
+        "created_at": "2026-05-04T03:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051138228259115026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IAE8CVRyYC",
+              "end": 51,
+              "expanded_url": "https://x.com/EinMensch_168/status/2051138228259115026/photo/1",
+              "media_key": "3_2051138196390682624",
+              "start": 28,
+              "url": "https://t.co/IAE8CVRyYC"
+            },
+            {
+              "display_url": "pic.x.com/IAE8CVRyYC",
+              "end": 51,
+              "expanded_url": "https://x.com/EinMensch_168/status/2051138228259115026/photo/1",
+              "media_key": "3_2051138201721712640",
+              "start": 28,
+              "url": "https://t.co/IAE8CVRyYC"
+            },
+            {
+              "display_url": "pic.x.com/IAE8CVRyYC",
+              "end": 51,
+              "expanded_url": "https://x.com/EinMensch_168/status/2051138228259115026/photo/1",
+              "media_key": "3_2051138209556623360",
+              "start": 28,
+              "url": "https://t.co/IAE8CVRyYC"
+            },
+            {
+              "display_url": "pic.x.com/IAE8CVRyYC",
+              "end": 51,
+              "expanded_url": "https://x.com/EinMensch_168/status/2051138228259115026/photo/1",
+              "media_key": "3_2051138220776402944",
+              "start": 28,
+              "url": "https://t.co/IAE8CVRyYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051138228259115026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上架了网易，但是无法直接被搜到［防卫室室长不知火花耶］ https://t.co/IAE8CVRyYC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨我将持续思考如何整个狠活让我出名丨我将挑战性激素双低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2050968410188820804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050563509176672256/H_sZedmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 276,
+          "like_count": 2366,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      }
+    ]
+  }
+}

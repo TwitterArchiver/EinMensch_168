@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2050226204037546312",
+    "created_at": "2026-05-01T14:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T15:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050228346873864372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1895463022367498240",
+          "start": 0,
+          "username": "never_noticee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050228346873864372",
+    "in_reply_to_user_id": "1895463022367498240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050228119659794677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@never_noticee 因为这已是共识，不必言说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2050226204037546312",
+        "created_at": "2026-05-01T14:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050228346873864372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1895463022367498240",
+              "start": 0,
+              "username": "never_noticee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050228346873864372",
+        "in_reply_to_user_id": "1895463022367498240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050228119659794677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@never_noticee 因为这已是共识，不必言说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895463022367498240",
+        "conversation_id": "2050226204037546312",
+        "created_at": "2026-05-01T14:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050228119659794677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050228119659794677",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050226204037546312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 怎么不是天然蠢废了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10下旬生人丨不OD不割手丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 255,
+          "like_count": 2010,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 855
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-28T13:16:44.000Z",
+        "description": "日常水推/日常帖/bot",
+        "id": "1895463022367498240",
+        "location": "United States",
+        "name": "落叶sour-ce",
+        "pinned_tweet_id": "2042988602951430422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045451931754319872/pVp-K_EW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 57,
+          "like_count": 1030,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 302
+        },
+        "username": "never_noticee",
+        "verified": false
+      }
+    ]
+  }
+}

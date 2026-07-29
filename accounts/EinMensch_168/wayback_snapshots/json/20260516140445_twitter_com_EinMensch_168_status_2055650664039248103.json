@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055650659618439168",
+        "3_2055650659811364864"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2055650664039248103",
+    "created_at": "2026-05-16T14:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055650664039248103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dQaUWjdvYP",
+          "end": 29,
+          "expanded_url": "https://x.com/EinMensch_168/status/2055650664039248103/photo/1",
+          "media_key": "3_2055650659618439168",
+          "start": 6,
+          "url": "https://t.co/dQaUWjdvYP"
+        },
+        {
+          "display_url": "pic.x.com/dQaUWjdvYP",
+          "end": 29,
+          "expanded_url": "https://x.com/EinMensch_168/status/2055650664039248103/photo/1",
+          "media_key": "3_2055650659811364864",
+          "start": 6,
+          "url": "https://t.co/dQaUWjdvYP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055650664039248103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有人来 https://t.co/dQaUWjdvYP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055650659618439168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcjYjTawAAls28.jpg",
+        "width": 710
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055650659811364864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcjYkBakAAMBoV.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055650659618439168",
+            "3_2055650659811364864"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2055650664039248103",
+        "created_at": "2026-05-16T14:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055650664039248103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dQaUWjdvYP",
+              "end": 29,
+              "expanded_url": "https://x.com/EinMensch_168/status/2055650664039248103/photo/1",
+              "media_key": "3_2055650659618439168",
+              "start": 6,
+              "url": "https://t.co/dQaUWjdvYP"
+            },
+            {
+              "display_url": "pic.x.com/dQaUWjdvYP",
+              "end": 29,
+              "expanded_url": "https://x.com/EinMensch_168/status/2055650664039248103/photo/1",
+              "media_key": "3_2055650659811364864",
+              "start": 6,
+              "url": "https://t.co/dQaUWjdvYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055650664039248103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人来 https://t.co/dQaUWjdvYP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10年下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨尽力让自己变得更好丨我在学习与研究",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 328,
+          "like_count": 3051,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 1182
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956249158194749440"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "1956249160832966720",
+    "created_at": "2025-08-15T06:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T07:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956249160832966720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q2B85qc9eT",
+          "end": 29,
+          "expanded_url": "https://x.com/EinMensch_168/status/1956249160832966720/photo/1",
+          "media_key": "3_1956249158194749440",
+          "start": 6,
+          "url": "https://t.co/q2B85qc9eT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956249160832966720",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "emmmm https://t.co/q2B85qc9eT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1956249158194749440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyX-PqZa4AA2y1E.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956249158194749440"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "1956249160832966720",
+        "created_at": "2025-08-15T06:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T07:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956249160832966720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q2B85qc9eT",
+              "end": 29,
+              "expanded_url": "https://x.com/EinMensch_168/status/1956249160832966720/photo/1",
+              "media_key": "3_1956249158194749440",
+              "start": 6,
+              "url": "https://t.co/q2B85qc9eT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956249160832966720",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "emmmm https://t.co/q2B85qc9eT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "マルクス主義/毛沢東主義/反官僚主義、形式主義/反抑圧搾取/プロレタリア国際主義/平等を主張/学習中/中国人",
+        "id": "1659190798104297476",
+        "location": "世界の人々は団結している",
+        "name": "潘国平",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884943704986714112/Bu12rl1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 121,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 36
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

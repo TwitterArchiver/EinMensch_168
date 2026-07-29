@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2045419919127552371",
+    "created_at": "2026-04-18T17:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T18:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045558219645637103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1719717819648987136",
+          "start": 0,
+          "username": "Bolic73324S"
+        },
+        {
+          "end": 22,
+          "id": "1589809419822329857",
+          "start": 13,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045558219645637103",
+    "in_reply_to_user_id": "1719717819648987136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045557956465263032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bolic73324S @jianlvup 空间被铁砂替代排出去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2045419919127552371",
+        "created_at": "2026-04-18T17:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045558219645637103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1719717819648987136",
+              "start": 0,
+              "username": "Bolic73324S"
+            },
+            {
+              "end": 22,
+              "id": "1589809419822329857",
+              "start": 13,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045558219645637103",
+        "in_reply_to_user_id": "1719717819648987136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045557956465263032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bolic73324S @jianlvup 空间被铁砂替代排出去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719717819648987136",
+        "conversation_id": "2045419919127552371",
+        "created_at": "2026-04-18T17:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045557956465263032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            },
+            {
+              "end": 24,
+              "id": "1589809419822329857",
+              "start": 15,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045557956465263032",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045439671615029720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 @jianlvup 等一下，水哪儿去了🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃2.1，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。\n            ——双刀王小桃-2026-3.1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2040416708238954882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 169,
+          "like_count": 737,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 426
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-01T14:07:46.000Z",
+        "description": "",
+        "id": "1719717819648987136",
+        "name": "Bolic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725149288714407936/L93sMD4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 8,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 694
+        },
+        "username": "Bolic73324S",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "为爱发电",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2044942277421010966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17134,
+          "following_count": 1454,
+          "like_count": 78639,
+          "listed_count": 60,
+          "media_count": 2994,
+          "tweet_count": 6271
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

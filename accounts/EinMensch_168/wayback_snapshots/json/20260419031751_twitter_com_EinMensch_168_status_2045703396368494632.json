@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2045703099378274707",
+    "created_at": "2026-04-19T03:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T04:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045703396368494632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "85221173",
+          "start": 0,
+          "username": "daneishe888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045703396368494632",
+    "in_reply_to_user_id": "85221173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045703099378274707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daneishe888 中国的制造业一直非常强大，生产出来的东西价格低廉且质量优秀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2045703099378274707",
+        "created_at": "2026-04-19T03:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T04:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045703396368494632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "85221173",
+              "start": 0,
+              "username": "daneishe888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045703396368494632",
+        "in_reply_to_user_id": "85221173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045703099378274707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daneishe888 中国的制造业一直非常强大，生产出来的东西价格低廉且质量优秀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "85221173",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "TV Asahi (テレビ朝日)",
+              "id": "1034874547688730624",
+              "name": "TV Asahi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TV Asahi (テレビ朝日)",
+              "id": "1034874547688730624",
+              "name": "TV Asahi"
+            }
+          }
+        ],
+        "conversation_id": "2045703099378274707",
+        "created_at": "2026-04-19T03:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T04:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045703099378274707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045703099378274707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日もテレビ朝日で脱中国とか嬉々として解説している。まあ日本だけ勝手に脱中国してればいいんじゃない？他の国は日本と関係なく中国と取引するし🥱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃2.1，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。🏳️‍🌈🏳️‍⚧️🏳️*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2040416708238954882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 180,
+          "like_count": 863,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-26T02:41:51.000Z",
+        "description": "日中友好！我是会说中文的有良心日本人，三观正常☺️手机=Find X8s、中国留学経験あり中国語のみで会話可😃情報処理安全確保支援士/ネットワークスペシャリスト、課長職、好きなTVゲームはシェンムー、メガドライブ版アドバンスド大戦略、A列車で行こう4／3DS、グラディウスⅢ😉中国人との恋愛経験複数、日本人は0😆",
+        "id": "85221173",
+        "location": "Tokyo-to, Japan",
+        "name": "she888🇯🇵🤝🇨🇳日中友好！",
+        "pinned_tweet_id": "1281189599285374977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223411646850199552/SOc4SFe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4069,
+          "following_count": 273,
+          "like_count": 100520,
+          "listed_count": 18,
+          "media_count": 3619,
+          "tweet_count": 79334
+        },
+        "username": "daneishe888",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2045473282804339133",
+    "created_at": "2026-04-18T12:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T13:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045473438467596422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764195010986274816",
+          "start": 0,
+          "username": "CCA8798"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045473438467596422",
+    "in_reply_to_user_id": "1764195010986274816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045473282804339133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCA8798 我一直在看法医图鉴，所以大部分死法我都能联想到有些东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2045473282804339133",
+        "created_at": "2026-04-18T12:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045473438467596422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764195010986274816",
+              "start": 0,
+              "username": "CCA8798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045473438467596422",
+        "in_reply_to_user_id": "1764195010986274816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045473282804339133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798 我一直在看法医图鉴，所以大部分死法我都能联想到有些东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764195010986274816",
+        "conversation_id": "2045473282804339133",
+        "created_at": "2026-04-18T12:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045473282804339133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuKi520OwO/sta…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/YuKi520OwO/status/2045257951141826798",
+              "start": 91,
+              "url": "https://t.co/NKSu3QYKYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045473282804339133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045257951141826798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好害怕\n突然看见某人死亡的消息\n因为曾经看过有关死亡，(不明)尸体，各种死法的照片\n所以脑子里会浮现出各种医学死亡的相关资料，包括可视化的心电图，肌电，指标变化\n和自己亲历死亡一样 https://t.co/NKSu3QYKYA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃2.1，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。\n            ——双刀王小桃-2026-3.1",
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2040416708238954882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 146,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 332
+        },
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "半MTF🍥南梁 | 含糖 | 165cm/41kg | 住在佛山 |  偏内向 怕生 玻璃心 想被凿 重抑焦虑不OD 平等地尊重同样尊重我的人 | 炫压抑高手 | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 有2台服务器 | 爱玩战雷/P3D/Roblox… \n人机能不能远离我",
+        "id": "1764195010986274816",
+        "name": "不会起名の捌拐玖捌🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043188404326899712/zqXCx5jU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 214,
+          "like_count": 4486,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 339
+        },
+        "username": "CCA8798",
+        "verified": true
+      }
+    ]
+  }
+}

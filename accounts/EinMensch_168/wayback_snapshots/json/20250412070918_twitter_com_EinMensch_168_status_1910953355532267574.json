@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1910953325958164480"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "1910953355532267574",
+    "created_at": "2025-04-12T07:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T08:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910953355532267574"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 6,
+          "normalized_text": "中山スーツ",
+          "probability": 0.316,
+          "start": 2,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YrFFknpOnk",
+          "end": 31,
+          "expanded_url": "https://x.com/EinMensch_168/status/1910953355532267574/photo/1",
+          "media_key": "3_1910953325958164480",
+          "start": 8,
+          "url": "https://t.co/YrFFknpOnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910953355532267574",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "私の中山スーツ https://t.co/YrFFknpOnk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1910953325958164480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoUR7OAWcAAs1qs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910953325958164480"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "1910953355532267574",
+        "created_at": "2025-04-12T07:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T08:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910953355532267574"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "中山スーツ",
+              "probability": 0.316,
+              "start": 2,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YrFFknpOnk",
+              "end": 31,
+              "expanded_url": "https://x.com/EinMensch_168/status/1910953355532267574/photo/1",
+              "media_key": "3_1910953325958164480",
+              "start": 8,
+              "url": "https://t.co/YrFFknpOnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910953355532267574",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私の中山スーツ https://t.co/YrFFknpOnk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "マルクス主義/毛沢東主義/反官僚主義、形式主義/反抑圧搾取/平等を主張/学習中/中国人",
+        "id": "1659190798104297476",
+        "location": "世界の人々は団結している",
+        "name": "EinMensch🇨🇳",
+        "pinned_tweet_id": "1906716661366837264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884943704986714112/Bu12rl1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 98,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 32
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

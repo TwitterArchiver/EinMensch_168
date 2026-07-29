@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2051148925638410411",
+    "created_at": "2026-05-04T04:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T05:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051150147883769964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2012831008148869120",
+          "start": 0,
+          "username": "upgJfljc7x18330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051150147883769964",
+    "in_reply_to_user_id": "2012831008148869120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051149816307286522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@upgJfljc7x18330 男娘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2051148925638410411",
+        "created_at": "2026-05-04T04:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051150147883769964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2012831008148869120",
+              "start": 0,
+              "username": "upgJfljc7x18330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051150147883769964",
+        "in_reply_to_user_id": "2012831008148869120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051149816307286522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@upgJfljc7x18330 男娘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012831008148869120",
+        "conversation_id": "2051148925638410411",
+        "created_at": "2026-05-04T03:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051149816307286522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051149816307286522",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051148925638410411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 那伪君子呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨我将持续思考如何整个狠活让我出名丨我将挑战性激素双低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2050968410188820804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050563509176672256/H_sZedmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 276,
+          "like_count": 2394,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 969
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T10:14:51.000Z",
+        "description": "泛/糖人/不涉政/小楚男/11.10.19",
+        "id": "2012831008148869120",
+        "location": "3.1km",
+        "name": "情緒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050474494658297857/Lh5vdTTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 40,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 362
+        },
+        "username": "upgJfljc7x18330",
+        "verified": false
+      }
+    ]
+  }
+}

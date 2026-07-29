@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2028258719956664552",
+    "created_at": "2026-03-02T18:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T19:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028533436005368114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1500955099040038915",
+          "start": 0,
+          "username": "MaQinghong"
+        },
+        {
+          "end": 22,
+          "id": "753297307",
+          "start": 12,
+          "username": "Lily0727K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028533436005368114",
+    "in_reply_to_user_id": "1500955099040038915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028532059904299067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaQinghong @Lily0727K 国语差成这样赶紧去重修，九年义务教育不要钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2028258719956664552",
+        "created_at": "2026-03-02T18:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T19:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028533436005368114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1500955099040038915",
+              "start": 0,
+              "username": "MaQinghong"
+            },
+            {
+              "end": 22,
+              "id": "753297307",
+              "start": 12,
+              "username": "Lily0727K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028533436005368114",
+        "in_reply_to_user_id": "1500955099040038915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028532059904299067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaQinghong @Lily0727K 国语差成这样赶紧去重修，九年义务教育不要钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500955099040038915",
+        "conversation_id": "2028258719956664552",
+        "created_at": "2026-03-02T18:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T19:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028532059904299067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            },
+            {
+              "end": 25,
+              "id": "753297307",
+              "start": 15,
+              "username": "Lily0727K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028532059904299067",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028322076285960321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 @Lily0727K 笑死人，像你这种低智商的就别出来吠了，还他娘的歧视经济不发达地区的人……🤔🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我已内卷致死｜在校高一学生\n我来外网纯是因为无聊",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026364444683751424/wHBmVhSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 39,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 50
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T22:03:03.000Z",
+        "description": "起来，不愿做奴隶的人们……",
+        "id": "1500955099040038915",
+        "location": "Mars",
+        "name": "乌鸦",
+        "pinned_tweet_id": "1639447949817294848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1512371842392236032/y7jm5FaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 96,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 688
+        },
+        "username": "MaQinghong",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-12T15:25:01.000Z",
+        "description": "東京大学医学部卒。元血液内科専門医。令和元年Googleのソフトウェアエンジニアに転職しました。今は世界最強のポーカープレイヤーを目指しています。ツイートは個人の意見であり会社を代表しません。趣味はIIDX中伝。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.mu/nekochan0214",
+                "end": 23,
+                "expanded_url": "https://note.mu/nekochan0214",
+                "start": 0,
+                "url": "https://t.co/0xV3kNFxbu"
+              }
+            ]
+          }
+        },
+        "id": "753297307",
+        "location": "Travelling around the world",
+        "name": "Lillian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1118109707044917249/aMCIyW1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60283,
+          "following_count": 8,
+          "like_count": 15383,
+          "listed_count": 477,
+          "media_count": 3446,
+          "tweet_count": 40518
+        },
+        "url": "https://t.co/0xV3kNFxbu",
+        "username": "Lily0727K",
+        "verified": true
+      }
+    ]
+  }
+}

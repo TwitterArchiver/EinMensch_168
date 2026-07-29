@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1115703486639788032",
+          "name": "Studio Ghibli"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1115703486639788032",
+          "name": "Studio Ghibli"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339352163508600832",
+          "name": "Animation studios"
+        }
+      }
+    ],
+    "conversation_id": "1906926074681799028",
+    "created_at": "2025-04-01T04:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T05:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906926074681799028"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IDF/status/190…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/IDF/status/1906379841500254515",
+          "start": 17,
+          "url": "https://t.co/9sbV0suF8h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906926074681799028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906379841500254515",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "令人作呕🤮施暴者还在尝试美化自己 https://t.co/9sbV0suF8h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1906379833824673792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnTSW8IWgAAT49t.jpg",
+        "width": 1024
+      },
+      {
+        "height": 715,
+        "media_key": "3_1906379833967280128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnTSW8qWgAA02TW.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1906379833778577408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnTSW79XIAABofZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1906379833770147840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnTSW77WgAA789d.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1115703486639788032",
+              "name": "Studio Ghibli"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1115703486639788032",
+              "name": "Studio Ghibli"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          }
+        ],
+        "conversation_id": "1906926074681799028",
+        "created_at": "2025-04-01T04:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906926074681799028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IDF/status/190…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/IDF/status/1906379841500254515",
+              "start": 17,
+              "url": "https://t.co/9sbV0suF8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906926074681799028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906379841500254515",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "令人作呕🤮施暴者还在尝试美化自己 https://t.co/9sbV0suF8h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906379833824673792",
+            "3_1906379833967280128",
+            "3_1906379833778577408",
+            "3_1906379833770147840"
+          ]
+        },
+        "author_id": "18576537",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1115703486639788032",
+              "name": "Studio Ghibli"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1115703486639788032",
+              "name": "Studio Ghibli"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          }
+        ],
+        "conversation_id": "1906379841500254515",
+        "created_at": "2025-03-30T16:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T17:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906379841500254515"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Ghibli",
+              "probability": 0.5452,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fdmUfn3o4o",
+              "end": 69,
+              "expanded_url": "https://x.com/IDF/status/1906379841500254515/photo/1",
+              "media_key": "3_1906379833824673792",
+              "start": 46,
+              "url": "https://t.co/fdmUfn3o4o"
+            },
+            {
+              "display_url": "pic.x.com/fdmUfn3o4o",
+              "end": 69,
+              "expanded_url": "https://x.com/IDF/status/1906379841500254515/photo/1",
+              "media_key": "3_1906379833967280128",
+              "start": 46,
+              "url": "https://t.co/fdmUfn3o4o"
+            },
+            {
+              "display_url": "pic.x.com/fdmUfn3o4o",
+              "end": 69,
+              "expanded_url": "https://x.com/IDF/status/1906379841500254515/photo/1",
+              "media_key": "3_1906379833778577408",
+              "start": 46,
+              "url": "https://t.co/fdmUfn3o4o"
+            },
+            {
+              "display_url": "pic.x.com/fdmUfn3o4o",
+              "end": 69,
+              "expanded_url": "https://x.com/IDF/status/1906379841500254515/photo/1",
+              "media_key": "3_1906379833770147840",
+              "start": 46,
+              "url": "https://t.co/fdmUfn3o4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906379841500254515",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2242,
+          "impression_count": 23183839,
+          "like_count": 19331,
+          "quote_count": 7122,
+          "reply_count": 4721,
+          "retweet_count": 1389
+        },
+        "reply_settings": "everyone",
+        "text": "We thought we’d also hop on the Ghibli trend. https://t.co/fdmUfn3o4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "マルクス主義/毛沢東主義/反官僚主義、形式主義/反抑圧搾取/平等を主張/学習中/中国人",
+        "id": "1659190798104297476",
+        "name": "EinMensch",
+        "pinned_tweet_id": "1906716661366837264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884943704986714112/Bu12rl1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 79,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-03T08:53:43.000Z",
+        "description": "Official IDF X account. We post real-time information and updates from the field.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/israel_defense…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/israel_defense_forces",
+                "start": 0,
+                "url": "https://t.co/KFmUlz30dy"
+              }
+            ]
+          }
+        },
+        "id": "18576537",
+        "location": "Israel",
+        "name": "Israel Defense Forces",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1460244034706935808/lBBT0_jC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2995127,
+          "following_count": 33,
+          "like_count": 191,
+          "listed_count": 12594,
+          "media_count": 8639,
+          "tweet_count": 24201
+        },
+        "url": "https://t.co/KFmUlz30dy",
+        "username": "IDF",
+        "verified": true
+      }
+    ]
+  }
+}

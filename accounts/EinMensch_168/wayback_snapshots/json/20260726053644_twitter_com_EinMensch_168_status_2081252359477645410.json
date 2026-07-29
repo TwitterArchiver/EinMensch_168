@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081252243517628416"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2081252359477645410",
+    "created_at": "2026-07-26T05:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T06:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081252359477645410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e7TtbyyKTy",
+          "end": 37,
+          "expanded_url": "https://x.com/EinMensch_168/status/2081252359477645410/video/1",
+          "media_key": "13_2081252243517628416",
+          "start": 14,
+          "url": "https://t.co/e7TtbyyKTy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081252359477645410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "此天气所令人闻所未闻之愤恨 https://t.co/e7TtbyyKTy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5495,
+        "height": 720,
+        "media_key": "13_2081252243517628416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081252243517628416/img/wpYrdElb1rypNEw_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081252243517628416/vid/avc1/480x270/teXoriFUa4tERNHi.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081252243517628416/vid/avc1/640x360/Gk2aDJtTAANU20dI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081252243517628416/vid/avc1/1280x720/6bIO-iGBJg8ddcfP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081252243517628416/pl/hzjg8rwROEDuxcnS.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081252243517628416"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2081252359477645410",
+        "created_at": "2026-07-26T05:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081252359477645410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e7TtbyyKTy",
+              "end": 37,
+              "expanded_url": "https://x.com/EinMensch_168/status/2081252359477645410/video/1",
+              "media_key": "13_2081252243517628416",
+              "start": 14,
+              "url": "https://t.co/e7TtbyyKTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081252359477645410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此天气所令人闻所未闻之愤恨 https://t.co/e7TtbyyKTy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "♻️才清井泽♻️💬",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081041977085505536/1w36y02J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 373,
+          "like_count": 3353,
+          "listed_count": 2,
+          "media_count": 313,
+          "tweet_count": 1510
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

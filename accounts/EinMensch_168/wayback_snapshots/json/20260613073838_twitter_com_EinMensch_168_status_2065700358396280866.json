@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2065700358396280866",
+    "created_at": "2026-06-13T07:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T08:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065700358396280866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rnf83463143067…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/rnf834631430672/status/2065696186934387111",
+          "start": 11,
+          "url": "https://t.co/37Sg6DVJFB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065700358396280866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065696186934387111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "hyw又刷了个新神人 https://t.co/37Sg6DVJFB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2065700358396280866",
+        "created_at": "2026-06-13T07:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065700358396280866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rnf83463143067…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/rnf834631430672/status/2065696186934387111",
+              "start": 11,
+              "url": "https://t.co/37Sg6DVJFB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065700358396280866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065696186934387111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hyw又刷了个新神人 https://t.co/37Sg6DVJFB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908138697024774145",
+        "conversation_id": "2065437226125984090",
+        "created_at": "2026-06-13T07:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065696186934387111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065696186934387111",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065437226125984090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 做题做少了的缘故"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 339,
+          "like_count": 3266,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 1366
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-04T12:45:17.000Z",
+        "description": "我做题我光荣丨10代丨我的时间非常宝贵，请不要浪费我的时间",
+        "id": "1908138697024774145",
+        "location": "高中本部",
+        "name": "浙南做题王",
+        "pinned_tweet_id": "2065696654699954611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065693868893638656/XWGrIta2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 0,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "rnf834631430672",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2045779251526521123",
+    "created_at": "2026-04-19T08:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045779933356839111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1490551708614754304",
+          "start": 0,
+          "username": "chengzhi_233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045779933356839111",
+    "in_reply_to_user_id": "1490551708614754304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045779251526521123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@chengzhi_233 不要再尝试了好吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045779248116535296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQRYxzaEAACpfX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2045779251526521123",
+        "created_at": "2026-04-19T08:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045779933356839111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1490551708614754304",
+              "start": 0,
+              "username": "chengzhi_233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045779933356839111",
+        "in_reply_to_user_id": "1490551708614754304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045779251526521123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@chengzhi_233 不要再尝试了好吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045779248116535296"
+          ]
+        },
+        "author_id": "1490551708614754304",
+        "conversation_id": "2045779251526521123",
+        "created_at": "2026-04-19T08:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045779251526521123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZGZbPD3FrI",
+              "end": 41,
+              "expanded_url": "https://x.com/chengzhi_233/status/2045779251526521123/photo/1",
+              "media_key": "3_2045779248116535296",
+              "start": 18,
+              "url": "https://t.co/ZGZbPD3FrI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045779251526521123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "昨日自杀又被120拉到医院打复活赛 https://t.co/ZGZbPD3FrI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃2.1，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。🏳️‍🌈🏳️‍⚧️🏳️*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2040416708238954882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 193,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 525
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-07T05:03:23.000Z",
+        "description": "我想活着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chengzhi233.com",
+                "end": 23,
+                "expanded_url": "https://www.chengzhi233.com",
+                "start": 0,
+                "url": "https://t.co/TRN9n7SBkZ"
+              }
+            ]
+          }
+        },
+        "id": "1490551708614754304",
+        "location": "Los Santos",
+        "name": "味全每日C橙汁",
+        "pinned_tweet_id": "1729305607386366112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039001071109169152/SP86tgsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 425,
+          "like_count": 867,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 365
+        },
+        "url": "https://t.co/TRN9n7SBkZ",
+        "username": "chengzhi_233",
+        "verified": false
+      }
+    ]
+  }
+}

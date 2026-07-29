@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050739826694213632",
+        "16_2050739832624955392",
+        "3_2050739847573422080"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2050739853596528996",
+    "created_at": "2026-05-03T00:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T01:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050739853596528996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4jnXNqouK1",
+          "end": 216,
+          "expanded_url": "https://x.com/EinMensch_168/status/2050739853596528996/photo/1",
+          "media_key": "3_2050739826694213632",
+          "start": 193,
+          "url": "https://t.co/4jnXNqouK1"
+        },
+        {
+          "display_url": "pic.x.com/4jnXNqouK1",
+          "end": 216,
+          "expanded_url": "https://x.com/EinMensch_168/status/2050739853596528996/photo/1",
+          "media_key": "16_2050739832624955392",
+          "start": 193,
+          "url": "https://t.co/4jnXNqouK1"
+        },
+        {
+          "display_url": "pic.x.com/4jnXNqouK1",
+          "end": 216,
+          "expanded_url": "https://x.com/EinMensch_168/status/2050739853596528996/photo/1",
+          "media_key": "3_2050739847573422080",
+          "start": 193,
+          "url": "https://t.co/4jnXNqouK1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050739853596528996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "PSO J030947.49+271757.31（简称 PSO J0309+27）是目前已知最遥远的耀变体（blazar），于2020年被发现，是天文学界的重要里程碑。\n\n基本信息坐标：赤经 03h 09m 47.49s，赤纬 +27° 17′ 57.31″（J2000 历元），位于白羊座。\n红移：z ≈ 6.10 ± 0.03。\n距离：光旅行距离约 128 亿光年（127-128 亿光年），共动距离约 276 亿光年。我们看到的光来自宇宙大爆炸后约 9 亿年 的时期，宇宙当时只有现在年龄的约 7%。\n类型：耀变体（blazar），即喷流几乎正对地球的活动星系核（AGN），属于射电噪类星体。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "PSO J030947.49+271757.31（简称 PSO J0309+27）是目前已知最遥远的耀变体（blazar），于2020年被发现，是天文学界的重要里程碑。\n\n基本信息坐标：赤经 03h 09m 47.49s，赤纬 +27° 17′ 57.31″（J2000 历元），位于白羊座。\n红移：z ≈ 6.10 ± 0.03。\n距离：光旅行距离约 128 亿光年（127-128 https://t.co/4jnXNqouK1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2050739826694213632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWxAdDa0AAtwE9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 436,
+        "media_key": "16_2050739832624955392",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHWxAzJawAAJ_6Q.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHWxAzJawAAJ_6Q.mp4"
+          }
+        ],
+        "width": 776
+      },
+      {
+        "height": 837,
+        "media_key": "3_2050739847573422080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWxBq1aQAAskwr.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050739826694213632",
+            "16_2050739832624955392",
+            "3_2050739847573422080"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2050739853596528996",
+        "created_at": "2026-05-03T00:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T01:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050739853596528996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4jnXNqouK1",
+              "end": 216,
+              "expanded_url": "https://x.com/EinMensch_168/status/2050739853596528996/photo/1",
+              "media_key": "3_2050739826694213632",
+              "start": 193,
+              "url": "https://t.co/4jnXNqouK1"
+            },
+            {
+              "display_url": "pic.x.com/4jnXNqouK1",
+              "end": 216,
+              "expanded_url": "https://x.com/EinMensch_168/status/2050739853596528996/photo/1",
+              "media_key": "16_2050739832624955392",
+              "start": 193,
+              "url": "https://t.co/4jnXNqouK1"
+            },
+            {
+              "display_url": "pic.x.com/4jnXNqouK1",
+              "end": 216,
+              "expanded_url": "https://x.com/EinMensch_168/status/2050739853596528996/photo/1",
+              "media_key": "3_2050739847573422080",
+              "start": 193,
+              "url": "https://t.co/4jnXNqouK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050739853596528996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "PSO J030947.49+271757.31（简称 PSO J0309+27）是目前已知最遥远的耀变体（blazar），于2020年被发现，是天文学界的重要里程碑。\n\n基本信息坐标：赤经 03h 09m 47.49s，赤纬 +27° 17′ 57.31″（J2000 历元），位于白羊座。\n红移：z ≈ 6.10 ± 0.03。\n距离：光旅行距离约 128 亿光年（127-128 亿光年），共动距离约 276 亿光年。我们看到的光来自宇宙大爆炸后约 9 亿年 的时期，宇宙当时只有现在年龄的约 7%。\n类型：耀变体（blazar），即喷流几乎正对地球的活动星系核（AGN），属于射电噪类星体。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "PSO J030947.49+271757.31（简称 PSO J0309+27）是目前已知最遥远的耀变体（blazar），于2020年被发现，是天文学界的重要里程碑。\n\n基本信息坐标：赤经 03h 09m 47.49s，赤纬 +27° 17′ 57.31″（J2000 历元），位于白羊座。\n红移：z ≈ 6.10 ± 0.03。\n距离：光旅行距离约 128 亿光年（127-128 https://t.co/4jnXNqouK1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10下旬生人丨不OD不割手丨🖤🩶🤍💚🤍🩶🖤丨我将持续思考如何整个狠活让我出名丨我将挑战性激素双低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2050379492401791461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050563509176672256/H_sZedmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 264,
+          "like_count": 2195,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 898
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      }
+    ]
+  }
+}

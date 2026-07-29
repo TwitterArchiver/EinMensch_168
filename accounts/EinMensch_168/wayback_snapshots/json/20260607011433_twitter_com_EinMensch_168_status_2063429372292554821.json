@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2063420202315059312",
+    "created_at": "2026-06-07T01:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T02:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063429372292554821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955218488185982980",
+          "start": 0,
+          "username": "bbbkamen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063429372292554821",
+    "in_reply_to_user_id": "1955218488185982980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063428285548367919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbbkamen 创作者中心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2063420202315059312",
+        "created_at": "2026-06-07T01:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063429372292554821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955218488185982980",
+              "start": 0,
+              "username": "bbbkamen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063429372292554821",
+        "in_reply_to_user_id": "1955218488185982980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063428285548367919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbbkamen 创作者中心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955218488185982980",
+        "conversation_id": "2063420202315059312",
+        "created_at": "2026-06-07T01:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063428285548367919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063428285548367919",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063420202315059312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 耶？请问这个是从哪看的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 335,
+          "like_count": 3269,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 1329
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-12T10:43:18.000Z",
+        "description": "传奇耐电王/MTX/出厂日09.7.11/友跨/高二物化生/不政/🍥凝胶💊OD/正在尝试炒作/前世@aaakamen来生@ccckamen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "aaakamen"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "ccckamen"
+              }
+            ]
+          }
+        },
+        "id": "1955218488185982980",
+        "location": "内蒙+++真的有这地方同类吗",
+        "name": "脊髓",
+        "pinned_tweet_id": "2040935095008407933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040938841524301824/DBpinweT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 314,
+          "like_count": 612,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 251
+        },
+        "username": "bbbkamen",
+        "verified": false
+      }
+    ]
+  }
+}

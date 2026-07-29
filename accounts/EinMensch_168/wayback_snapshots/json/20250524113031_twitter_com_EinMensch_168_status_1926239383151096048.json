@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "1926239383151096048",
+    "created_at": "2025-05-24T11:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T12:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926239383151096048"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 1,
+          "normalized_text": "永垂",
+          "probability": 0.6676,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/holy_twig3/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/holy_twig3/status/1925227690308645214",
+          "start": 5,
+          "url": "https://t.co/RkaLp1Rysn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926239383151096048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925227690308645214",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "永垂不朽 https://t.co/RkaLp1Rysn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1925227686705737732",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrfIYXnXsAQLIGD.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "1926239383151096048",
+        "created_at": "2025-05-24T11:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T12:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926239383151096048"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "永垂",
+              "probability": 0.6676,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/holy_twig3/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/holy_twig3/status/1925227690308645214",
+              "start": 5,
+              "url": "https://t.co/RkaLp1Rysn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926239383151096048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925227690308645214",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "永垂不朽 https://t.co/RkaLp1Rysn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925227686705737732"
+          ]
+        },
+        "author_id": "1268893350880579591",
+        "conversation_id": "1925227690308645214",
+        "created_at": "2025-05-21T16:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T17:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925227690308645214"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "India",
+              "probability": 0.8672,
+              "start": 19,
+              "type": "Place"
+            },
+            {
+              "end": 78,
+              "normalized_text": "Nambala Keshava Rao",
+              "probability": 0.8208,
+              "start": 60,
+              "type": "Person"
+            },
+            {
+              "end": 88,
+              "normalized_text": "Basavraj",
+              "probability": 0.5615,
+              "start": 81,
+              "type": "Person"
+            },
+            {
+              "end": 147,
+              "normalized_text": "Chhattisgarh",
+              "probability": 0.9663,
+              "start": 136,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CxrBaexVlM",
+              "end": 196,
+              "expanded_url": "https://x.com/holy_twig3/status/1925227690308645214/photo/1",
+              "media_key": "3_1925227686705737732",
+              "start": 173,
+              "url": "https://t.co/CxrBaexVlM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925227690308645214",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 29697,
+          "like_count": 461,
+          "quote_count": 14,
+          "reply_count": 14,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "Communist Party of India (Maoist) General Secretary Comrade Nambala Keshava Rao (Basavraj) killed during fighting with Indian forces in Chhattisgarh, today, May 21st.\n(1/5) https://t.co/CxrBaexVlM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "マルクス主義/毛沢東主義/反官僚主義、形式主義/反抑圧搾取/プロレタリア国際主義/平等を主張/学習中/中国人",
+        "id": "1659190798104297476",
+        "location": "世界の人々は団結している",
+        "name": "EinMensch🍉",
+        "pinned_tweet_id": "1906716661366837264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884943704986714112/Bu12rl1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 120,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 35
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-05T13:12:28.000Z",
+        "description": "כבוד צו די קעגנשטעל",
+        "id": "1268893350880579591",
+        "location": "She/Her",
+        "name": "Twig ☭ 🔻",
+        "pinned_tweet_id": "1924915390410379415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785370888625426433/ev7cP6pm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 550,
+          "like_count": 179953,
+          "listed_count": 15,
+          "media_count": 346,
+          "tweet_count": 5013
+        },
+        "username": "holy_twig3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "1994791372113809584",
+    "created_at": "2025-11-29T15:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T16:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994791372113809584"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "China",
+          "probability": 0.8882,
+          "start": 16,
+          "type": "Place"
+        },
+        {
+          "end": 22,
+          "normalized_text": "s",
+          "probability": 0.6326,
+          "start": 22,
+          "type": "Organization"
+        },
+        {
+          "end": 123,
+          "normalized_text": "DF-17",
+          "probability": 0.7271,
+          "start": 119,
+          "type": "Other"
+        },
+        {
+          "end": 137,
+          "normalized_text": "YJ-21",
+          "probability": 0.5776,
+          "start": 133,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "87775422",
+          "start": 3,
+          "username": "ChinaDaily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994791372113809584",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994434200406290867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChinaDaily: China's State-owned defense contractors are known for their expertise in ultrafast weapons such as the DF-17 and the YJ-21.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_1994434197176700929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G62nVdqb0AEfxmI.jpg",
+        "width": 844
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "1994791372113809584",
+        "created_at": "2025-11-29T15:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994791372113809584"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "China",
+              "probability": 0.8882,
+              "start": 16,
+              "type": "Place"
+            },
+            {
+              "end": 22,
+              "normalized_text": "s",
+              "probability": 0.6326,
+              "start": 22,
+              "type": "Organization"
+            },
+            {
+              "end": 123,
+              "normalized_text": "DF-17",
+              "probability": 0.7271,
+              "start": 119,
+              "type": "Other"
+            },
+            {
+              "end": 137,
+              "normalized_text": "YJ-21",
+              "probability": 0.5776,
+              "start": 133,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "87775422",
+              "start": 3,
+              "username": "ChinaDaily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994791372113809584",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994434200406290867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChinaDaily: China's State-owned defense contractors are known for their expertise in ultrafast weapons such as the DF-17 and the YJ-21.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994434197176700929"
+          ]
+        },
+        "author_id": "87775422",
+        "conversation_id": "1994434200406290867",
+        "created_at": "2025-11-28T15:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T16:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994434200406290867"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "China",
+              "probability": 0.9043,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 12,
+              "normalized_text": "s State",
+              "probability": 0.4247,
+              "start": 6,
+              "type": "Organization"
+            },
+            {
+              "end": 107,
+              "normalized_text": "DF-17",
+              "probability": 0.8699,
+              "start": 103,
+              "type": "Other"
+            },
+            {
+              "end": 121,
+              "normalized_text": "YJ-21",
+              "probability": 0.8871,
+              "start": 117,
+              "type": "Other"
+            },
+            {
+              "end": 265,
+              "normalized_text": "Mach 7",
+              "probability": 0.7105,
+              "start": 260,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SRxkf22fbM",
+              "end": 291,
+              "expanded_url": "https://x.com/ChinaDaily/status/1994434200406290867/photo/1",
+              "media_key": "3_1994434197176700929",
+              "start": 268,
+              "url": "https://t.co/SRxkf22fbM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994434200406290867",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3Kf87sM",
+                "end": 291,
+                "expanded_url": "https://bit.ly/3Kf87sM",
+                "start": 268,
+                "url": "https://t.co/FzrsjrX7kb"
+              }
+            ]
+          },
+          "text": "China's State-owned defense contractors are known for their expertise in ultrafast weapons such as the DF-17 and the YJ-21. Now, a private sector firm has stepped into this cutting-edge sector, developing a system that can launch a missile with a top speed of Mach 7. https://t.co/FzrsjrX7kb"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 12385,
+          "like_count": 166,
+          "quote_count": 7,
+          "reply_count": 44,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "China's State-owned defense contractors are known for their expertise in ultrafast weapons such as the DF-17 and the YJ-21. Now, a private sector firm has stepped into this cutting-edge sector, developing a system that can launch a missile with a top speed of Mach 7. https://t.co/SRxkf22fbM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "学习雷锋好榜样",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "潘",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994670725547134982/w88gQyLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 132,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 33
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-05T20:30:10.000Z",
+        "description": "Start a conversation as we share news and analysis from #China and beyond. \nFB: China Daily \nIns: chinadailynews\nYoutube: ChinaDailyOfficialChannel",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 56,
+                "tag": "China"
+              }
+            ]
+          }
+        },
+        "id": "87775422",
+        "location": "Beijing, China",
+        "name": "China Daily",
+        "pinned_tweet_id": "1994613542146994674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598185470353022976/-KlKi0WI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4108438,
+          "following_count": 162,
+          "like_count": 1169,
+          "listed_count": 7424,
+          "media_count": 151323,
+          "tweet_count": 254445
+        },
+        "username": "ChinaDaily",
+        "verified": true
+      }
+    ]
+  }
+}

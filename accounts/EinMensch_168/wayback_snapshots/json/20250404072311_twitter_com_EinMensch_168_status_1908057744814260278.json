@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908057665147686912"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "News Categories like Entertainment or Technology",
+          "id": "69",
+          "name": "News Vertical"
+        },
+        "entity": {
+          "id": "1292841451814965248",
+          "name": "China national news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292841451814965248",
+          "name": "China national news"
+        }
+      }
+    ],
+    "conversation_id": "1908057744814260278",
+    "created_at": "2025-04-04T07:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T08:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908057744814260278"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "China Food News Furnace",
+          "probability": 0.622,
+          "start": 19,
+          "type": "Organization"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RqtgnuIamF",
+          "end": 170,
+          "expanded_url": "https://x.com/EinMensch_168/status/1908057744814260278/photo/1",
+          "media_key": "3_1908057665147686912",
+          "start": 147,
+          "url": "https://t.co/RqtgnuIamF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908057744814260278",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "この世界での謝罪はとても単純ですか？ China Food News Furnace は、貧しい人々を差別するビデオを公開しました。 彼らは元のビデオを削除し、このビデオの影響が解決したと考えて、10 秒以上謝罪のビデオを投稿しました。 いいえ、私たちはこの行動を受け入れることはできません😡 https://t.co/RqtgnuIamF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1063,
+        "media_key": "3_1908057665147686912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnrIVk4W0AA8Yyd.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908057665147686912"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1908057744814260278",
+        "created_at": "2025-04-04T07:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T08:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908057744814260278"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "China Food News Furnace",
+              "probability": 0.622,
+              "start": 19,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RqtgnuIamF",
+              "end": 170,
+              "expanded_url": "https://x.com/EinMensch_168/status/1908057744814260278/photo/1",
+              "media_key": "3_1908057665147686912",
+              "start": 147,
+              "url": "https://t.co/RqtgnuIamF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908057744814260278",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "この世界での謝罪はとても単純ですか？ China Food News Furnace は、貧しい人々を差別するビデオを公開しました。 彼らは元のビデオを削除し、このビデオの影響が解決したと考えて、10 秒以上謝罪のビデオを投稿しました。 いいえ、私たちはこの行動を受け入れることはできません😡 https://t.co/RqtgnuIamF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "マルクス主義/毛沢東主義/反官僚主義、形式主義/反抑圧搾取/平等を主張/学習中/中国人",
+        "id": "1659190798104297476",
+        "name": "EinMensch",
+        "pinned_tweet_id": "1906716661366837264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884943704986714112/Bu12rl1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 98,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

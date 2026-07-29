@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2053358806613266487",
+    "created_at": "2026-05-10T06:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T07:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053358988486672639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942136939735560192",
+          "start": 0,
+          "username": "picxis63594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053358988486672639",
+    "in_reply_to_user_id": "1942136939735560192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053358806613266487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@picxis63594 或许算是一种社交工具？快速寻找同类和表明自身"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2053358806613266487",
+        "created_at": "2026-05-10T06:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053358988486672639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942136939735560192",
+              "start": 0,
+              "username": "picxis63594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053358988486672639",
+        "in_reply_to_user_id": "1942136939735560192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053358806613266487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@picxis63594 或许算是一种社交工具？快速寻找同类和表明自身"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942136939735560192",
+        "conversation_id": "2053358806613266487",
+        "created_at": "2026-05-10T06:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053358806613266487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053358806613266487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么中推的mtf喜欢挂鱼板（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10年下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨尽力让自己变得更好丨我在学习与研究",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2050968410188820804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 309,
+          "like_count": 2882,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 1120
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T08:21:59.000Z",
+        "description": "MtF/ADHDer/无证含糖/生产日期2008/hrt 2026.4.22/互fo喵！陪我聊天喵",
+        "id": "1942136939735560192",
+        "location": "床上",
+        "name": "无人机潜水🏳️‍⚧️🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045867085478461441/6KoQfVK2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 87,
+          "like_count": 55,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 40
+        },
+        "username": "picxis63594",
+        "verified": false
+      }
+    ]
+  }
+}

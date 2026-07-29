@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2044715041006702592"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2044715074095562845",
+    "created_at": "2026-04-16T09:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T10:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044715074095562845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WmMhe3C1Nj",
+          "end": 23,
+          "expanded_url": "https://x.com/EinMensch_168/status/2044715074095562845/video/1",
+          "media_key": "7_2044715041006702592",
+          "start": 0,
+          "url": "https://t.co/WmMhe3C1Nj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044715074095562845",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/WmMhe3C1Nj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15121,
+        "height": 540,
+        "media_key": "7_2044715041006702592",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044715041006702592/pu/img/puRakPFbyb2bnYbO.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044715041006702592/pu/vid/avc1/640x270/0rrytfPr30QcgieM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044715041006702592/pu/vid/avc1/852x360/Awuw6HBsmNTDQPqj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044715041006702592/pu/vid/avc1/1280x540/NfHgwA9YlD7y1ayA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044715041006702592/pu/pl/tNn3Jm3Pc350RJ87.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044715041006702592"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2044715074095562845",
+        "created_at": "2026-04-16T09:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044715074095562845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WmMhe3C1Nj",
+              "end": 23,
+              "expanded_url": "https://x.com/EinMensch_168/status/2044715074095562845/video/1",
+              "media_key": "7_2044715041006702592",
+              "start": 0,
+              "url": "https://t.co/WmMhe3C1Nj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044715074095562845",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WmMhe3C1Nj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃1.0，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。\n            ——双刀王小桃-2026-3.1",
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2040416708238954882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 125,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 217
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

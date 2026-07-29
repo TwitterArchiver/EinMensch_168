@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      }
+    ],
+    "conversation_id": "1908052662320234529",
+    "created_at": "2025-04-04T07:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T08:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908052785657946377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "iesdouyin.com/share/video/74…",
+          "end": 42,
+          "expanded_url": "https://www.iesdouyin.com/share/video/7489044202102295818/",
+          "start": 19,
+          "unwound_url": "https://www.douyin.com/?previous_page=oversea_share_link&vid=7489044202102295818",
+          "url": "https://t.co/ryeJ5NjiwD"
+        },
+        {
+          "description": "已删视频, 视频播放量 11501、弹幕量 3、点赞数 209、投硬币枚数 13、收藏人数 73、转发人数 132, 视频作者 四宫wind, 作者简介 ，相关视频：中国食品报融媒体真的是在赞美富人贬低穷人吗？，请《中国食品报》郑重公开道歉！ 2月27日视频存档，防止被删除，上海人也接受了属于穷人的辣味，偶然发现墨茶Official在评论区和别人对线的视频，探索中国食品报融媒体究竟是不是私企，要是他还在你们敢说这个？，老陶回应中国食品报融媒体报后续来啦（吃瓜）！！，来来来，带大家转转中国食品报融媒体，补档，即日起，我将永久退出中国食品报融媒体的内容创作。",
+          "display_url": "b23.tv/1mABTHQ",
+          "end": 78,
+          "expanded_url": "https://b23.tv/1mABTHQ",
+          "start": 55,
+          "status": 200,
+          "title": "[补档]中国食品报融媒体关于辣的报道_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1SqZmYKEBz/?buvid=XXCDAA6C1C10D70BDD85BA39E57A99F9E77F8&from_spmid=search.search-result.0.0&is_story_h5=false&mid=l4KoIIexXTTAfT0gVUN9Rg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=2e80c517-5d82-4240-be8e-8a34fd11754d&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1743733365&unique_k=1mABTHQ&up_id=440101382",
+          "url": "https://t.co/qX13nGv7XS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908052785657946377",
+    "in_reply_to_user_id": "1659190798104297476",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908052662320234529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（中国食品ニュースメディア謝罪ビデオ：https://t.co/ryeJ5NjiwD?\n階級対立を煽るビデオ：https://t.co/qX13nGv7XS）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1063,
+        "media_key": "3_1908052645333372928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnrDxYnXEAA-bjB.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "1908052662320234529",
+        "created_at": "2025-04-04T07:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T08:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908052785657946377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "iesdouyin.com/share/video/74…",
+              "end": 42,
+              "expanded_url": "https://www.iesdouyin.com/share/video/7489044202102295818/",
+              "start": 19,
+              "unwound_url": "https://www.douyin.com/?previous_page=oversea_share_link&vid=7489044202102295818",
+              "url": "https://t.co/ryeJ5NjiwD"
+            },
+            {
+              "description": "已删视频, 视频播放量 11501、弹幕量 3、点赞数 209、投硬币枚数 13、收藏人数 73、转发人数 132, 视频作者 四宫wind, 作者简介 ，相关视频：中国食品报融媒体真的是在赞美富人贬低穷人吗？，请《中国食品报》郑重公开道歉！ 2月27日视频存档，防止被删除，上海人也接受了属于穷人的辣味，偶然发现墨茶Official在评论区和别人对线的视频，探索中国食品报融媒体究竟是不是私企，要是他还在你们敢说这个？，老陶回应中国食品报融媒体报后续来啦（吃瓜）！！，来来来，带大家转转中国食品报融媒体，补档，即日起，我将永久退出中国食品报融媒体的内容创作。",
+              "display_url": "b23.tv/1mABTHQ",
+              "end": 78,
+              "expanded_url": "https://b23.tv/1mABTHQ",
+              "start": 55,
+              "status": 200,
+              "title": "[补档]中国食品报融媒体关于辣的报道_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1SqZmYKEBz/?buvid=XXCDAA6C1C10D70BDD85BA39E57A99F9E77F8&from_spmid=search.search-result.0.0&is_story_h5=false&mid=l4KoIIexXTTAfT0gVUN9Rg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=2e80c517-5d82-4240-be8e-8a34fd11754d&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1743733365&unique_k=1mABTHQ&up_id=440101382",
+              "url": "https://t.co/qX13nGv7XS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908052785657946377",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908052662320234529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（中国食品ニュースメディア謝罪ビデオ：https://t.co/ryeJ5NjiwD?\n階級対立を煽るビデオ：https://t.co/qX13nGv7XS）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908052645333372928"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "1908052662320234529",
+        "created_at": "2025-04-04T07:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T08:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908052662320234529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRxLPjQQAM",
+              "end": 146,
+              "expanded_url": "https://x.com/EinMensch_168/status/1908052662320234529/photo/1",
+              "media_key": "3_1908052645333372928",
+              "start": 123,
+              "url": "https://t.co/pRxLPjQQAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908052662320234529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "この世界で謝ることはとても簡単なことだと分かりました。中国食品ニュースメディアは階級対立を煽るビデオを公開した。元の動画を削除して10秒以上の謝罪動画を公開するだけで、動画の問題は解決したと思いますか？このような行為は絶対に受け入れられません😡 https://t.co/pRxLPjQQAM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "マルクス主義/毛沢東主義/反官僚主義、形式主義/反抑圧搾取/平等を主張/学習中/中国人",
+        "id": "1659190798104297476",
+        "name": "EinMensch",
+        "pinned_tweet_id": "1906716661366837264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884943704986714112/Bu12rl1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 98,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

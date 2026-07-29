@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2062907206144868384",
+    "created_at": "2026-06-06T03:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T04:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063106773033406548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921862257874702337",
+          "start": 0,
+          "username": "Theprophetsfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063106773033406548",
+    "in_reply_to_user_id": "1921862257874702337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063097296481554840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Theprophetsfox 风湿好像能用秋水仙碱治疗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2062907206144868384",
+        "created_at": "2026-06-06T03:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063106773033406548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921862257874702337",
+              "start": 0,
+              "username": "Theprophetsfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063106773033406548",
+        "in_reply_to_user_id": "1921862257874702337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063097296481554840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Theprophetsfox 风湿好像能用秋水仙碱治疗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921862257874702337",
+        "conversation_id": "2062907206144868384",
+        "created_at": "2026-06-06T03:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063097296481554840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063097296481554840",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062907206144868384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 要升級為風濕王小桃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 332,
+          "like_count": 3256,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 1313
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-12T09:37:33.000Z",
+        "description": "愿你我的心永远纯洁，灵魂永远高尚……",
+        "id": "1921862257874702337",
+        "location": "三一綜合學園",
+        "name": "Angel fox",
+        "pinned_tweet_id": "1933621953933553865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062771871595245568/_Ow4fGFN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 84,
+          "like_count": 748,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 666
+        },
+        "username": "Theprophetsfox",
+        "verified": false
+      }
+    ]
+  }
+}

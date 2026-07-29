@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071090027917197312"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2071090030752448729",
+    "created_at": "2026-06-28T04:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071090030752448729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/65faeb2QJf",
+          "end": 36,
+          "expanded_url": "https://x.com/EinMensch_168/status/2071090030752448729/photo/1",
+          "media_key": "3_2071090027917197312",
+          "start": 13,
+          "url": "https://t.co/65faeb2QJf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071090030752448729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已经不知道是第几次宣群了 https://t.co/65faeb2QJf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071090027917197312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL39aEPbwAA7jlZ.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071090027917197312"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2071090030752448729",
+        "created_at": "2026-06-28T04:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071090030752448729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/65faeb2QJf",
+              "end": 36,
+              "expanded_url": "https://x.com/EinMensch_168/status/2071090030752448729/photo/1",
+              "media_key": "3_2071090027917197312",
+              "start": 13,
+              "url": "https://t.co/65faeb2QJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071090030752448729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经不知道是第几次宣群了 https://t.co/65faeb2QJf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 364,
+          "like_count": 3325,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 1440
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      }
+    ]
+  }
+}

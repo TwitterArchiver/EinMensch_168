@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2052763678869803259",
+    "created_at": "2026-05-09T14:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053126947644084386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeikuhakushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053126947644084386",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052763678869803259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeikuhakushi 究竟如何不违背道德情况下起号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2052763678869803259",
+        "created_at": "2026-05-09T14:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053126947644084386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053126947644084386",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052763678869803259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 究竟如何不违背道德情况下起号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2052763678869803259",
+        "created_at": "2026-05-08T14:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052763678869803259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WenYuTang1019/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/WenYuTang1019/status/2052640183577973038",
+              "start": 8,
+              "url": "https://t.co/JCcCcym1wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052763678869803259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 492,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052640183577973038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至少起號成功了 https://t.co/JCcCcym1wo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨我将持续思考如何整个狠活让我出名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2050968410188820804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 297,
+          "like_count": 2724,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 1091
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港澳 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1987,
+          "following_count": 355,
+          "like_count": 11803,
+          "listed_count": 4,
+          "media_count": 748,
+          "tweet_count": 3742
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

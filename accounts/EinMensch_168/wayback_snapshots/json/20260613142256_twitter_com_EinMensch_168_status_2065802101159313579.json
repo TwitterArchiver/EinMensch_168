@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2065621545456959504",
+    "created_at": "2026-06-13T14:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065802101159313579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1890717486343233536",
+          "start": 0,
+          "username": "hikarou233086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065802101159313579",
+    "in_reply_to_user_id": "1890717486343233536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065800703218786669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikarou233086 34没测过\n48坚强 忠贞 高雅\n53地质勘探\n99温柔、理性、博学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2065621545456959504",
+        "created_at": "2026-06-13T14:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065802101159313579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1890717486343233536",
+              "start": 0,
+              "username": "hikarou233086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065802101159313579",
+        "in_reply_to_user_id": "1890717486343233536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065800703218786669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikarou233086 34没测过\n48坚强 忠贞 高雅\n53地质勘探\n99温柔、理性、博学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890717486343233536",
+        "conversation_id": "2065621545456959504",
+        "created_at": "2026-06-13T14:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065800703218786669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065800703218786669",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065621545456959504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 34 48 53 99😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 339,
+          "like_count": 3278,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 1376
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-15T10:59:21.000Z",
+        "description": "2009.8.1|高三intp|低精力…|🏳️‍⚧️|会互fo同类|VR|希望积极生活…|Github见下方链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Hikarou233086",
+                "end": 23,
+                "expanded_url": "https://github.com/Hikarou233086",
+                "start": 0,
+                "url": "https://t.co/l1K5Y1fpRM"
+              }
+            ]
+          }
+        },
+        "id": "1890717486343233536",
+        "name": "Hikaruna💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043683198501322752/R5PNYRBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 242,
+          "like_count": 1498,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/l1K5Y1fpRM",
+        "username": "hikarou233086",
+        "verified": false
+      }
+    ]
+  }
+}

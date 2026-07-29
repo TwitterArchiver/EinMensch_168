@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2026314772984303932",
+    "created_at": "2026-02-24T18:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T19:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026369513122607278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "292929499",
+          "start": 0,
+          "username": "shushuglad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026369513122607278",
+    "in_reply_to_user_id": "292929499",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026314772984303932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shushuglad 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2026314772984303932",
+        "created_at": "2026-02-24T18:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T19:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026369513122607278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "292929499",
+              "start": 0,
+              "username": "shushuglad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026369513122607278",
+        "in_reply_to_user_id": "292929499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026314772984303932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shushuglad 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "292929499",
+        "conversation_id": "2026314772984303932",
+        "created_at": "2026-02-24T15:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026314772984303932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026314772984303932",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 336,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不好意思。夜深了，我要去上床了。明天见。\nごめんなさいね。夜も更けました。もう寝ます。また明日ね。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026364444683751424/wHBmVhSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 85,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-04T13:37:57.000Z",
+        "description": "我是个日本的老人，已经73岁了。我学习汉语，想学好汉语，常常用日语和汉语发推。我们互相一起学习外语吧。HEADER的照片是我故乡。文好部　No.826    gladgameassn #001",
+        "id": "292929499",
+        "location": "日本 大阪",
+        "name": "老爷爷/大叔/叔叔/学习汉语很开心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656540248032317440/2R5dWY-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9359,
+          "following_count": 1614,
+          "like_count": 1615,
+          "listed_count": 64,
+          "media_count": 5435,
+          "tweet_count": 111127
+        },
+        "username": "shushuglad",
+        "verified": false
+      }
+    ]
+  }
+}

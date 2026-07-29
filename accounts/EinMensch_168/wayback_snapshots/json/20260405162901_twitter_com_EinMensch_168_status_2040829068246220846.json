@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040829065503162369"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040829068246220846",
+    "created_at": "2026-04-05T16:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T17:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040829068246220846"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FndiZpB3Rb",
+          "end": 29,
+          "expanded_url": "https://x.com/EinMensch_168/status/2040829068246220846/photo/1",
+          "media_key": "3_2040829065503162369",
+          "start": 6,
+          "url": "https://t.co/FndiZpB3Rb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040829068246220846",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雷p一股味 https://t.co/FndiZpB3Rb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1862,
+        "media_key": "3_2040829065503162369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJ7OOibwAEXayF.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040829065503162369"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040829068246220846",
+        "created_at": "2026-04-05T16:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040829068246220846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FndiZpB3Rb",
+              "end": 29,
+              "expanded_url": "https://x.com/EinMensch_168/status/2040829068246220846/photo/1",
+              "media_key": "3_2040829065503162369",
+              "start": 6,
+              "url": "https://t.co/FndiZpB3Rb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040829068246220846",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雷p一股味 https://t.co/FndiZpB3Rb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我已内卷致死｜在校高一学生\n我来外网纯是因为无聊",
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 86,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 83
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

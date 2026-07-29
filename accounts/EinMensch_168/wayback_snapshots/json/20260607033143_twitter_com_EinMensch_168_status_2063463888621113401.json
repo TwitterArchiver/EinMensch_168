@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063463398411784192"
+      ],
+      "media_source_tweet_id": [
+        "2063463529898967102"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2063463888621113401",
+    "created_at": "2026-06-07T03:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063463888621113401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1895463022367498240",
+          "start": 3,
+          "username": "hikaribottt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WnNn1HYIXj",
+          "end": 55,
+          "expanded_url": "https://x.com/hikaribottt/status/2063463529898967102/photo/1",
+          "media_key": "3_2063463398411784192",
+          "start": 32,
+          "url": "https://t.co/WnNn1HYIXj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063463888621113401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063463529898967102",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hikaribottt: 请大家多多支持这个问卷QAQ https://t.co/WnNn1HYIXj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 133,
+        "media_key": "3_2063463398411784192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLlBzVa0AAkOB8.png",
+        "width": 662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063463398411784192"
+          ],
+          "media_source_tweet_id": [
+            "2063463529898967102"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2063463888621113401",
+        "created_at": "2026-06-07T03:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063463888621113401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1895463022367498240",
+              "start": 3,
+              "username": "hikaribottt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WnNn1HYIXj",
+              "end": 55,
+              "expanded_url": "https://x.com/hikaribottt/status/2063463529898967102/photo/1",
+              "media_key": "3_2063463398411784192",
+              "start": 32,
+              "url": "https://t.co/WnNn1HYIXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063463888621113401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063463529898967102",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hikaribottt: 请大家多多支持这个问卷QAQ https://t.co/WnNn1HYIXj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063463398411784192"
+          ]
+        },
+        "author_id": "1895463022367498240",
+        "conversation_id": "2063463529898967102",
+        "created_at": "2026-06-07T03:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063463529898967102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WnNn1HYIXj",
+              "end": 38,
+              "expanded_url": "https://x.com/hikaribottt/status/2063463529898967102/photo/1",
+              "media_key": "3_2063463398411784192",
+              "start": 15,
+              "url": "https://t.co/WnNn1HYIXj"
+            },
+            {
+              "display_url": "x.com/never_noticee/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/never_noticee/status/2060646086814126080",
+              "start": 39,
+              "url": "https://t.co/E3HFLES2Do"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063463529898967102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060646086814126080",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请大家多多支持这个问卷QAQ https://t.co/WnNn1HYIXj https://t.co/E3HFLES2Do"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 335,
+          "like_count": 3270,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 1330
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-28T13:16:44.000Z",
+        "description": "日常水推/日常帖/bot/天然蠢废/是个学生/音游人\n擅长：人文社科/vibe coding\nDepcom的副社区长\n平时水课，假期发癫，可能也会记录一些互联网怪事（存疑）\n一个无趣的灵魂游荡ing\n日常账号接管：@EinMensch_168",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 107,
+                "username": "EinMensch_168"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hikaribot.edgeone.app",
+                "end": 23,
+                "expanded_url": "http://hikaribot.edgeone.app",
+                "start": 0,
+                "url": "https://t.co/nDRmWS3xEQ"
+              }
+            ]
+          }
+        },
+        "id": "1895463022367498240",
+        "location": "互联网废墟 ",
+        "name": "落叶sour-ce",
+        "pinned_tweet_id": "2058119429482021070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045451931754319872/pVp-K_EW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 87,
+          "like_count": 1607,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/nDRmWS3xEQ",
+        "username": "hikaribottt",
+        "verified": true
+      }
+    ]
+  }
+}

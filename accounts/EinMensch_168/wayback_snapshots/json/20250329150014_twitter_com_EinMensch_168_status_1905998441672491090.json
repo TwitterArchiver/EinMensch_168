@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "1905998441672491090",
+    "created_at": "2025-03-29T15:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T16:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905998441672491090"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1905998441672491090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想了解日本近代以来的左翼运动史，但是不知道上哪找资料（最好是中文版）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "1905998441672491090",
+        "created_at": "2025-03-29T15:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T16:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905998441672491090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905998441672491090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想了解日本近代以来的左翼运动史，但是不知道上哪找资料（最好是中文版）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "是个生物就对了",
+        "id": "1659190798104297476",
+        "name": "EinMensch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884943704986714112/Bu12rl1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 68,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

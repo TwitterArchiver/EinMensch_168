@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2055854188568146304",
+    "created_at": "2026-05-17T03:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T04:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055854188568146304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1895463022367498240",
+          "start": 3,
+          "username": "never_noticee"
+        },
+        {
+          "end": 47,
+          "id": "1659190798104297476",
+          "start": 33,
+          "username": "EinMensch_168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055854188568146304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055671544316297438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @never_noticee: 以后bot的日常帖什么会交给@EinMensch_168来管理\n希望大家继续关注bot哦awa\nbot要暂退一段时间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2055854188568146304",
+        "created_at": "2026-05-17T03:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055854188568146304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1895463022367498240",
+              "start": 3,
+              "username": "never_noticee"
+            },
+            {
+              "end": 47,
+              "id": "1659190798104297476",
+              "start": 33,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055854188568146304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055671544316297438",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @never_noticee: 以后bot的日常帖什么会交给@EinMensch_168来管理\n希望大家继续关注bot哦awa\nbot要暂退一段时间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895463022367498240",
+        "conversation_id": "2055671544316297438",
+        "created_at": "2026-05-16T15:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055671544316297438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1659190798104297476",
+              "start": 14,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055671544316297438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以后bot的日常帖什么会交给@EinMensch_168来管理\n希望大家继续关注bot哦awa\nbot要暂退一段时间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10年下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨尽力让自己变得更好丨我在学习与研究丨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2055650664039248103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 329,
+          "like_count": 3093,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 1209
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-28T13:16:44.000Z",
+        "description": "日常水推/日常帖/bot/天然蠢废/是个学生\n平时水课，假期发癫，可能也会记录一些互联网怪事（存疑）\n一个无趣的灵魂游荡ing\n日常账号接管：@EinMensch_168\n贴贴：@ztrolzl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "EinMensch_168"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "ztrolzl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hikaribot.edgeone.app",
+                "end": 23,
+                "expanded_url": "http://hikaribot.edgeone.app",
+                "start": 0,
+                "url": "https://t.co/nDRmWS3xEQ"
+              }
+            ]
+          }
+        },
+        "id": "1895463022367498240",
+        "location": "互联网废墟 ",
+        "name": "落叶sour-ce",
+        "pinned_tweet_id": "2050974256843153753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045451931754319872/pVp-K_EW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 63,
+          "like_count": 1371,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/nDRmWS3xEQ",
+        "username": "never_noticee",
+        "verified": false
+      }
+    ]
+  }
+}

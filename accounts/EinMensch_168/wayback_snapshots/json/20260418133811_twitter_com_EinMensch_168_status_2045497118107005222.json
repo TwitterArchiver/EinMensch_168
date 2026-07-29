@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2045490798121423238",
+    "created_at": "2026-04-18T13:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T14:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045497118107005222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1871870968744042497",
+          "start": 0,
+          "username": "MagicDrops_Nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045497118107005222",
+    "in_reply_to_user_id": "1871870968744042497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045490798121423238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MagicDrops_Nya 死是比盐更永恒的痛苦的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2045490798121423238",
+        "created_at": "2026-04-18T13:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045497118107005222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1871870968744042497",
+              "start": 0,
+              "username": "MagicDrops_Nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045497118107005222",
+        "in_reply_to_user_id": "1871870968744042497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045490798121423238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MagicDrops_Nya 死是比盐更永恒的痛苦的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871870968744042497",
+        "conversation_id": "2045490798121423238",
+        "created_at": "2026-04-18T13:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045490798121423238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045490798121423238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想买盐了，但是用盐死掉也会很痛苦\n有什么好方法呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃2.1，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。\n            ——双刀王小桃-2026-3.1",
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2040416708238954882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 157,
+          "like_count": 583,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 366
+        },
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-25T10:50:15.000Z",
+        "description": "👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️👁️",
+        "id": "1871870968744042497",
+        "name": "🏳️‍⚧️怪味糖🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044749720531484672/CuXdcLfu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 48,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "username": "MagicDrops_Nya",
+        "verified": false
+      }
+    ]
+  }
+}

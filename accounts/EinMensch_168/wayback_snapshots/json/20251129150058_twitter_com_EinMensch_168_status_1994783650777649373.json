@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993964364286795776"
+      ],
+      "media_source_tweet_id": [
+        "1993964370850926683"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "1994783650777649373",
+    "created_at": "2025-11-29T15:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T16:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994783650777649373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1963434136145989634",
+          "start": 3,
+          "username": "biantaishabi5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ur8nP5c0Uh",
+          "end": 54,
+          "expanded_url": "https://x.com/biantaishabi5/status/1993964370850926683/photo/1",
+          "media_key": "3_1993964364286795776",
+          "start": 31,
+          "url": "https://t.co/Ur8nP5c0Uh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994783650777649373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 138
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993964370850926683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @biantaishabi5: 消防员何伟豪，不幸殉职 https://t.co/Ur8nP5c0Uh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1126,
+        "media_key": "3_1993964364286795776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6v8BlwaIAAJywx.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993964364286795776"
+          ],
+          "media_source_tweet_id": [
+            "1993964370850926683"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "1994783650777649373",
+        "created_at": "2025-11-29T15:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994783650777649373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1963434136145989634",
+              "start": 3,
+              "username": "biantaishabi5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ur8nP5c0Uh",
+              "end": 54,
+              "expanded_url": "https://x.com/biantaishabi5/status/1993964370850926683/photo/1",
+              "media_key": "3_1993964364286795776",
+              "start": 31,
+              "url": "https://t.co/Ur8nP5c0Uh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994783650777649373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 138
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993964370850926683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @biantaishabi5: 消防员何伟豪，不幸殉职 https://t.co/Ur8nP5c0Uh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993964364286795776"
+          ]
+        },
+        "author_id": "1963434136145989634",
+        "conversation_id": "1993964370850926683",
+        "created_at": "2025-11-27T08:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993964370850926683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ur8nP5c0Uh",
+              "end": 35,
+              "expanded_url": "https://x.com/biantaishabi5/status/1993964370850926683/photo/1",
+              "media_key": "3_1993964364286795776",
+              "start": 12,
+              "url": "https://t.co/Ur8nP5c0Uh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993964370850926683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 249674,
+          "like_count": 3946,
+          "quote_count": 21,
+          "reply_count": 657,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "消防员何伟豪，不幸殉职 https://t.co/Ur8nP5c0Uh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "学习雷锋好榜样",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "潘国平",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994670725547134982/w88gQyLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 132,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 31
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T02:49:28.000Z",
+        "description": "人如其名",
+        "id": "1963434136145989634",
+        "location": "改则县",
+        "name": "biantaishabi5",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963473697949597696/QBk7CJiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2997,
+          "following_count": 922,
+          "like_count": 13972,
+          "listed_count": 19,
+          "media_count": 1647,
+          "tweet_count": 24947
+        },
+        "username": "biantaishabi5",
+        "verified": false
+      }
+    ]
+  }
+}

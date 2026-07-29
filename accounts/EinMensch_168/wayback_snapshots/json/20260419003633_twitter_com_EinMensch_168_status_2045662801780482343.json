@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2040416708238954882",
+    "created_at": "2026-04-19T00:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T01:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045662801780482343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1569933180270161920",
+          "start": 0,
+          "username": "AcdeAsdff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045662801780482343",
+    "in_reply_to_user_id": "1569933180270161920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045662627477799414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcdeAsdff 我一直在手动记录你们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2040416708238954882",
+        "created_at": "2026-04-19T00:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T01:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045662801780482343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1569933180270161920",
+              "start": 0,
+              "username": "AcdeAsdff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045662801780482343",
+        "in_reply_to_user_id": "1569933180270161920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045662627477799414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcdeAsdff 我一直在手动记录你们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569933180270161920",
+        "conversation_id": "2040416708238954882",
+        "created_at": "2026-04-19T00:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T01:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045662627477799414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045662627477799414",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040416708238954882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 不是ai总结就好，当代语言模型就是投骰子说话（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃2.1，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。\n            ——双刀王小桃-2026-3.1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2040416708238954882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 170,
+          "like_count": 782,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 442
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-14T06:17:08.000Z",
+        "description": "(with mental illness)\ngf:@AnqilaSong \ntgID:@Algebraic39\n性别未定大葱妹\ncn/en.\n要qq号私聊找我\nhttps://t.co/Sz8mm2tTQL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "AnqilaSong"
+              },
+              {
+                "end": 55,
+                "start": 43,
+                "username": "Algebraic39"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/acdeasdff1",
+                "end": 103,
+                "expanded_url": "https://ngl.link/acdeasdff1",
+                "start": 80,
+                "url": "https://t.co/Sz8mm2tTQL"
+              }
+            ]
+          }
+        },
+        "id": "1569933180270161920",
+        "location": "39,39,39",
+        "name": "AcdeAsdff",
+        "pinned_tweet_id": "1913861360020308384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998327605788082176/wWqEOTX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 285,
+          "like_count": 17496,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1852
+        },
+        "username": "AcdeAsdff",
+        "verified": false
+      }
+    ]
+  }
+}

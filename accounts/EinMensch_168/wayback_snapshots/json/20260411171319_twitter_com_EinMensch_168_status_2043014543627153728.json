@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2043014543627153728",
+    "created_at": "2026-04-11T17:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043014543627153728"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043014543627153728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开水的味道入口先是烫，下意识反应吐掉后是辣味，非常辣，只能去含着凉水减轻，而且过一段时间就得吐掉重新含，不然会变得和原先一样辣，这样至少得过个半小时辣才减轻，之后是整个嘴巴都痛，吃什么都痛，味觉也失灵，只剩下辣和痛，这种情况至少持续四个星期（去医院检查医生的建议只有多吃水果补维C"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2043014543627153728",
+        "created_at": "2026-04-11T17:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043014543627153728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043014543627153728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开水的味道入口先是烫，下意识反应吐掉后是辣味，非常辣，只能去含着凉水减轻，而且过一段时间就得吐掉重新含，不然会变得和原先一样辣，这样至少得过个半小时辣才减轻，之后是整个嘴巴都痛，吃什么都痛，味觉也失灵，只剩下辣和痛，这种情况至少持续四个星期（去医院检查医生的建议只有多吃水果补维C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃1.0，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。\n            ——双刀王小桃-2026-3.1",
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 115,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 163
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050242897346490368"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2050243093216239825",
+    "created_at": "2026-05-01T15:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T16:56:13.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050242900378948006",
+      "2050243093216239825"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AcJSjStl2R",
+          "end": 28,
+          "expanded_url": "https://x.com/EinMensch_168/status/2050243093216239825/photo/1",
+          "media_key": "3_2050242897346490368",
+          "start": 5,
+          "url": "https://t.co/AcJSjStl2R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050243093216239825",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/AcJSjStl2R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 250,
+        "media_key": "3_2050242897346490368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPtDW-a8AAJMw5.jpg",
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050242897346490368"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2050242900378948006",
+        "created_at": "2026-05-01T15:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:56:13.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050242900378948006",
+          "2050243093216239825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GkefDF5qXE",
+              "end": 27,
+              "expanded_url": "https://x.com/EinMensch_168/status/2050242900378948006/photo/1",
+              "media_key": "3_2050242897346490368",
+              "start": 4,
+              "url": "https://t.co/GkefDF5qXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050242900378948006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新头像 https://t.co/GkefDF5qXE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050242897346490368"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2050243093216239825",
+        "created_at": "2026-05-01T15:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:56:13.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050242900378948006",
+          "2050243093216239825"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AcJSjStl2R",
+              "end": 28,
+              "expanded_url": "https://x.com/EinMensch_168/status/2050243093216239825/photo/1",
+              "media_key": "3_2050242897346490368",
+              "start": 5,
+              "url": "https://t.co/AcJSjStl2R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050243093216239825",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/AcJSjStl2R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10下旬生人丨不OD不割手丨🖤🩶🤍💚🤍🩶🖤丨我将持续思考如何整个狠活让我出名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050242839611871232/TnkpToro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 256,
+          "like_count": 2040,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 861
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

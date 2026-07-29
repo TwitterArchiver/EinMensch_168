@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889165506915291136"
+      ],
+      "media_source_tweet_id": [
+        "1889165510245511482"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "1913084490014236797",
+    "created_at": "2025-04-18T04:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T05:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913084490014236797"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "孙中山"
+        },
+        {
+          "end": 57,
+          "start": 53,
+          "tag": "毛泽东"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1759855218722799616",
+          "start": 3,
+          "username": "Along_Catcat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XGQpTq12Dx",
+          "end": 81,
+          "expanded_url": "https://x.com/Along_Catcat/status/1889165510245511482/photo/1",
+          "media_key": "3_1889165506915291136",
+          "start": 58,
+          "url": "https://t.co/XGQpTq12Dx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913084490014236797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889165510245511482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Along_Catcat: 孙中山让中国人民醒过来了🇹🇼\n毛泽东让中国人民站起来了🇨🇳\n#孙中山 #毛泽东 https://t.co/XGQpTq12Dx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1889165506915291136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjeqBPGbUAAHase.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889165506915291136"
+          ],
+          "media_source_tweet_id": [
+            "1889165510245511482"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "1913084490014236797",
+        "created_at": "2025-04-18T04:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T05:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913084490014236797"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "孙中山"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "毛泽东"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1759855218722799616",
+              "start": 3,
+              "username": "Along_Catcat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XGQpTq12Dx",
+              "end": 81,
+              "expanded_url": "https://x.com/Along_Catcat/status/1889165510245511482/photo/1",
+              "media_key": "3_1889165506915291136",
+              "start": 58,
+              "url": "https://t.co/XGQpTq12Dx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913084490014236797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889165510245511482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Along_Catcat: 孙中山让中国人民醒过来了🇹🇼\n毛泽东让中国人民站起来了🇨🇳\n#孙中山 #毛泽东 https://t.co/XGQpTq12Dx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889165506915291136"
+          ]
+        },
+        "author_id": "1759855218722799616",
+        "conversation_id": "1889165510245511482",
+        "created_at": "2025-02-11T04:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T05:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889165510245511482"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "孙中山"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "毛泽东"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XGQpTq12Dx",
+              "end": 63,
+              "expanded_url": "https://x.com/Along_Catcat/status/1889165510245511482/photo/1",
+              "media_key": "3_1889165506915291136",
+              "start": 40,
+              "url": "https://t.co/XGQpTq12Dx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889165510245511482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 18848,
+          "like_count": 301,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "孙中山让中国人民醒过来了🇹🇼\n毛泽东让中国人民站起来了🇨🇳\n#孙中山 #毛泽东 https://t.co/XGQpTq12Dx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "マルクス主義/毛沢東主義/反官僚主義、形式主義/反抑圧搾取/平等を主張/学習中/中国人",
+        "id": "1659190798104297476",
+        "location": "世界の人々は団結している",
+        "name": "EinMensch🇨🇳",
+        "pinned_tweet_id": "1906716661366837264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884943704986714112/Bu12rl1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 103,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 33
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T08:19:19.000Z",
+        "description": "这里是阿龙捏\n本人furry控/社民和平主义者🌹☮️/温和马列主义者☭✯/半建制半民主派/包容大多数政治立场和意识形态/海峡两岸和平统一🇨🇳❤️🇹🇼️/巴勒斯坦人民必胜🇵🇸🍉\n欢迎各位来和我交朋友呀₍^˶-𖥦-˵^₎੭",
+        "id": "1759855218722799616",
+        "location": "中华人民共和国 福建省",
+        "name": "𝕏阿龙Along☮",
+        "pinned_tweet_id": "1911965231787741497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912352882239721472/96NCf63E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 1142,
+          "like_count": 15295,
+          "listed_count": 6,
+          "media_count": 244,
+          "tweet_count": 1938
+        },
+        "username": "Along_Catcat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2068646304679645233",
+    "created_at": "2026-06-21T10:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068647791203962882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1601617260439044096",
+          "start": 0,
+          "username": "we_0587"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068647791203962882",
+    "in_reply_to_user_id": "1601617260439044096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068646304679645233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@we_0587 我真要试试了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2068646301810782208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVO2fFbcAA4qox.jpg",
+        "width": 720
+      },
+      {
+        "height": 1604,
+        "media_key": "3_2068646302557302784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVO2h3acAAqst9.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2068646304679645233",
+        "created_at": "2026-06-21T10:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068647791203962882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1601617260439044096",
+              "start": 0,
+              "username": "we_0587"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068647791203962882",
+        "in_reply_to_user_id": "1601617260439044096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068646304679645233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@we_0587 我真要试试了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068646301810782208",
+            "3_2068646302557302784"
+          ]
+        },
+        "author_id": "1601617260439044096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068646304679645233",
+        "created_at": "2026-06-21T10:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068646304679645233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3KPmSqRyyK",
+              "end": 42,
+              "expanded_url": "https://x.com/we_0587/status/2068646304679645233/photo/1",
+              "media_key": "3_2068646301810782208",
+              "start": 19,
+              "url": "https://t.co/3KPmSqRyyK"
+            },
+            {
+              "display_url": "pic.x.com/3KPmSqRyyK",
+              "end": 42,
+              "expanded_url": "https://x.com/we_0587/status/2068646304679645233/photo/1",
+              "media_key": "3_2068646302557302784",
+              "start": 19,
+              "url": "https://t.co/3KPmSqRyyK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068646304679645233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这样真的好吃 相信我 真的好吃啊！！ https://t.co/3KPmSqRyyK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 362,
+          "like_count": 3336,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 1424
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-10T16:38:17.000Z",
+        "description": "你好 我是個好人:D / (我純樂子 別看我 我怕)（不是mtf不是mtf不是mtf）",
+        "id": "1601617260439044096",
+        "name": "WE",
+        "pinned_tweet_id": "2063620922482012271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025956937263886336/39mcej-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 224,
+          "like_count": 1094,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1039
+        },
+        "url": "",
+        "username": "we_0587",
+        "verified": false
+      }
+    ]
+  }
+}

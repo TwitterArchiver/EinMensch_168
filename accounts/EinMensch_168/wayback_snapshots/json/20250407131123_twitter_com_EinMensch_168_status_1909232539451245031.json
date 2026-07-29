@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909232526671183872",
+        "3_1909232534854225920",
+        "3_1909232533818269696",
+        "3_1909232533897957376"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "1909232539451245031",
+    "created_at": "2025-04-07T13:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T14:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909232539451245031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4tb34zAgst",
+          "end": 110,
+          "expanded_url": "https://x.com/EinMensch_168/status/1909232539451245031/photo/1",
+          "media_key": "3_1909232526671183872",
+          "start": 87,
+          "url": "https://t.co/4tb34zAgst"
+        },
+        {
+          "display_url": "pic.x.com/4tb34zAgst",
+          "end": 110,
+          "expanded_url": "https://x.com/EinMensch_168/status/1909232539451245031/photo/1",
+          "media_key": "3_1909232534854225920",
+          "start": 87,
+          "url": "https://t.co/4tb34zAgst"
+        },
+        {
+          "display_url": "pic.x.com/4tb34zAgst",
+          "end": 110,
+          "expanded_url": "https://x.com/EinMensch_168/status/1909232539451245031/photo/1",
+          "media_key": "3_1909232533818269696",
+          "start": 87,
+          "url": "https://t.co/4tb34zAgst"
+        },
+        {
+          "display_url": "pic.x.com/4tb34zAgst",
+          "end": 110,
+          "expanded_url": "https://x.com/EinMensch_168/status/1909232539451245031/photo/1",
+          "media_key": "3_1909232533897957376",
+          "start": 87,
+          "url": "https://t.co/4tb34zAgst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909232539451245031",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1975 年に改正された「中華人民共和国憲法」では、国民にはストライキの権利があると規定されていますが、1982 年に新たに改正された憲法でストライキの権利は削除されました https://t.co/4tb34zAgst"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1909232526671183872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn703hHbgAAyL5a.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1909232534854225920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn703_ma0AAAs9D.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1909232533818269696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn7037vbYAAMz8T.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1909232533897957376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn7038CbUAABOC0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909232526671183872",
+            "3_1909232534854225920",
+            "3_1909232533818269696",
+            "3_1909232533897957376"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "1909232539451245031",
+        "created_at": "2025-04-07T13:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T14:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909232539451245031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4tb34zAgst",
+              "end": 110,
+              "expanded_url": "https://x.com/EinMensch_168/status/1909232539451245031/photo/1",
+              "media_key": "3_1909232526671183872",
+              "start": 87,
+              "url": "https://t.co/4tb34zAgst"
+            },
+            {
+              "display_url": "pic.x.com/4tb34zAgst",
+              "end": 110,
+              "expanded_url": "https://x.com/EinMensch_168/status/1909232539451245031/photo/1",
+              "media_key": "3_1909232534854225920",
+              "start": 87,
+              "url": "https://t.co/4tb34zAgst"
+            },
+            {
+              "display_url": "pic.x.com/4tb34zAgst",
+              "end": 110,
+              "expanded_url": "https://x.com/EinMensch_168/status/1909232539451245031/photo/1",
+              "media_key": "3_1909232533818269696",
+              "start": 87,
+              "url": "https://t.co/4tb34zAgst"
+            },
+            {
+              "display_url": "pic.x.com/4tb34zAgst",
+              "end": 110,
+              "expanded_url": "https://x.com/EinMensch_168/status/1909232539451245031/photo/1",
+              "media_key": "3_1909232533897957376",
+              "start": 87,
+              "url": "https://t.co/4tb34zAgst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909232539451245031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1975 年に改正された「中華人民共和国憲法」では、国民にはストライキの権利があると規定されていますが、1982 年に新たに改正された憲法でストライキの権利は削除されました https://t.co/4tb34zAgst"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "マルクス主義/毛沢東主義/反官僚主義、形式主義/反抑圧搾取/平等を主張/学習中/中国人",
+        "id": "1659190798104297476",
+        "name": "EinMensch🇨🇳",
+        "pinned_tweet_id": "1906716661366837264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884943704986714112/Bu12rl1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 97,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 30
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

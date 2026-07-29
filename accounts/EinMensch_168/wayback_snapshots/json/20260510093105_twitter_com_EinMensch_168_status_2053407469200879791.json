@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2053322605785186591",
+    "created_at": "2026-05-10T09:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053407469200879791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1878480066088402944",
+          "start": 0,
+          "username": "cjfx1892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053407469200879791",
+    "in_reply_to_user_id": "1878480066088402944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053402034653819215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cjfx1892 实践出真知"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2053322605785186591",
+        "created_at": "2026-05-10T09:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053407469200879791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1878480066088402944",
+              "start": 0,
+              "username": "cjfx1892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053407469200879791",
+        "in_reply_to_user_id": "1878480066088402944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053402034653819215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cjfx1892 实践出真知"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878480066088402944",
+        "conversation_id": "2053322605785186591",
+        "created_at": "2026-05-10T09:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053402034653819215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053402034653819215",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053322605785186591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 会先爆炸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10年下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨尽力让自己变得更好丨我在学习与研究",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2050968410188820804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 310,
+          "like_count": 2920,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 1128
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-12T16:33:09.000Z",
+        "description": "狂った。",
+        "id": "1878480066088402944",
+        "location": "The earth ",
+        "name": "林檎斎主人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878484132885680128/3aVNGZPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 51,
+          "like_count": 1269,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 974
+        },
+        "username": "cjfx1892",
+        "verified": false
+      }
+    ]
+  }
+}

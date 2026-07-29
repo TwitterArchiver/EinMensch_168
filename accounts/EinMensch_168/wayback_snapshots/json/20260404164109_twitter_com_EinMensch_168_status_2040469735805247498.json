@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040469733494153216"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2040469735805247498",
+    "created_at": "2026-04-04T16:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T17:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040469735805247498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wSFomj72Ap",
+          "end": 26,
+          "expanded_url": "https://x.com/EinMensch_168/status/2040469735805247498/photo/1",
+          "media_key": "3_2040469733494153216",
+          "start": 3,
+          "url": "https://t.co/wSFomj72Ap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040469735805247498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "学习 https://t.co/wSFomj72Ap"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 561,
+        "media_key": "3_2040469733494153216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFE0aWfa4AAFUgR.jpg",
+        "width": 649
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040469733494153216"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2040469735805247498",
+        "created_at": "2026-04-04T16:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040469735805247498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wSFomj72Ap",
+              "end": 26,
+              "expanded_url": "https://x.com/EinMensch_168/status/2040469735805247498/photo/1",
+              "media_key": "3_2040469733494153216",
+              "start": 3,
+              "url": "https://t.co/wSFomj72Ap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040469735805247498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学习 https://t.co/wSFomj72Ap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我已内卷致死｜在校高一学生\n我来外网纯是因为无聊",
+        "id": "1659190798104297476",
+        "location": "位置",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 77,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 69
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

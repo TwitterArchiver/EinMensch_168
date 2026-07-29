@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "1993971031325987004",
+    "created_at": "2025-11-29T07:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T08:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994671997360697438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "85221173",
+          "start": 0,
+          "username": "daneishe888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994671997360697438",
+    "in_reply_to_user_id": "85221173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993971031325987004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daneishe888 不用理会这种人，直接无视就好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1427,
+        "media_key": "3_1993971029186850816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wCFicaMAAab9v.jpg",
+        "width": 1215
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "1993971031325987004",
+        "created_at": "2025-11-29T07:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994671997360697438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "85221173",
+              "start": 0,
+              "username": "daneishe888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994671997360697438",
+        "in_reply_to_user_id": "85221173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993971031325987004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daneishe888 不用理会这种人，直接无视就好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993971029186850816"
+          ]
+        },
+        "author_id": "85221173",
+        "conversation_id": "1993971031325987004",
+        "created_at": "2025-11-27T09:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993971031325987004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "打倒中国共产党，自由属于中国人民。Overthrow the Chinese Communist Party and freedom belongs to the Chinese people",
+              "display_url": "x.com/ZhengJia47318?…",
+              "end": 56,
+              "expanded_url": "https://x.com/ZhengJia47318?t=HDbAFT_Jcb4LTXHN4OoZPQ&s=09",
+              "start": 33,
+              "status": 200,
+              "title": "勿忘1989年6月4日 (@ZhengJia47318) on X",
+              "unwound_url": "https://x.com/ZhengJia47318?t=HDbAFT_Jcb4LTXHN4OoZPQ&s=09",
+              "url": "https://t.co/ew3FmP0t62"
+            },
+            {
+              "display_url": "pic.x.com/P7KyfH0C4g",
+              "end": 80,
+              "expanded_url": "https://x.com/daneishe888/status/1993971031325987004/photo/1",
+              "media_key": "3_1993971029186850816",
+              "start": 57,
+              "url": "https://t.co/P7KyfH0C4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993971031325987004",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2197,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "なんか変な奴にフォロワーされたので晒しておく。\n(ブロック済)\n\nhttps://t.co/ew3FmP0t62 https://t.co/P7KyfH0C4g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "学习雷锋好榜样",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "潘国平",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994670725547134982/w88gQyLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 132,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 29
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-26T02:41:51.000Z",
+        "description": "日中友好！我是会说中文的有良心日本人☺️手机=Find X8s、中国留学経験あり、中国語のみで会話可能😃情報処理安全確保支援士/ネットワークスペシャリスト、課長職、好きなTVゲームはシェンムー、アドバンスド大戦略(メガドライブ版)、A列車で行こう4／3DS、グラディウスIII😉中国人との恋愛経験複数、日本人は0😆",
+        "id": "85221173",
+        "location": "Tokyo-to, Japan",
+        "name": "she888🇯🇵🤝🇨🇳日中友好！",
+        "pinned_tweet_id": "1281189599285374977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223411646850199552/SOc4SFe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2692,
+          "following_count": 219,
+          "like_count": 88227,
+          "listed_count": 16,
+          "media_count": 3162,
+          "tweet_count": 72404
+        },
+        "username": "daneishe888",
+        "verified": false
+      }
+    ]
+  }
+}

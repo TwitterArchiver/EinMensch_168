@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2060623335478968320"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2060623405288968630",
+    "created_at": "2026-05-30T07:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060623405288968630"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tVKqANBXuc",
+          "end": 31,
+          "expanded_url": "https://x.com/EinMensch_168/status/2060623405288968630/video/1",
+          "media_key": "7_2060623335478968320",
+          "start": 8,
+          "url": "https://t.co/tVKqANBXuc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060623405288968630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亿万人和平友爱 https://t.co/tVKqANBXuc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36266,
+        "height": 720,
+        "media_key": "7_2060623335478968320",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060623335478968320/pu/img/Wg5MfPu_BMKQ-ZsT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060623335478968320/pu/vid/avc1/480x270/QF4b5xvEdd_EZwOf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060623335478968320/pu/vid/avc1/640x360/Lo7scT9h_bHJWoBv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060623335478968320/pu/vid/avc1/1280x720/V5PcqIqhO2-K4oGI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060623335478968320/pu/pl/ZJ4M1MJ5JxY2dfQA.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060623335478968320"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2060623405288968630",
+        "created_at": "2026-05-30T07:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060623405288968630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVKqANBXuc",
+              "end": 31,
+              "expanded_url": "https://x.com/EinMensch_168/status/2060623405288968630/video/1",
+              "media_key": "7_2060623335478968320",
+              "start": 8,
+              "url": "https://t.co/tVKqANBXuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060623405288968630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亿万人和平友爱 https://t.co/tVKqANBXuc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10年下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨尽力让自己变得更好丨我在学习与研究丨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2057739937395716186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 326,
+          "like_count": 3138,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 1246
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      }
+    ]
+  }
+}

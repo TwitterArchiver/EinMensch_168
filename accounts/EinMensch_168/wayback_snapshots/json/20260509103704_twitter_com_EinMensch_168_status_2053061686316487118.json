@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2053060907929075775",
+    "created_at": "2026-05-09T10:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053061686316487118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955218488185982980",
+          "start": 0,
+          "username": "bbbkamen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053061686316487118",
+    "in_reply_to_user_id": "1955218488185982980",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053060907929075775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbbkamen 我有500gAR KNO₃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2053060849787699200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3v9x3bgAAhZGB.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2053060907929075775",
+        "created_at": "2026-05-09T10:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053061686316487118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955218488185982980",
+              "start": 0,
+              "username": "bbbkamen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053061686316487118",
+        "in_reply_to_user_id": "1955218488185982980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053060907929075775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbbkamen 我有500gAR KNO₃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053060849787699200"
+          ]
+        },
+        "author_id": "1955218488185982980",
+        "conversation_id": "2053060907929075775",
+        "created_at": "2026-05-09T10:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053060907929075775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yoz9p2BMCW",
+              "end": 36,
+              "expanded_url": "https://x.com/bbbkamen/status/2053060907929075775/photo/1",
+              "media_key": "3_2053060849787699200",
+              "start": 13,
+              "url": "https://t.co/Yoz9p2BMCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053060907929075775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两罐硝酸钾(*^ω^*) https://t.co/Yoz9p2BMCW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨我将持续思考如何整个狠活让我出名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2050968410188820804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050563509176672256/H_sZedmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 293,
+          "like_count": 2680,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1072
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-12T10:43:18.000Z",
+        "description": "传奇耐电王/MTX/出厂日09.7.11/友跨/高二物化生/不政/🍥凝胶💊OD/正在关注圈子情况/前世@aaakamen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "aaakamen"
+              }
+            ]
+          }
+        },
+        "id": "1955218488185982980",
+        "location": "中国河北",
+        "name": "一颗地雷/柒酱",
+        "pinned_tweet_id": "2040935095008407933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040938841524301824/DBpinweT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 320,
+          "like_count": 431,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 169
+        },
+        "username": "bbbkamen",
+        "verified": false
+      }
+    ]
+  }
+}

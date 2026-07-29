@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051341236448186372"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051341244702642557",
+    "created_at": "2026-05-04T16:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T17:40:24.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051341183788753147",
+      "2051341244702642557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z4u6wYl5ea",
+          "end": 26,
+          "expanded_url": "https://x.com/EinMensch_168/status/2051341244702642557/photo/1",
+          "media_key": "3_2051341236448186372",
+          "start": 3,
+          "url": "https://t.co/Z4u6wYl5ea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051341244702642557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜报 https://t.co/Z4u6wYl5ea"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2051341236448186372",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfT_G-a0AQbRML.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051341170253680641"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051341183788753147",
+        "created_at": "2026-05-04T16:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:40:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051341183788753147",
+          "2051341244702642557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojqn7TScgm",
+              "end": 26,
+              "expanded_url": "https://x.com/EinMensch_168/status/2051341183788753147/photo/1",
+              "media_key": "3_2051341170253680641",
+              "start": 3,
+              "url": "https://t.co/ojqn7TScgm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051341183788753147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朗报 https://t.co/ojqn7TScgm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051341236448186372"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051341244702642557",
+        "created_at": "2026-05-04T16:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:40:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051341183788753147",
+          "2051341244702642557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z4u6wYl5ea",
+              "end": 26,
+              "expanded_url": "https://x.com/EinMensch_168/status/2051341244702642557/photo/1",
+              "media_key": "3_2051341236448186372",
+              "start": 3,
+              "url": "https://t.co/Z4u6wYl5ea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051341244702642557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜报 https://t.co/Z4u6wYl5ea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨我将持续思考如何整个狠活让我出名丨我将挑战性激素双低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2050968410188820804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050563509176672256/H_sZedmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 281,
+          "like_count": 2553,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 1014
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      }
+    ]
+  }
+}

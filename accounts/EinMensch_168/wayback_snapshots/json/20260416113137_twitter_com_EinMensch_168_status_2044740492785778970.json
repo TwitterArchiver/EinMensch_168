@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2044558994090717363",
+    "created_at": "2026-04-16T11:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044740492785778970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029552862637002752",
+          "start": 0,
+          "username": "HPnqm14412"
+        },
+        {
+          "end": 24,
+          "id": "2032033299980566528",
+          "start": 12,
+          "username": "rinii165892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044740492785778970",
+    "in_reply_to_user_id": "2029552862637002752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044632937183039951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HPnqm14412 @rinii165892 监狱会有人正视你的需求"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2044558994090717363",
+        "created_at": "2026-04-16T11:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044740492785778970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029552862637002752",
+              "start": 0,
+              "username": "HPnqm14412"
+            },
+            {
+              "end": 24,
+              "id": "2032033299980566528",
+              "start": 12,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044740492785778970",
+        "in_reply_to_user_id": "2029552862637002752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044632937183039951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HPnqm14412 @rinii165892 监狱会有人正视你的需求"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029552862637002752",
+        "conversation_id": "2044558994090717363",
+        "created_at": "2026-04-16T04:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044632937183039951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044632937183039951",
+        "in_reply_to_user_id": "2032033299980566528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 429,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044558994090717363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinii165892 学校和监狱差不多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃1.0，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。\n            ——双刀王小桃-2026-3.1",
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2040416708238954882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 127,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 222
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T13:41:37.000Z",
+        "description": "涡耀大武盟",
+        "id": "2029552862637002752",
+        "name": "KAKBQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041106418296823808/byR9otbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 27,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 2270
+        },
+        "url": "",
+        "username": "HPnqm14412",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "已完成今日大学习【寻回推u】🔪\n- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- \n生活在互联网！看成分互fo喵!/我是低龄糖逼大傻福，实在抱歉！\n超级严重失眠 -12现役初中生\n^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀小号@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 148,
+                "start": 136,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rin36611",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rin36611",
+                "start": 0,
+                "url": "https://t.co/eWuyqK1iCB"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040872269401276416/xul0eQRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 766,
+          "like_count": 5962,
+          "listed_count": 4,
+          "media_count": 123,
+          "tweet_count": 3233
+        },
+        "url": "https://t.co/eWuyqK1iCB",
+        "username": "rinii165892",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T13:41:37.000Z",
+        "description": "涡耀大武盟",
+        "id": "2029552862637002752",
+        "name": "KAKBQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041106418296823808/byR9otbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 27,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 2270
+        },
+        "username": "HPnqm14412",
+        "verified": false
+      }
+    ]
+  }
+}

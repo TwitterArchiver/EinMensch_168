@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2048229764717031432",
+    "created_at": "2026-04-26T03:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T04:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048244184637939932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557541453253038080",
+          "start": 0,
+          "username": "KawawaDiana8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048244184637939932",
+    "in_reply_to_user_id": "1557541453253038080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048229764717031432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaDiana8964 国内一个机构一个审美，有的极品，有的难言"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2048229764717031432",
+        "created_at": "2026-04-26T03:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048244184637939932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557541453253038080",
+              "start": 0,
+              "username": "KawawaDiana8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048244184637939932",
+        "in_reply_to_user_id": "1557541453253038080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048229764717031432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaDiana8964 国内一个机构一个审美，有的极品，有的难言"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557541453253038080",
+        "conversation_id": "2048229764717031432",
+        "created_at": "2026-04-26T02:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048229764717031432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shadowKrysztal…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/shadowKrysztal/status/2047572480605421944",
+              "start": 23,
+              "url": "https://t.co/JrdxhHIGO1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048229764717031432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047572480605421944",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在⏰️发下一个大头照前我不嘲讽中宣品味差了😂 https://t.co/JrdxhHIGO1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃2.1，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。🏳️‍🌈🏳️‍⚧️🏳️*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2047937776952484215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 239,
+          "like_count": 1741,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 796
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T01:36:58.000Z",
+        "description": "Alan大号读本停机检修中，支持枝江国际喵\n\n简中/English/Español/C/Python\nFriendly with everyone except SB,rac!st,支黑谣棍双标\nSUPPORT🇵🇸🇺🇦🇻🇪☮️↙️DemSoc,MLM\n#中推名人评分\n欢迎友好交流(8964=勿转內网)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 126,
+                "tag": "中推名人评分"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/672328094",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/672328094",
+                "start": 0,
+                "url": "https://t.co/wy2TJmQgyh"
+              }
+            ]
+          }
+        },
+        "id": "1557541453253038080",
+        "location": "枝江国际-灯塔(MA)分区",
+        "name": "蓝蓝🫐然然浪浪(✋🏻🐻📕Not In Service)",
+        "pinned_tweet_id": "2013029048490840096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037335222874955776/HbQF9it9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 642,
+          "like_count": 8076,
+          "listed_count": 8,
+          "media_count": 922,
+          "tweet_count": 3682
+        },
+        "url": "https://t.co/wy2TJmQgyh",
+        "username": "KawawaDiana8964",
+        "verified": false
+      }
+    ]
+  }
+}

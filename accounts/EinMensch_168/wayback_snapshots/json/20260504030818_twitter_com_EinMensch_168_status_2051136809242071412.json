@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2051136809242071412",
+    "created_at": "2026-05-04T03:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T04:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051136809242071412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xhFK114514/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/xhFK114514/status/2051134815735566774",
+          "start": 13,
+          "url": "https://t.co/ss4Mzh9lLQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051136809242071412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051134815735566774",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "五一怎么把我的智商清空了 https://t.co/ss4Mzh9lLQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2051136809242071412",
+        "created_at": "2026-05-04T03:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051136809242071412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xhFK114514/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/xhFK114514/status/2051134815735566774",
+              "start": 13,
+              "url": "https://t.co/ss4Mzh9lLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051136809242071412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051134815735566774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "五一怎么把我的智商清空了 https://t.co/ss4Mzh9lLQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018986573090717696",
+        "conversation_id": "2051134815735566774",
+        "created_at": "2026-05-04T03:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051134815735566774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wmy072011/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/wmy072011/status/2051116089522991470",
+              "start": 16,
+              "url": "https://t.co/VkhX9MsXKr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051134815735566774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051116089522991470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "五一努力学习计划又泡汤了😭😭😭 https://t.co/VkhX9MsXKr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨我将持续思考如何整个狠活让我出名丨我将挑战性激素双低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2050968410188820804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050563509176672256/H_sZedmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 276,
+          "like_count": 2365,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 955
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T09:56:48.000Z",
+        "description": "FuKarl7/2026年3月21日起活跃在此号/友跨🏳️‍⚧️(没翻车)/社恐/高三生/无糖(?)/含糖(?)/不od/不割手/互关/喵\n❤️❤️❤️❤️❤️：@ruoruoruoMing\n意义重大的日子：2026年3月15日/2026年3月29日/2026年5月2日",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "ruoruoruoMing"
+              }
+            ]
+          }
+        },
+        "id": "2018986573090717696",
+        "location": "天津",
+        "name": "阿这",
+        "pinned_tweet_id": "2041177750397223088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037862051725594624/P9TAAf07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 705,
+          "like_count": 3105,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 479
+        },
+        "username": "xhFK114514",
+        "verified": false
+      }
+    ]
+  }
+}

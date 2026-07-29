@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2049442778778906941",
+    "created_at": "2026-04-29T10:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049442936744767667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeikuhakushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049442936744767667",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049442778778906941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeikuhakushi 锟斤拷烫烫烫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049442776136491008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEVWLMbIAAnpoy.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2049442778778906941",
+        "created_at": "2026-04-29T10:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049442936744767667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049442936744767667",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049442778778906941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 锟斤拷烫烫烫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049442776136491008"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2049442778778906941",
+        "created_at": "2026-04-29T10:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049442778778906941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KyHwMrNbYW",
+              "end": 32,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2049442778778906941/photo/1",
+              "media_key": "3_2049442776136491008",
+              "start": 9,
+              "url": "https://t.co/KyHwMrNbYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049442778778906941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這是什麼鬼bug https://t.co/KyHwMrNbYW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃2.1，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。🏳️‍🌈🏳️‍⚧️🏳️*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2047937776952484215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 238,
+          "like_count": 1821,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 362,
+          "like_count": 11703,
+          "listed_count": 4,
+          "media_count": 679,
+          "tweet_count": 3449
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

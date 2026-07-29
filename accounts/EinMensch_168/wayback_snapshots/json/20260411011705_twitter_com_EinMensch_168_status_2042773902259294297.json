@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2042430858213417080",
+    "created_at": "2026-04-11T01:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T02:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042773902259294297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721863847185952768",
+          "start": 0,
+          "username": "IntelDriver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042773902259294297",
+    "in_reply_to_user_id": "1721863847185952768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042430858213417080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IntelDriver 对砖头进行CPR来抢救砖头"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2042430851028516864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgsCanagAAFBzr.jpg",
+        "width": 603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2042430858213417080",
+        "created_at": "2026-04-11T01:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042773902259294297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721863847185952768",
+              "start": 0,
+              "username": "IntelDriver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042773902259294297",
+        "in_reply_to_user_id": "1721863847185952768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042430858213417080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IntelDriver 对砖头进行CPR来抢救砖头"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042430851028516864"
+          ]
+        },
+        "author_id": "1721863847185952768",
+        "conversation_id": "2042430858213417080",
+        "created_at": "2026-04-10T02:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042430858213417080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9sh535bvS",
+              "end": 34,
+              "expanded_url": "https://x.com/IntelDriver/status/2042430858213417080/photo/1",
+              "media_key": "3_2042430851028516864",
+              "start": 11,
+              "url": "https://t.co/r9sh535bvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042430858213417080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 307,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你不是说能救砖嘛☝🤓 https://t.co/r9sh535bvS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃1.0，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。\n            ——双刀王小桃-2026-3.1",
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 105,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 121
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T12:15:13.000Z",
+        "description": "一只08年的高中牲｜不键政不od会搬石 ｜这里发现一只可爱的xyn喵？（我吸吸吸｜🏳️‍⚧️是友跨喵｜游戏成分极其复杂 最喜欢玩的就是cs🔫 虽然菜菜的喵🤓（｜visual/android studio重度依赖｜欢迎同类互fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ZhaYi-Miao",
+                "end": 23,
+                "expanded_url": "https://github.com/ZhaYi-Miao",
+                "start": 0,
+                "url": "https://t.co/eayqIffgWw"
+              }
+            ]
+          }
+        },
+        "id": "1721863847185952768",
+        "location": "in your heart",
+        "name": "ZhaYi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020171119429570560/HleURNqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 541,
+          "like_count": 2537,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 525
+        },
+        "url": "https://t.co/eayqIffgWw",
+        "username": "IntelDriver",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906721759656562688"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "1906025572242960591",
+    "created_at": "2025-03-31T14:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T15:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906721763116847601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1224987666422194177",
+          "start": 0,
+          "username": "Golden_Yumeme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fA0GsOWsPO",
+          "end": 38,
+          "expanded_url": "https://x.com/EinMensch_168/status/1906721763116847601/photo/1",
+          "media_key": "3_1906721759656562688",
+          "start": 15,
+          "url": "https://t.co/fA0GsOWsPO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906721763116847601",
+    "in_reply_to_user_id": "1224987666422194177",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906025572242960591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Golden_Yumeme https://t.co/fA0GsOWsPO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1314,
+        "media_key": "3_1906721759656562688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnYJVpHWUAAwpUT.jpg",
+        "width": 1051
+      },
+      {
+        "height": 1011,
+        "media_key": "3_1906021455005151232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnOMai_a8AAdZhu.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1588,
+        "media_key": "3_1906025496309334016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnOQFyBbAAAKRWu.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906721759656562688"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "1906025572242960591",
+        "created_at": "2025-03-31T14:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T15:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906721763116847601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1224987666422194177",
+              "start": 0,
+              "username": "Golden_Yumeme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fA0GsOWsPO",
+              "end": 38,
+              "expanded_url": "https://x.com/EinMensch_168/status/1906721763116847601/photo/1",
+              "media_key": "3_1906721759656562688",
+              "start": 15,
+              "url": "https://t.co/fA0GsOWsPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906721763116847601",
+        "in_reply_to_user_id": "1224987666422194177",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906025572242960591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Golden_Yumeme https://t.co/fA0GsOWsPO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906021455005151232",
+            "3_1906025496309334016"
+          ]
+        },
+        "author_id": "1224987666422194177",
+        "conversation_id": "1906025572242960591",
+        "created_at": "2025-03-29T16:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T17:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906025572242960591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZCAKbqmMwu",
+              "end": 51,
+              "expanded_url": "https://x.com/Golden_Yumeme/status/1906025572242960591/photo/1",
+              "media_key": "3_1906021455005151232",
+              "start": 28,
+              "url": "https://t.co/ZCAKbqmMwu"
+            },
+            {
+              "display_url": "pic.x.com/ZCAKbqmMwu",
+              "end": 51,
+              "expanded_url": "https://x.com/Golden_Yumeme/status/1906025572242960591/photo/1",
+              "media_key": "3_1906025496309334016",
+              "start": 28,
+              "url": "https://t.co/ZCAKbqmMwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906025572242960591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 16240,
+          "like_count": 894,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "←西洋史を解いてるときの俺\n→中国史を解いてるときの俺 https://t.co/ZCAKbqmMwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "马克思主义/毛泽东主义/反官僚主义、形式主义/反压迫剥削/主张人人平等/正在学习中",
+        "id": "1659190798104297476",
+        "name": "EinMensch",
+        "pinned_tweet_id": "1906716661366837264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884943704986714112/Bu12rl1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 75,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-05T09:26:44.000Z",
+        "description": "@Golden_Yumeme has not blocked you",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "Golden_Yumeme"
+              }
+            ]
+          }
+        },
+        "id": "1224987666422194177",
+        "location": "神奈川都",
+        "name": "ゆめめ",
+        "pinned_tweet_id": "1854156544512000154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774828980153327617/_cXvKqy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3724,
+          "following_count": 912,
+          "like_count": 149347,
+          "listed_count": 22,
+          "media_count": 5794,
+          "tweet_count": 19672
+        },
+        "username": "Golden_Yumeme",
+        "verified": true
+      }
+    ]
+  }
+}

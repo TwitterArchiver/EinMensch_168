@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2027370048973889988",
+    "created_at": "2026-02-27T14:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027391947351240903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1162511352",
+          "start": 0,
+          "username": "OHpowerengine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027391947351240903",
+    "in_reply_to_user_id": "1162511352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027370048973889988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OHpowerengine 非常好看的装备"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027370042288218112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKqT97boAAco3b.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027370042275549186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKqT94aUAInldq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2027370048973889988",
+        "created_at": "2026-02-27T14:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027391947351240903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1162511352",
+              "start": 0,
+              "username": "OHpowerengine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027391947351240903",
+        "in_reply_to_user_id": "1162511352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027370048973889988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHpowerengine 非常好看的装备"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027370042288218112",
+            "3_2027370042275549186"
+          ]
+        },
+        "author_id": "1162511352",
+        "conversation_id": "2027370048973889988",
+        "created_at": "2026-02-27T13:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027370048973889988"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Avizent DF2",
+              "probability": 0.6876,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sqm4HnYb5N",
+              "end": 49,
+              "expanded_url": "https://x.com/OHpowerengine/status/2027370048973889988/photo/1",
+              "media_key": "3_2027370042288218112",
+              "start": 26,
+              "url": "https://t.co/sqm4HnYb5N"
+            },
+            {
+              "display_url": "pic.x.com/sqm4HnYb5N",
+              "end": 49,
+              "expanded_url": "https://x.com/OHpowerengine/status/2027370048973889988/photo/1",
+              "media_key": "3_2027370042275549186",
+              "start": 26,
+              "url": "https://t.co/sqm4HnYb5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027370048973889988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 430,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "無事届いたゾ‼️念願のAvizent DF2が‼️ https://t.co/sqm4HnYb5N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我已内卷致死｜在校高一学生",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026364444683751424/wHBmVhSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 38,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-09T09:58:47.000Z",
+        "description": "オールドスクールFSB r/rusfor 無言フォローさせていただきます。2000-2008FSB装備収集中。",
+        "id": "1162511352",
+        "location": "Tokyo-to, Japan",
+        "name": "ハンクFSB",
+        "pinned_tweet_id": "2008817580648419811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889582718507425793/MI-YcPsG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 325,
+          "like_count": 899,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 433
+        },
+        "username": "OHpowerengine",
+        "verified": false
+      }
+    ]
+  }
+}

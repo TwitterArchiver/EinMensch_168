@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042948932406513664"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2042948934826631270",
+    "created_at": "2026-04-11T12:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T13:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042948934826631270"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gb0OZpyh2S",
+          "end": 110,
+          "expanded_url": "https://x.com/EinMensch_168/status/2042948934826631270/photo/1",
+          "media_key": "3_2042948932406513664",
+          "start": 87,
+          "url": "https://t.co/gb0OZpyh2S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042948934826631270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现，在出于公益性质的不求回报的帮助他人会让我的心情变好，同时我对未来看法也会更乐观积极。不过我现在进行线下志愿活动体能不允许，所以我打算试试学习心理学知识在网上帮助别人 https://t.co/gb0OZpyh2S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1281,
+        "media_key": "3_2042948932406513664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoDOuJakAA_QU2.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042948932406513664"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2042948934826631270",
+        "created_at": "2026-04-11T12:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042948934826631270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gb0OZpyh2S",
+              "end": 110,
+              "expanded_url": "https://x.com/EinMensch_168/status/2042948934826631270/photo/1",
+              "media_key": "3_2042948932406513664",
+              "start": 87,
+              "url": "https://t.co/gb0OZpyh2S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042948934826631270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现，在出于公益性质的不求回报的帮助他人会让我的心情变好，同时我对未来看法也会更乐观积极。不过我现在进行线下志愿活动体能不允许，所以我打算试试学习心理学知识在网上帮助别人 https://t.co/gb0OZpyh2S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃1.0，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。\n            ——双刀王小桃-2026-3.1",
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 112,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 148
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

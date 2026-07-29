@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "1908680901565022624",
+    "created_at": "2025-04-06T01:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T02:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908688825154519356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "85221173",
+          "start": 0,
+          "username": "daneishe888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908688825154519356",
+    "in_reply_to_user_id": "85221173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908680901565022624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daneishe888 现在的AI还不是很成熟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1480,
+        "media_key": "3_1908680892530515968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnz_KLzbYAAH4Wq.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1908680893025443842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnz_KNpbYAIVnQk.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "1908680901565022624",
+        "created_at": "2025-04-06T01:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T02:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908688825154519356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "85221173",
+              "start": 0,
+              "username": "daneishe888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908688825154519356",
+        "in_reply_to_user_id": "85221173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908680901565022624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daneishe888 现在的AI还不是很成熟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908680892530515968",
+            "3_1908680893025443842"
+          ]
+        },
+        "author_id": "85221173",
+        "conversation_id": "1908680901565022624",
+        "created_at": "2025-04-06T00:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T01:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908680901565022624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYH7P6WLiD",
+              "end": 105,
+              "expanded_url": "https://x.com/daneishe888/status/1908680901565022624/photo/1",
+              "media_key": "3_1908680892530515968",
+              "start": 82,
+              "url": "https://t.co/IYH7P6WLiD"
+            },
+            {
+              "display_url": "pic.x.com/IYH7P6WLiD",
+              "end": 105,
+              "expanded_url": "https://x.com/daneishe888/status/1908680901565022624/photo/1",
+              "media_key": "3_1908680893025443842",
+              "start": 82,
+              "url": "https://t.co/IYH7P6WLiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908680901565022624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拜托DeepSeek先生，我是外国人你别把错误的中文信息教给我，我指出其中有错的地方你才教我正确的答案…\n\n什么“你说得对！”啊！擅长中文的你就要从头说对的😂😂😂 https://t.co/IYH7P6WLiD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "マルクス主義/毛沢東主義/反官僚主義、形式主義/反抑圧搾取/平等を主張/学習中/中国人",
+        "id": "1659190798104297476",
+        "name": "EinMensch🇨🇳",
+        "pinned_tweet_id": "1906716661366837264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884943704986714112/Bu12rl1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 96,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 29
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-26T02:41:51.000Z",
+        "description": "日中友好！！我是有良心的日本人☺️会说中文！手机=P40Pro、中国留学経験あり、中国語のみで会話可能😃情報処理安全確保支援士/ネットワークスペシャリスト、課長職、好きなTVゲームはシェンムー、アドバンスド大戦略(メガドライブ版)、A列車で行こう4／3DS、グラディウスIII😉中国人との恋愛経験複数、日本人は0😆",
+        "id": "85221173",
+        "location": "Tokyo-to, Japan",
+        "name": "she888🇯🇵🤝🇨🇳日中友好！",
+        "pinned_tweet_id": "1281189599285374977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223411646850199552/SOc4SFe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 188,
+          "like_count": 64384,
+          "listed_count": 9,
+          "media_count": 1817,
+          "tweet_count": 58128
+        },
+        "username": "daneishe888",
+        "verified": false
+      }
+    ]
+  }
+}

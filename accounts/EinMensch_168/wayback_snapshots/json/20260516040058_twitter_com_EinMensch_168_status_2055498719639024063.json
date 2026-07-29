@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2055356544645320871",
+    "created_at": "2026-05-16T04:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T05:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055498719639024063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1385919167971282946",
+          "start": 0,
+          "username": "whyyoutangping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055498719639024063",
+    "in_reply_to_user_id": "1385919167971282946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055419317211267158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutangping 不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2055356544645320871",
+        "created_at": "2026-05-16T04:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055498719639024063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1385919167971282946",
+              "start": 0,
+              "username": "whyyoutangping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055498719639024063",
+        "in_reply_to_user_id": "1385919167971282946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055419317211267158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutangping 不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385919167971282946",
+        "conversation_id": "2055356544645320871",
+        "created_at": "2026-05-15T22:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T23:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055419317211267158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055419317211267158",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055356544645320871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 你是不是哔站的王小桃要上一档😋😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10年下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨尽力让自己变得更好丨我在学习与研究",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 318,
+          "like_count": 3005,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 1163
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-24T11:31:04.000Z",
+        "description": "无证含豆｜含豆日2026.4.2｜世界唯一豆娘｜04｜心情超棒（一直吃喵！）｜I人（友跨喵！）｜服用大豆异黄酮｜禁止涩涩｜也许是MTX？？？｜互fo喵！！！\n欢迎骚扰我喵：https://t.co/fmhkL0PNyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/tangpingDN",
+                "end": 109,
+                "expanded_url": "http://t.me/tangpingDN",
+                "start": 86,
+                "url": "https://t.co/fmhkL0PNyb"
+              }
+            ]
+          }
+        },
+        "id": "1385919167971282946",
+        "location": "躺平星球",
+        "name": "𝑆𝑜𝑦𝑖𝑠𝑜～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050243518149636096/lalp9RN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 123,
+          "like_count": 1971,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 750
+        },
+        "username": "whyyoutangping",
+        "verified": true
+      }
+    ]
+  }
+}

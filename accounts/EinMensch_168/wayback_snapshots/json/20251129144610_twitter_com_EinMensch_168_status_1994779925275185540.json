@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1994779873026740231"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "1994779925275185540",
+    "created_at": "2025-11-29T14:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T15:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994779925275185540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M1ZQtz3tkf",
+          "end": 32,
+          "expanded_url": "https://x.com/EinMensch_168/status/1994779925275185540/video/1",
+          "media_key": "7_1994779873026740231",
+          "start": 9,
+          "url": "https://t.co/M1ZQtz3tkf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994779925275185540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神圣的战争中文版 https://t.co/M1ZQtz3tkf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 102167,
+        "height": 480,
+        "media_key": "7_1994779873026740231",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994779873026740231/pu/img/gNdtgFK-vSccJOSi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994779873026740231/pu/vid/avc1/478x270/gt4kube7fSc_sHao.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994779873026740231/pu/vid/avc1/638x360/bFOME77BZz8qkMos.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994779873026740231/pu/vid/avc1/852x480/0MEya-FzJMFPmEqP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994779873026740231/pu/pl/rzqn1Ze1ZIz6BkcJ.m3u8?tag=12"
+          }
+        ],
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994779873026740231"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "1994779925275185540",
+        "created_at": "2025-11-29T14:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994779925275185540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M1ZQtz3tkf",
+              "end": 32,
+              "expanded_url": "https://x.com/EinMensch_168/status/1994779925275185540/video/1",
+              "media_key": "7_1994779873026740231",
+              "start": 9,
+              "url": "https://t.co/M1ZQtz3tkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994779925275185540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神圣的战争中文版 https://t.co/M1ZQtz3tkf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "学习雷锋好榜样",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "潘国平",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994670725547134982/w88gQyLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 132,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 30
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

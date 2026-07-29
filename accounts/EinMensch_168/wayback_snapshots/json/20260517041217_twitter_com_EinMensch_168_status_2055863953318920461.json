@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2055863935354687488"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2055863953318920461",
+    "created_at": "2026-05-17T04:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055863953318920461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HaHVRWtqqT",
+          "end": 32,
+          "expanded_url": "https://x.com/EinMensch_168/status/2055863953318920461/video/1",
+          "media_key": "7_2055863935354687488",
+          "start": 9,
+          "url": "https://t.co/HaHVRWtqqT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055863953318920461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早期找画师约的稿 https://t.co/HaHVRWtqqT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6478,
+        "height": 720,
+        "media_key": "7_2055863935354687488",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055863935354687488/pu/img/7x69nJu8jfURGGj2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055863935354687488/pu/vid/avc1/480x270/kdu0qYZC7YnYpO48.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055863935354687488/pu/vid/avc1/640x360/CD3nl0X89PtJJw4g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055863935354687488/pu/vid/avc1/1280x720/pG4iOvcB2UrlgbuQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055863935354687488/pu/pl/uEQzU89Yn6upcuff.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055863935354687488"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2055863953318920461",
+        "created_at": "2026-05-17T04:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055863953318920461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HaHVRWtqqT",
+              "end": 32,
+              "expanded_url": "https://x.com/EinMensch_168/status/2055863953318920461/video/1",
+              "media_key": "7_2055863935354687488",
+              "start": 9,
+              "url": "https://t.co/HaHVRWtqqT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055863953318920461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早期找画师约的稿 https://t.co/HaHVRWtqqT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10年下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨尽力让自己变得更好丨我在学习与研究丨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2055650664039248103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 330,
+          "like_count": 3098,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 1214
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      }
+    ]
+  }
+}

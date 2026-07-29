@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "1555951494528122880",
+    "created_at": "2026-02-26T16:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T17:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027058979206246475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1143215028881018880",
+          "start": 0,
+          "username": "_Darthsoldier_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027058979206246475",
+    "in_reply_to_user_id": "1143215028881018880",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1555951494528122880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Darthsoldier_ Excuse me, do you know how to distinguish the authenticity of this garment? I also have one, but I don't know if it's true or false"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_1555951491361505285",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FZfZozpXgAU2Oce.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "1555951494528122880",
+        "created_at": "2026-02-26T16:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027058979206246475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1143215028881018880",
+              "start": 0,
+              "username": "_Darthsoldier_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027058979206246475",
+        "in_reply_to_user_id": "1143215028881018880",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1555951494528122880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Darthsoldier_ Excuse me, do you know how to distinguish the authenticity of this garment? I also have one, but I don't know if it's true or false"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1555951491361505285"
+          ]
+        },
+        "author_id": "1143215028881018880",
+        "conversation_id": "1555951494528122880",
+        "created_at": "2022-08-06T16:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2022-08-06T16:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1555951494528122880"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "Bundeswehr",
+              "probability": 0.9239,
+              "start": 46,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Eq9CeKyfE",
+              "end": 158,
+              "expanded_url": "https://x.com/_Darthsoldier_/status/1555951494528122880/photo/1",
+              "media_key": "3_1555951491361505285",
+              "start": 135,
+              "url": "https://t.co/4Eq9CeKyfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1555951494528122880",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "Got some stuff in a trade recently, mid 1960s Bundeswehr wool filzlaus uniform with side cap, 1991 shirt, moleskin and dress side cap. https://t.co/4Eq9CeKyfE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我已内卷致死｜在校高一学生",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026364444683751424/wHBmVhSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 38,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 10
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-24T17:51:17.000Z",
+        "description": "Silly militaria collector, history and star wars nerd. I also like anime and cosplaying, mainly GFL and OC charas (I am a guy btw ♂) \nMy cos gallery on Kofi ⏬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/darthsoldier",
+                "end": 23,
+                "expanded_url": "http://ko-fi.com/darthsoldier",
+                "start": 0,
+                "url": "https://t.co/yDPUUwbBvp"
+              }
+            ]
+          }
+        },
+        "id": "1143215028881018880",
+        "location": "Stasi dungeon Ost Berlin",
+        "name": "Darthsoldier",
+        "pinned_tweet_id": "1625278682615930883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008162751198232578/yhhshij-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24574,
+          "following_count": 2064,
+          "like_count": 280559,
+          "listed_count": 51,
+          "media_count": 8347,
+          "tweet_count": 55340
+        },
+        "url": "https://t.co/yDPUUwbBvp",
+        "username": "_Darthsoldier_",
+        "verified": false
+      }
+    ]
+  }
+}

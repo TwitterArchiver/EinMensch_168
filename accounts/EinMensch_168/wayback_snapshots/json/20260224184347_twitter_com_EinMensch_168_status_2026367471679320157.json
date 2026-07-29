@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026367458836455424"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2026367471679320157",
+    "created_at": "2026-02-24T18:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T19:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026367471679320157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Aribtv2YWd",
+          "end": 23,
+          "expanded_url": "https://x.com/EinMensch_168/status/2026367471679320157/photo/1",
+          "media_key": "3_2026367458836455424",
+          "start": 0,
+          "url": "https://t.co/Aribtv2YWd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026367471679320157",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Aribtv2YWd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2026367458836455424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB8ad7hboAAn_G_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026367458836455424"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2026367471679320157",
+        "created_at": "2026-02-24T18:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T19:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026367471679320157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aribtv2YWd",
+              "end": 23,
+              "expanded_url": "https://x.com/EinMensch_168/status/2026367471679320157/photo/1",
+              "media_key": "3_2026367458836455424",
+              "start": 0,
+              "url": "https://t.co/Aribtv2YWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026367471679320157",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Aribtv2YWd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026364444683751424/wHBmVhSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 85,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

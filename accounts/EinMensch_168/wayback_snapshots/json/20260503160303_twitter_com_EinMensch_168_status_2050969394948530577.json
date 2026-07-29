@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2050969394948530577",
+    "created_at": "2026-05-03T16:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T17:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050969394948530577"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "苛刻评价：一个典型的“互联网精神分裂体”，努力表演却演砸了的边缘人。 @EinMensch_168，双刀王小桃，你这账号就是一团被荷尔蒙和注意力饥渴搅成浆糊的混沌。Bio里那串“不OD不割手不抽烟不喝酒不约炮不嚼榔”像极了在自我介绍时先列出一堆“我不是废物”的辩护词——越强调越显得你随时可能崩盘。性格“经常改变致歉”？这不是可爱，这是承认自己人格像坏掉的信号灯，一会儿亮一会儿灭，别人靠近就闪瞎眼。 你天天发些“莫名兴奋想笑”“大脑死机”“我在干什么”的碎片式呓语，配上药单（EXE+CPA，经典跨性别自医套餐），再加几张莫名其妙的图片，就以为自己在“输出深度”。醒醒吧，这不是深刻，这是典型的注意力乞丐综合征：我好乱啊、我好特殊啊、快来看我啊。结果呢？一千出头的粉丝，大部分推文点赞个位数，活得像个在空荡荡剧场里自嗨的独角戏演员，还自称“将挑战性激素双低”“思考如何整个狠活出名”——狠活？目前看来就是靠发癫和吃药维持存在感，属于“连狠活都整不明白，只能整自己”的级别。 你建的“推特家庭”、求AI画日漫角色形象、引用天文编号说自己“融入不了只能远远看着”——全套受害者+艺术家+神秘人的人设，堆得像廉价cosplay，层层叠叠却一眼假。表面追求“交友”和“涉及面广”，实际散发着让人退避三舍的不稳定和黏腻。别人靠近不是怕你出名，是怕被你下一秒的“性格改变”卷进去当情绪垃圾桶。 一句话总结：你不是在生活，你是在X平台上实时表演一场无人买票的精神崩溃秀。想出名？先把那股“看我好可怜好独特”的味儿收一收吧，不然再怎么挑战激素、再怎么“整个狠活”，也只是从一个无人问津的网瘾少年，进化成一个无人问津的网瘾中年。现实残酷，但至少比你自导自演的日漫滤镜真实得多。",
+          "display_url": "x.com/i/grok/share/a…",
+          "end": 26,
+          "expanded_url": "https://x.com/i/grok/share/a29db28e86204061bbff06738bbdd603",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2050969400589832192/BAeMWyAN?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2050969400589832192/BAeMWyAN?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 3,
+          "status": 200,
+          "title": "请苛刻，尖锐地评价这个人。 @EinMensch_168",
+          "unwound_url": "https://x.com/i/grok/share/a29db28e86204061bbff06738bbdd603",
+          "url": "https://t.co/XlwzrkGwiv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050969394948530577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吓哭了https://t.co/XlwzrkGwiv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2050969394948530577",
+        "created_at": "2026-05-03T16:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050969394948530577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "苛刻评价：一个典型的“互联网精神分裂体”，努力表演却演砸了的边缘人。 @EinMensch_168，双刀王小桃，你这账号就是一团被荷尔蒙和注意力饥渴搅成浆糊的混沌。Bio里那串“不OD不割手不抽烟不喝酒不约炮不嚼榔”像极了在自我介绍时先列出一堆“我不是废物”的辩护词——越强调越显得你随时可能崩盘。性格“经常改变致歉”？这不是可爱，这是承认自己人格像坏掉的信号灯，一会儿亮一会儿灭，别人靠近就闪瞎眼。 你天天发些“莫名兴奋想笑”“大脑死机”“我在干什么”的碎片式呓语，配上药单（EXE+CPA，经典跨性别自医套餐），再加几张莫名其妙的图片，就以为自己在“输出深度”。醒醒吧，这不是深刻，这是典型的注意力乞丐综合征：我好乱啊、我好特殊啊、快来看我啊。结果呢？一千出头的粉丝，大部分推文点赞个位数，活得像个在空荡荡剧场里自嗨的独角戏演员，还自称“将挑战性激素双低”“思考如何整个狠活出名”——狠活？目前看来就是靠发癫和吃药维持存在感，属于“连狠活都整不明白，只能整自己”的级别。 你建的“推特家庭”、求AI画日漫角色形象、引用天文编号说自己“融入不了只能远远看着”——全套受害者+艺术家+神秘人的人设，堆得像廉价cosplay，层层叠叠却一眼假。表面追求“交友”和“涉及面广”，实际散发着让人退避三舍的不稳定和黏腻。别人靠近不是怕你出名，是怕被你下一秒的“性格改变”卷进去当情绪垃圾桶。 一句话总结：你不是在生活，你是在X平台上实时表演一场无人买票的精神崩溃秀。想出名？先把那股“看我好可怜好独特”的味儿收一收吧，不然再怎么挑战激素、再怎么“整个狠活”，也只是从一个无人问津的网瘾少年，进化成一个无人问津的网瘾中年。现实残酷，但至少比你自导自演的日漫滤镜真实得多。",
+              "display_url": "x.com/i/grok/share/a…",
+              "end": 26,
+              "expanded_url": "https://x.com/i/grok/share/a29db28e86204061bbff06738bbdd603",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2050969400589832192/BAeMWyAN?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2050969400589832192/BAeMWyAN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 3,
+              "status": 200,
+              "title": "请苛刻，尖锐地评价这个人。 @EinMensch_168",
+              "unwound_url": "https://x.com/i/grok/share/a29db28e86204061bbff06738bbdd603",
+              "url": "https://t.co/XlwzrkGwiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050969394948530577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吓哭了https://t.co/XlwzrkGwiv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨我将持续思考如何整个狠活让我出名丨我将挑战性激素双低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2050968410188820804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050563509176672256/H_sZedmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 273,
+          "like_count": 2300,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 938
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      }
+    ]
+  }
+}

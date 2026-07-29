@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2044606239993122845",
+    "created_at": "2026-04-16T12:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T13:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044755093162193141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035882965671215104",
+          "start": 0,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044755093162193141",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044606239993122845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_medusozoa 我喜欢观察mtf也是因为我姓潘吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 590,
+        "media_key": "3_2044606237782777856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_milyXIAAa9a-.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2044606239993122845",
+        "created_at": "2026-04-16T12:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T13:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044755093162193141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044755093162193141",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044606239993122845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 我喜欢观察mtf也是因为我姓潘吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044606237782777856"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2044606239993122845",
+        "created_at": "2026-04-16T02:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044606239993122845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 35,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2039088038215573941",
+              "start": 12,
+              "url": "https://t.co/ohIvwFX56V"
+            },
+            {
+              "display_url": "pic.x.com/uNd74Vwve5",
+              "end": 59,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2044606239993122845/photo/1",
+              "media_key": "3_2044606237782777856",
+              "start": 36,
+              "url": "https://t.co/uNd74Vwve5"
+            },
+            {
+              "display_url": "x.com/xldfxa/status/…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/xldfxa/status/2044604175762547195",
+              "start": 60,
+              "url": "https://t.co/xbFRDGY7YS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044606239993122845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5376,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044604175762547195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对我上次就是在吐槽这个\nhttps://t.co/ohIvwFX56V https://t.co/uNd74Vwve5 https://t.co/xbFRDGY7YS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃1.0，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。\n            ——双刀王小桃-2026-3.1",
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2040416708238954882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 130,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 226
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/AxbISQuKvL"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2299,
+          "following_count": 778,
+          "like_count": 2273,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1649
+        },
+        "url": "https://t.co/AxbISQuKvL",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

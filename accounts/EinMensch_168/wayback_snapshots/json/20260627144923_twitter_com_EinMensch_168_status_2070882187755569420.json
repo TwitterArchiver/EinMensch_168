@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070882184337248257"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2070882187755569420",
+    "created_at": "2026-06-27T14:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T15:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070882187755569420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/45MnlSdqly",
+          "end": 198,
+          "expanded_url": "https://x.com/EinMensch_168/status/2070882187755569420/photo/1",
+          "media_key": "3_2070882184337248257",
+          "start": 175,
+          "url": "https://t.co/45MnlSdqly"
+        },
+        {
+          "display_url": "x.com/EinMensch_168/…",
+          "end": 222,
+          "expanded_url": "https://twitter.com/EinMensch_168/status/2070875078758433119",
+          "start": 199,
+          "url": "https://t.co/RBDhdzbIkr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070882187755569420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "最新版本\n唐毓文验证\n中文名称：全自动区分唐毓文和普通人的公开照片测试\n英文名称：Tang Yuwen Automated Public Test to tell Apart from People\n简称：TAPTAP/2TAP/2ATPᵃ\n目的：自动区分唐毓文和普通人。\n核心原则：系统能轻松识别，只有普通人容易通过，唐毓文极难通过。\n必须满足：\n1.全自动检测照片\n2.普通人几秒内完成\n3.唐毓文几乎无法通过；\n常用逻辑：\n⑴计算点数：\n1.识别阴囊及周围组织-\n1.1若有阴茎，则加1分并进入1.2，反之则加0分\n1.2.若没有睾丸，则加2分，反之则不是唐毓文\n2.识别面部-若相似唐毓文，则加4分，反之则不是唐毓文\n3.识别语言-若充满攻击性和恶意，则加1分，反之则为0分\n4.识别账号-\n4.1.若为确认了的唐毓文的账号，则加4分，反之则进入4.2\n4.2.若为疑似唐毓文的账号，则加2分，反之则为0分\n⑵进行判定：\n分数和＝∑ⁿᵢ₌₁问题ₙ＝x\nx≤1，则基本可以判断不是唐毓文\n1＜x≤3，则小概率是唐毓文\n3＜x≤4，则中概率是唐毓文\n4＜x≤6，则高概率是唐毓文\nx＞6，则基本确定为唐毓文\n\na.ATP-腺苷三磷酸(Adenosinetriphosphate)，生物体直接能源物质，寓意着区分唐毓文和普通人是日常生活必须的；"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070875078758433119",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最新版本\n唐毓文验证\n中文名称：全自动区分唐毓文和普通人的公开照片测试\n英文名称：Tang Yuwen Automated Public Test to tell Apart from People\n简称：TAPTAP/2TAP/2ATPᵃ\n目的：自动区分唐毓文和普通人。\n核心原则：系统能轻松识别，只有普通人容易通过，唐毓文极难通过。\n必须满足： https://t.co/45MnlSdqly https://t.co/RBDhdzbIkr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2068,
+        "media_key": "3_2070882184337248257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1AX-kbUAEokXm.jpg",
+        "width": 632
+      },
+      {
+        "height": 1805,
+        "media_key": "3_2070875073951780864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL056GUbUAAaRVO.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070882184337248257"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2070882187755569420",
+        "created_at": "2026-06-27T14:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070882187755569420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/45MnlSdqly",
+              "end": 198,
+              "expanded_url": "https://x.com/EinMensch_168/status/2070882187755569420/photo/1",
+              "media_key": "3_2070882184337248257",
+              "start": 175,
+              "url": "https://t.co/45MnlSdqly"
+            },
+            {
+              "display_url": "x.com/EinMensch_168/…",
+              "end": 222,
+              "expanded_url": "https://twitter.com/EinMensch_168/status/2070875078758433119",
+              "start": 199,
+              "url": "https://t.co/RBDhdzbIkr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070882187755569420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最新版本\n唐毓文验证\n中文名称：全自动区分唐毓文和普通人的公开照片测试\n英文名称：Tang Yuwen Automated Public Test to tell Apart from People\n简称：TAPTAP/2TAP/2ATPᵃ\n目的：自动区分唐毓文和普通人。\n核心原则：系统能轻松识别，只有普通人容易通过，唐毓文极难通过。\n必须满足：\n1.全自动检测照片\n2.普通人几秒内完成\n3.唐毓文几乎无法通过；\n常用逻辑：\n⑴计算点数：\n1.识别阴囊及周围组织-\n1.1若有阴茎，则加1分并进入1.2，反之则加0分\n1.2.若没有睾丸，则加2分，反之则不是唐毓文\n2.识别面部-若相似唐毓文，则加4分，反之则不是唐毓文\n3.识别语言-若充满攻击性和恶意，则加1分，反之则为0分\n4.识别账号-\n4.1.若为确认了的唐毓文的账号，则加4分，反之则进入4.2\n4.2.若为疑似唐毓文的账号，则加2分，反之则为0分\n⑵进行判定：\n分数和＝∑ⁿᵢ₌₁问题ₙ＝x\nx≤1，则基本可以判断不是唐毓文\n1＜x≤3，则小概率是唐毓文\n3＜x≤4，则中概率是唐毓文\n4＜x≤6，则高概率是唐毓文\nx＞6，则基本确定为唐毓文\n\na.ATP-腺苷三磷酸(Adenosinetriphosphate)，生物体直接能源物质，寓意着区分唐毓文和普通人是日常生活必须的；"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070875078758433119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最新版本\n唐毓文验证\n中文名称：全自动区分唐毓文和普通人的公开照片测试\n英文名称：Tang Yuwen Automated Public Test to tell Apart from People\n简称：TAPTAP/2TAP/2ATPᵃ\n目的：自动区分唐毓文和普通人。\n核心原则：系统能轻松识别，只有普通人容易通过，唐毓文极难通过。\n必须满足： https://t.co/45MnlSdqly https://t.co/RBDhdzbIkr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070875073951780864"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2070875078758433119",
+        "created_at": "2026-06-27T14:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070875078758433119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4lcul4JDGT",
+              "end": 203,
+              "expanded_url": "https://x.com/EinMensch_168/status/2070875078758433119/photo/1",
+              "media_key": "3_2070875073951780864",
+              "start": 180,
+              "url": "https://t.co/4lcul4JDGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070875078758433119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唐毓文验证\n中文名称：全自动区分唐毓文和普通人的公开照片测试\n英文名称：Tang Yuwen Automated Public Test to tell Apart from People\n简称：TAPTAP/2TAP/2ATPᵃ\n目的：自动区分唐毓文和普通人。\n核心原则：系统能轻松识别，只有普通人容易通过，唐毓文极难通过。\n必须满足：\n1.全自动检测照片\n2.普通人几秒内完成\n3.唐毓文几乎无法通过；\n\na.ATP-腺苷三磷酸(Adenosinetriphosphate)，生物体直接能源物质，寓意着区分唐毓文和普通人是日常生活必须的；"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唐毓文验证\n中文名称：全自动区分唐毓文和普通人的公开照片测试\n英文名称：Tang Yuwen Automated Public Test to tell Apart from People\n简称：TAPTAP/2TAP/2ATPᵃ\n目的：自动区分唐毓文和普通人。\n核心原则：系统能轻松识别，只有普通人容易通过，唐毓文极难通过。\n必须满足：\n1.全自动检测照片 https://t.co/4lcul4JDGT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 363,
+          "like_count": 3320,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 1439
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      }
+    ]
+  }
+}

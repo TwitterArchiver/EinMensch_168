@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1956250464162545664"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "1956250505757516199",
+    "created_at": "2025-08-15T07:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T08:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956250505757516199"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XeR7SwlBQV",
+          "end": 23,
+          "expanded_url": "https://x.com/EinMensch_168/status/1956250505757516199/video/1",
+          "media_key": "7_1956250464162545664",
+          "start": 0,
+          "url": "https://t.co/XeR7SwlBQV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956250505757516199",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/XeR7SwlBQV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23336,
+        "height": 576,
+        "media_key": "7_1956250464162545664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1956250464162545664/pu/img/gwZ1D7eTBFbn_iES.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1956250464162545664/pu/vid/avc1/548x270/_JfE7CkIIdkaddRm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1956250464162545664/pu/vid/avc1/730x360/sH91NcsZT2hGsvCe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1956250464162545664/pu/vid/avc1/1170x576/jdnMPreHLwQb00X9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1956250464162545664/pu/pl/09Q3nMwdJoL0NJhb.m3u8?tag=12"
+          }
+        ],
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1956250464162545664"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "1956250505757516199",
+        "created_at": "2025-08-15T07:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T08:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956250505757516199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XeR7SwlBQV",
+              "end": 23,
+              "expanded_url": "https://x.com/EinMensch_168/status/1956250505757516199/video/1",
+              "media_key": "7_1956250464162545664",
+              "start": 0,
+              "url": "https://t.co/XeR7SwlBQV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956250505757516199",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XeR7SwlBQV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我是生物",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "潘国平",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956250009793650688/y_E5BChX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 121,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 37
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

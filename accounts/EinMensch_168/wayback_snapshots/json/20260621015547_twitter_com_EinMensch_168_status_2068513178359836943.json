@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068513174345936896"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2068382418936217661",
+    "created_at": "2026-06-21T01:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068513178359836943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1153430387504373764",
+          "start": 0,
+          "username": "xiangcai_nya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F2pVestsrg",
+          "end": 37,
+          "expanded_url": "https://x.com/EinMensch_168/status/2068513178359836943/photo/1",
+          "media_key": "3_2068513174345936896",
+          "start": 14,
+          "url": "https://t.co/F2pVestsrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068513178359836943",
+    "in_reply_to_user_id": "1153430387504373764",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068508982961205261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangcai_nya https://t.co/F2pVestsrg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1496,
+        "media_key": "3_2068513174345936896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTVxcoa8AAT68p.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068513174345936896"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2068382418936217661",
+        "created_at": "2026-06-21T01:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068513178359836943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1153430387504373764",
+              "start": 0,
+              "username": "xiangcai_nya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2pVestsrg",
+              "end": 37,
+              "expanded_url": "https://x.com/EinMensch_168/status/2068513178359836943/photo/1",
+              "media_key": "3_2068513174345936896",
+              "start": 14,
+              "url": "https://t.co/F2pVestsrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068513178359836943",
+        "in_reply_to_user_id": "1153430387504373764",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068508982961205261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangcai_nya https://t.co/F2pVestsrg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153430387504373764",
+        "conversation_id": "2068382418936217661",
+        "created_at": "2026-06-21T01:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068508982961205261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068508982961205261",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068382418936217661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 人脉多不多不知道，狐朋狗友的确挺多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 359,
+          "like_count": 3331,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 1421
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtf→mtx(ing)\n想要互fo",
+        "id": "1153430387504373764",
+        "location": "Archangel, Russia",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067242056930746368/6sGN2gJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 85,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": true
+      }
+    ]
+  }
+}

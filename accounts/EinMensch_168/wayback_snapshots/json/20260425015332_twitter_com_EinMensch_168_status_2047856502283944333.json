@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2047779586029793620",
+    "created_at": "2026-04-25T01:53:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T02:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047856502283944333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1695108682605080576",
+          "start": 0,
+          "username": "ccnanoQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047856502283944333",
+    "in_reply_to_user_id": "1695108682605080576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047779586029793620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccnanoQAQ 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2047779586029793620",
+        "created_at": "2026-04-25T01:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047856502283944333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1695108682605080576",
+              "start": 0,
+              "username": "ccnanoQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047856502283944333",
+        "in_reply_to_user_id": "1695108682605080576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047779586029793620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccnanoQAQ 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695108682605080576",
+        "conversation_id": "2047779586029793620",
+        "created_at": "2026-04-24T20:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T21:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047779586029793620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047779586029793620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老是想看推特但其实也没有人给我发消息，也没有我想看的帖子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃2.1，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。🏳️‍🌈🏳️‍⚧️🏳️*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2047728143939862951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 226,
+          "like_count": 1438,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 681
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-25T16:20:04.000Z",
+        "description": "INTJ丨一个在码头搬运薯条的日常推（人生はお疲れ様でした~",
+        "id": "1695108682605080576",
+        "location": "浙江。",
+        "name": "ccnano🇫🇷 （废萌版）",
+        "pinned_tweet_id": "1779609957475680724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759962566225481728/ktAnhzqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3107,
+          "following_count": 976,
+          "like_count": 69762,
+          "listed_count": 2,
+          "media_count": 1900,
+          "tweet_count": 15294
+        },
+        "username": "ccnanoQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

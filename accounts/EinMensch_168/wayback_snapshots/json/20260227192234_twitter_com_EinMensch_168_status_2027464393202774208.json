@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2027169826993815963",
+    "created_at": "2026-02-27T19:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T20:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027464393202774208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "130045676",
+          "start": 0,
+          "username": "unasaka0309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027464393202774208",
+    "in_reply_to_user_id": "130045676",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027169826993815963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unasaka0309 非常流行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2027169826993815963",
+        "created_at": "2026-02-27T19:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T20:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027464393202774208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "130045676",
+              "start": 0,
+              "username": "unasaka0309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027464393202774208",
+        "in_reply_to_user_id": "130045676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027169826993815963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unasaka0309 非常流行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "130045676",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027169826993815963",
+        "created_at": "2026-02-26T23:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T00:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027169826993815963"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.8436,
+              "start": 0,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027169826993815963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 40525,
+          "like_count": 225,
+          "quote_count": 3,
+          "reply_count": 69,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "中国って美少女ゲーム人気なのか"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我已内卷致死｜在校高一学生",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026364444683751424/wHBmVhSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 39,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 23
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-06T04:19:42.000Z",
+        "description": "絵描き。挿画・ゲーム原画等。\n■ご依頼はこちらまで：ultimateweapon_ryo@msn.com　\n■FANBOX：https://t.co/pw2lPsYFtB\n■間瀬 1.08.930　本庄46.026(カート51.261)\n■AI学習含無断使用NG✖",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "unasaka.fanbox.cc",
+                "end": 85,
+                "expanded_url": "https://unasaka.fanbox.cc/",
+                "start": 62,
+                "url": "https://t.co/pw2lPsYFtB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deepseacafe.tumblr.com",
+                "end": 23,
+                "expanded_url": "http://deepseacafe.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/bBIuAjv17c"
+              }
+            ]
+          }
+        },
+        "id": "130045676",
+        "location": "Queensland, Australia(願望)",
+        "name": "うなさか",
+        "pinned_tweet_id": "2004395452461088899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798022669482512384/OqSPdd35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269011,
+          "following_count": 1017,
+          "like_count": 24896,
+          "listed_count": 3189,
+          "media_count": 6481,
+          "tweet_count": 164571
+        },
+        "url": "https://t.co/bBIuAjv17c",
+        "username": "unasaka0309",
+        "verified": false
+      }
+    ]
+  }
+}

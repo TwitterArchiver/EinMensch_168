@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1994785383759187969"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "1994785462356251124",
+    "created_at": "2025-11-29T15:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T16:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994785462356251124"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "中国",
+          "probability": 0.8477,
+          "start": 19,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mq7KORIMAl",
+          "end": 112,
+          "expanded_url": "https://x.com/EinMensch_168/status/1994785462356251124/video/1",
+          "media_key": "7_1994785383759187969",
+          "start": 89,
+          "url": "https://t.co/Mq7KORIMAl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994785462356251124",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这只是中国一家普通的民营企业\n\nこれは中国のごく普通の民間企業です\n\nThis is just an ordinary private enterprise in China. https://t.co/Mq7KORIMAl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28933,
+        "height": 576,
+        "media_key": "7_1994785383759187969",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994785383759187969/pu/img/0ksEwvNMDdqISxMk.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994785383759187969/pu/vid/avc1/600x270/qhiOGj06wiVlAvhq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994785383759187969/pu/vid/avc1/800x360/o4Ployo7tn3-B8FT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994785383759187969/pu/vid/avc1/1280x576/yk66AEjlFuSTQmle.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994785383759187969/pu/pl/dZljy2Hh2cTglPiR.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994785383759187969"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "1994785462356251124",
+        "created_at": "2025-11-29T15:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994785462356251124"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "中国",
+              "probability": 0.8477,
+              "start": 19,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mq7KORIMAl",
+              "end": 112,
+              "expanded_url": "https://x.com/EinMensch_168/status/1994785462356251124/video/1",
+              "media_key": "7_1994785383759187969",
+              "start": 89,
+              "url": "https://t.co/Mq7KORIMAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994785462356251124",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这只是中国一家普通的民营企业\n\nこれは中国のごく普通の民間企業です\n\nThis is just an ordinary private enterprise in China. https://t.co/Mq7KORIMAl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "学习雷锋好榜样",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "潘国平",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994670725547134982/w88gQyLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 132,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 32
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

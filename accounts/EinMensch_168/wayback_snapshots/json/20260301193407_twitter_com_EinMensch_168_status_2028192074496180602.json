@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2028104852119892041",
+    "created_at": "2026-03-01T19:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T20:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028192074496180602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "829391339833823232",
+          "start": 0,
+          "username": "ohotomosan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028192074496180602",
+    "in_reply_to_user_id": "829391339833823232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028104852119892041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ohotomosan 因为外国人发跟中国有关的东西，就会吸引很多中国人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2028104852119892041",
+        "created_at": "2026-03-01T19:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T20:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028192074496180602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "829391339833823232",
+              "start": 0,
+              "username": "ohotomosan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028192074496180602",
+        "in_reply_to_user_id": "829391339833823232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028104852119892041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohotomosan 因为外国人发跟中国有关的东西，就会吸引很多中国人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "829391339833823232",
+        "conversation_id": "2028104852119892041",
+        "created_at": "2026-03-01T13:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028104852119892041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028104852119892041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 680,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近不知为何频繁上热搜，在此声明\n本账号仅是个学习中国游戏和中文的普通人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我已内卷致死｜在校高一学生\n我来外网纯是因为无聊",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026364444683751424/wHBmVhSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 39,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 36
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-08T18:07:59.000Z",
+        "description": "日語/中文/English.\n在學華語（普通話，粵台語）。發信日本語學，文化，生活情報",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/oilmajor_ootom…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/oilmajor_ootomo?t=hjDNDa&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/irBXWMOAFM"
+              }
+            ]
+          }
+        },
+        "id": "829391339833823232",
+        "name": "おほとも（犬儒）",
+        "pinned_tweet_id": "2017160924080328948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865256573465149440/MJPtJwmF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 6400,
+          "like_count": 61613,
+          "listed_count": 13,
+          "media_count": 3425,
+          "tweet_count": 92881
+        },
+        "url": "https://t.co/irBXWMOAFM",
+        "username": "ohotomosan",
+        "verified": false
+      }
+    ]
+  }
+}

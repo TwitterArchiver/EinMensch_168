@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040613498103988224",
+        "3_2040613500327006208"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040613502491210089",
+    "created_at": "2026-04-05T02:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T03:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040613502491210089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bZuMVAIEP6",
+          "end": 34,
+          "expanded_url": "https://x.com/EinMensch_168/status/2040613502491210089/photo/1",
+          "media_key": "3_2040613498103988224",
+          "start": 11,
+          "url": "https://t.co/bZuMVAIEP6"
+        },
+        {
+          "display_url": "pic.x.com/bZuMVAIEP6",
+          "end": 34,
+          "expanded_url": "https://x.com/EinMensch_168/status/2040613502491210089/photo/1",
+          "media_key": "3_2040613500327006208",
+          "start": 11,
+          "url": "https://t.co/bZuMVAIEP6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040613502491210089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于找到正常艺术品了 https://t.co/bZuMVAIEP6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1116,
+        "media_key": "3_2040613498103988224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFG3KjZbAAAmRSn.jpg",
+        "width": 1124
+      },
+      {
+        "height": 711,
+        "media_key": "3_2040613500327006208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFG3KrrbkAAWhlb.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040613498103988224",
+            "3_2040613500327006208"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040613502491210089",
+        "created_at": "2026-04-05T02:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040613502491210089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bZuMVAIEP6",
+              "end": 34,
+              "expanded_url": "https://x.com/EinMensch_168/status/2040613502491210089/photo/1",
+              "media_key": "3_2040613498103988224",
+              "start": 11,
+              "url": "https://t.co/bZuMVAIEP6"
+            },
+            {
+              "display_url": "pic.x.com/bZuMVAIEP6",
+              "end": 34,
+              "expanded_url": "https://x.com/EinMensch_168/status/2040613502491210089/photo/1",
+              "media_key": "3_2040613500327006208",
+              "start": 11,
+              "url": "https://t.co/bZuMVAIEP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040613502491210089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于找到正常艺术品了 https://t.co/bZuMVAIEP6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我已内卷致死｜在校高一学生\n我来外网纯是因为无聊",
+        "id": "1659190798104297476",
+        "location": "位置",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 79,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 75
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

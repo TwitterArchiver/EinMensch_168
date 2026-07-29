@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2053407325172756499",
+    "created_at": "2026-05-10T09:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T10:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053407325172756499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/existornull/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/existornull/status/2053394737525358855",
+          "start": 14,
+          "url": "https://t.co/zQ34BcLLxC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053407325172756499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053394737525358855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁有她地址和电话？赶快报警 https://t.co/zQ34BcLLxC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2053407325172756499",
+        "created_at": "2026-05-10T09:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053407325172756499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/existornull/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/existornull/status/2053394737525358855",
+              "start": 14,
+              "url": "https://t.co/zQ34BcLLxC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053407325172756499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053394737525358855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁有她地址和电话？赶快报警 https://t.co/zQ34BcLLxC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928795754346459138",
+        "conversation_id": "2053394737525358855",
+        "created_at": "2026-05-10T08:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053394737525358855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053394737525358855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 307,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "讣告:本人于今日下午4：40分吃完30粒泰补后跳楼自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10年下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨尽力让自己变得更好丨我在学习与研究",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2050968410188820804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 310,
+          "like_count": 2919,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 1127
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T12:49:03.000Z",
+        "description": "10后/mtf/intp/164 100/持证含糖/pjsk\n柰芸喜欢早上一杯咖啡一本书，下午一壶茶一个唱片，晚上一场散步一架琴的生活\n希望世界能温柔一点\n小证25.12.15 hrt8.16\n🚪30",
+        "id": "1928795754346459138",
+        "location": "中国浙江",
+        "name": "奈芸🍥",
+        "pinned_tweet_id": "2048059573215601065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999500760246288384/rM1oLj6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 209,
+          "like_count": 58,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 99
+        },
+        "username": "existornull",
+        "verified": false
+      }
+    ]
+  }
+}

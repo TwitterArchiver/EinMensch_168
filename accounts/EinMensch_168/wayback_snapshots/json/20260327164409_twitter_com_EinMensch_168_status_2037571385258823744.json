@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2037571385258823744",
+    "created_at": "2026-03-27T16:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T17:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037571385258823744"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037571385258823744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经过我的长期广泛严谨研究，发现人其实是脚踏式垃圾桶！因为在研究的多个样本中踩他们的脚，他们就会张嘴，符合脚踏式垃圾桶特征，所以人约等于脚踏式垃圾桶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2037571385258823744",
+        "created_at": "2026-03-27T16:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037571385258823744"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037571385258823744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经过我的长期广泛严谨研究，发现人其实是脚踏式垃圾桶！因为在研究的多个样本中踩他们的脚，他们就会张嘴，符合脚踏式垃圾桶特征，所以人约等于脚踏式垃圾桶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我已内卷致死｜在校高一学生\n我来外网纯是因为无聊",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 52,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 63
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

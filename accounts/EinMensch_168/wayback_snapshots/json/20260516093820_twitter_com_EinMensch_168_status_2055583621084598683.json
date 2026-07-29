@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2055321880354243070",
+    "created_at": "2026-05-16T09:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055583621084598683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2021505488337416192",
+          "start": 0,
+          "username": "HuamanX09"
+        },
+        {
+          "end": 25,
+          "id": "1011298125225422848",
+          "start": 11,
+          "username": "Tang_Shuoyang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055583621084598683",
+    "in_reply_to_user_id": "2021505488337416192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055583507842543784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuamanX09 @Tang_Shuoyang 对，不过如果不方便的话也可以延期还"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2055321880354243070",
+        "created_at": "2026-05-16T09:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055583621084598683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2021505488337416192",
+              "start": 0,
+              "username": "HuamanX09"
+            },
+            {
+              "end": 25,
+              "id": "1011298125225422848",
+              "start": 11,
+              "username": "Tang_Shuoyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055583621084598683",
+        "in_reply_to_user_id": "2021505488337416192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055583507842543784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuamanX09 @Tang_Shuoyang 对，不过如果不方便的话也可以延期还"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021505488337416192",
+        "conversation_id": "2055321880354243070",
+        "created_at": "2026-05-16T09:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055583507842543784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            },
+            {
+              "end": 29,
+              "id": "1011298125225422848",
+              "start": 15,
+              "username": "Tang_Shuoyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055583507842543784",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055347483715514822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 @Tang_Shuoyang 我操我是不是欠你300？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10年下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨尽力让自己变得更好丨我在学习与研究",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 321,
+          "like_count": 3030,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 1170
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "我从来都觉得发帖挂人煽动网暴的不是好东西",
+        "id": "2021505488337416192",
+        "location": "日本",
+        "name": "雾屿怜奈Official",
+        "pinned_tweet_id": "2052729150583271897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052424896366419975/sjZQ6AJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 730,
+          "like_count": 4169,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 651
+        },
+        "username": "HuamanX09",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-25T17:20:36.000Z",
+        "description": "吉林大学→BOCHK→名古屋大学(M3)/Political Phenomenology、政治過程論、西マ。\n絶対王政/神道文献訓詁（君主主義者役）左翼研究(本人) \n【不要以为到资本主义日本就没有儒了！😤👎】\n#ブルアカ #艦これ  (退役)随缘フォロバ\n要回关请私信🥺🌹",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 106,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 116,
+                "start": 112,
+                "tag": "艦これ"
+              }
+            ]
+          }
+        },
+        "id": "1011298125225422848",
+        "location": "豊葦原中国",
+        "name": "Nicholas Don",
+        "pinned_tweet_id": "2055321880354243070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929953311429668867/2eZF6dcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 209,
+          "like_count": 39651,
+          "listed_count": 10,
+          "media_count": 1173,
+          "tweet_count": 4728
+        },
+        "username": "Tang_Shuoyang",
+        "verified": false
+      }
+    ]
+  }
+}

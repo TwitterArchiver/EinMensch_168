@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2047889366899736891",
+    "created_at": "2026-04-25T04:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047889366899736891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smiroyama/stat…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/smiroyama/status/2047649503579365409",
+          "start": 57,
+          "url": "https://t.co/RhPNVAFbbd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047889366899736891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047649503579365409",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "至少已经努力过了，真一事无成，也是毫无遗憾、问心无愧了。很多东西在试了之后就算不成功，也已经没有了尝试之前的焦虑 https://t.co/RhPNVAFbbd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 906,
+        "media_key": "3_2047649493739622400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGq2XZrb0AAjeNV.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2047889366899736891",
+        "created_at": "2026-04-25T04:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047889366899736891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/smiroyama/status/2047649503579365409",
+              "start": 57,
+              "url": "https://t.co/RhPNVAFbbd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047889366899736891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047649503579365409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至少已经努力过了，真一事无成，也是毫无遗憾、问心无愧了。很多东西在试了之后就算不成功，也已经没有了尝试之前的焦虑 https://t.co/RhPNVAFbbd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047649493739622400"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2047649503579365409",
+        "created_at": "2026-04-24T12:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047649503579365409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kJvlKdRG3M",
+              "end": 35,
+              "expanded_url": "https://x.com/smiroyama/status/2047649503579365409/photo/1",
+              "media_key": "3_2047649493739622400",
+              "start": 12,
+              "url": "https://t.co/kJvlKdRG3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047649503579365409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2136,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "至少当时还有成就感哈哈 https://t.co/kJvlKdRG3M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃2.1，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。🏳️‍🌈🏳️‍⚧️🏳️*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2047728143939862951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 227,
+          "like_count": 1472,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 691
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan \nthey/them",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3760,
+          "following_count": 2002,
+          "like_count": 8764,
+          "listed_count": 10,
+          "media_count": 1298,
+          "tweet_count": 5374
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

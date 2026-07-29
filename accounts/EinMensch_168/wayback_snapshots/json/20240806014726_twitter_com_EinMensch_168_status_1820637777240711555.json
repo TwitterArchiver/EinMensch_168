@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1820637726313492480"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "1820637777240711555",
+    "created_at": "2024-08-06T01:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T02:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1820637777240711555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/bfARs2FVTb",
+          "end": 30,
+          "expanded_url": "https://twitter.com/EinMensch_168/status/1820637777240711555/video/1",
+          "media_key": "7_1820637726313492480",
+          "start": 7,
+          "url": "https://t.co/bfARs2FVTb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820637777240711555",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开门！扫黄！ https://t.co/bfARs2FVTb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10288,
+        "height": 720,
+        "media_key": "7_1820637726313492480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1820637726313492480/pu/img/nEFAbN0y_Z-ODoXT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1820637726313492480/pu/vid/avc1/480x270/YXN_a0zzk9NzoUWA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1820637726313492480/pu/vid/avc1/640x360/rO46wiCDKXgl_57t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1820637726313492480/pu/vid/avc1/1280x720/GooKmzWoMTkAIXXq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1820637726313492480/pu/pl/xE5vXA7ux0IrsFEH.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1820637726313492480"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "1820637777240711555",
+        "created_at": "2024-08-06T01:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T02:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820637777240711555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/bfARs2FVTb",
+              "end": 30,
+              "expanded_url": "https://twitter.com/EinMensch_168/status/1820637777240711555/video/1",
+              "media_key": "7_1820637726313492480",
+              "start": 7,
+              "url": "https://t.co/bfARs2FVTb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820637777240711555",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开门！扫黄！ https://t.co/bfARs2FVTb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "",
+        "id": "1659190798104297476",
+        "name": "EinMensch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818531615007469568/UEFCeqns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 23,
+          "like_count": 7,
+          "listed_count": 0,
+          "tweet_count": 5
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

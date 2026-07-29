@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2041004617480482816"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2041004635771785430",
+    "created_at": "2026-04-06T04:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T05:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041004635771785430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zXaOfVMiQm",
+          "end": 23,
+          "expanded_url": "https://x.com/EinMensch_168/status/2041004635771785430/video/1",
+          "media_key": "7_2041004617480482816",
+          "start": 0,
+          "url": "https://t.co/zXaOfVMiQm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041004635771785430",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/zXaOfVMiQm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11600,
+        "height": 450,
+        "media_key": "7_2041004617480482816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2041004617480482816/pu/img/qenSLo4WPpcTHq7S.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041004617480482816/pu/vid/avc1/532x270/DaCRvoNkQ5sQPZDx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041004617480482816/pu/vid/avc1/888x450/jyLuyH2DPwLzF2lW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2041004617480482816/pu/pl/xtlubLXX-GScfGjQ.m3u8?tag=12"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2041004617480482816"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2041004635771785430",
+        "created_at": "2026-04-06T04:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041004635771785430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXaOfVMiQm",
+              "end": 23,
+              "expanded_url": "https://x.com/EinMensch_168/status/2041004635771785430/video/1",
+              "media_key": "7_2041004617480482816",
+              "start": 0,
+              "url": "https://t.co/zXaOfVMiQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041004635771785430",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zXaOfVMiQm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我已内卷致死｜在校高一学生\n我来外网纯是因为无聊",
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 88,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 87
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

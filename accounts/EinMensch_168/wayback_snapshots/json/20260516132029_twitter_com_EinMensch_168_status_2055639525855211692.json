@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2055639525855211692",
+    "created_at": "2026-05-16T13:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055639525855211692"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XIAOSUSU456/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/XIAOSUSU456/status/2055638914669711559",
+          "start": 30,
+          "url": "https://t.co/AJ60YWbIq0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055639525855211692",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055638914669711559",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真正的自由不是OD的自由，而是可以去OD但是不去OD的自由 https://t.co/AJ60YWbIq0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2055639525855211692",
+        "created_at": "2026-05-16T13:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055639525855211692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XIAOSUSU456/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/XIAOSUSU456/status/2055638914669711559",
+              "start": 30,
+              "url": "https://t.co/AJ60YWbIq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055639525855211692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055638914669711559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真正的自由不是OD的自由，而是可以去OD但是不去OD的自由 https://t.co/AJ60YWbIq0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892789733287460864",
+        "conversation_id": "2055638914669711559",
+        "created_at": "2026-05-16T13:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055638914669711559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055638914669711559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不跟风od文化，因为说实话我是真不建议od，毕竟这种现象好像越来越多了，希望这种现象能降下来叭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10年下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨尽力让自己变得更好丨我在学习与研究",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 326,
+          "like_count": 3046,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T04:13:44.000Z",
+        "description": "家长不管党 年龄党 MtF/X 随兴互fo 较社恐\n16岁，高一，不od，不自残，小证含糖\nHRT🍥:2026.04.17 | 168 cm | 58 kg | 友跨友lgbtq+文化 | INFP-T 出生日:2010.3.16\nminecraft丨异环丨铁锈战争玩家\nHTML/Gore/数码/深度二次元/AI",
+        "id": "1892789733287460864",
+        "name": "_Xiaosuda_🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046919261994823935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052239433743949824/zVtNaMaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 101,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 73
+        },
+        "username": "XIAOSUSU456",
+        "verified": false
+      }
+    ]
+  }
+}

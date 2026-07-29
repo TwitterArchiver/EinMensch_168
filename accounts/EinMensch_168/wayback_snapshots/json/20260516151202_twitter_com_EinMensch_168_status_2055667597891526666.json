@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2055667597891526666",
+    "created_at": "2026-05-16T15:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T16:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055667597891526666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1771897479367405568",
+          "start": 3,
+          "username": "XHR_Slayde"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055667597891526666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055667406719037944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XHR_Slayde: welcome！\n这是窝的小群（粉丝群），群里有很多厉害的bro，在游戏方面上有很高的造诣\n群里氛围很好的，群主大人（其实就是我）和管理员们很亲民的。和我私聊我也会尽力一个一个回复的！\n现在还在经营一个b站账号，励志成为游戏手子和知名up主哒喵！…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1522,
+        "media_key": "3_2055667389639897091",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcymXfXMAMrKH5.jpg",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2055667597891526666",
+        "created_at": "2026-05-16T15:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055667597891526666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1771897479367405568",
+              "start": 3,
+              "username": "XHR_Slayde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055667597891526666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055667406719037944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XHR_Slayde: welcome！\n这是窝的小群（粉丝群），群里有很多厉害的bro，在游戏方面上有很高的造诣\n群里氛围很好的，群主大人（其实就是我）和管理员们很亲民的。和我私聊我也会尽力一个一个回复的！\n现在还在经营一个b站账号，励志成为游戏手子和知名up主哒喵！…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055667389639897091"
+          ]
+        },
+        "author_id": "1771897479367405568",
+        "conversation_id": "2055667406719037944",
+        "created_at": "2026-05-16T15:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055667406719037944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9zp7LtrmVc",
+              "end": 147,
+              "expanded_url": "https://x.com/XHR_Slayde/status/2055667406719037944/photo/1",
+              "media_key": "3_2055667389639897091",
+              "start": 124,
+              "url": "https://t.co/9zp7LtrmVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055667406719037944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "welcome！\n这是窝的小群（粉丝群），群里有很多厉害的bro，在游戏方面上有很高的造诣\n群里氛围很好的，群主大人（其实就是我）和管理员们很亲民的。和我私聊我也会尽力一个一个回复的！\n现在还在经营一个b站账号，励志成为游戏手子和知名up主哒喵！ https://t.co/9zp7LtrmVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10年下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨尽力让自己变得更好丨我在学习与研究丨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2055650664039248103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 328,
+          "like_count": 3054,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 1183
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-24T13:51:05.000Z",
+        "description": "你好喵，这里是星鹤凛！支持简体中文，繁体中文，英语（English）的交流。是一个成分及其复杂的游戏宅。（是的很多游戏都玩）现在是一位高中牲，欢迎互fo一块组队开黑！\n（自己的qq小群：365608837）",
+        "id": "1771897479367405568",
+        "name": "星鹤凛_slayde",
+        "pinned_tweet_id": "2055246808188666262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050953189193613312/4qgVIVY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 38,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 80
+        },
+        "username": "XHR_Slayde",
+        "verified": false
+      }
+    ]
+  }
+}

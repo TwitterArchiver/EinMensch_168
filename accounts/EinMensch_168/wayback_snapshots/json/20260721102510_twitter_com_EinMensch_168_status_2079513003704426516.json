@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2079513003704426516",
+    "created_at": "2026-07-21T10:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T11:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079513003704426516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060679315126439936",
+          "start": 3,
+          "username": "KitsuMio7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079513003704426516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079220971987436010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KitsuMio7: 墓碑是在承认一个人已经离开，留下对她的纪念。而你们做的却是用她的聊天记录仿造一个只在表面上像她、实际上完全不是她的东西，再让它以她的身份生成她从未说过的话。一个是纪念逝者，一个是冒用逝者的人格替逝者发言，本质完全相反"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2079513003704426516",
+        "created_at": "2026-07-21T10:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079513003704426516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060679315126439936",
+              "start": 3,
+              "username": "KitsuMio7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079513003704426516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079220971987436010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KitsuMio7: 墓碑是在承认一个人已经离开，留下对她的纪念。而你们做的却是用她的聊天记录仿造一个只在表面上像她、实际上完全不是她的东西，再让它以她的身份生成她从未说过的话。一个是纪念逝者，一个是冒用逝者的人格替逝者发言，本质完全相反"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060679315126439936",
+        "conversation_id": "2079220971987436010",
+        "created_at": "2026-07-20T15:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079220971987436010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tixitem4527/st…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/tixitem4527/status/2079208967692271948",
+              "start": 109,
+              "url": "https://t.co/nWrmVOiMvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079220971987436010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1233,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079208967692271948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "墓碑是在承认一个人已经离开，留下对她的纪念。而你们做的却是用她的聊天记录仿造一个只在表面上像她、实际上完全不是她的东西，再让它以她的身份生成她从未说过的话。一个是纪念逝者，一个是冒用逝者的人格替逝者发言，本质完全相反 https://t.co/nWrmVOiMvq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "才清井泽",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 367,
+          "like_count": 3339,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 1492
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT 2023 | ENTP | ASD | ADHD | BPD | DID | 早发性性别不一致 | 声音女性化 | MioMtFWiki 创建&维护者 | 激进形式平权主义 | 激进性别自决主义 | 反性别权利分化 | 反性别认同解构 | 碎碎念@KitsuMio79 | 同类互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 133,
+                "username": "KitsuMio79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki/",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki/",
+                "start": 0,
+                "url": "https://t.co/20qbkKwHi3"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074764007295385600/5PZFNtiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 1208,
+          "like_count": 2338,
+          "listed_count": 6,
+          "media_count": 201,
+          "tweet_count": 1459
+        },
+        "url": "https://t.co/20qbkKwHi3",
+        "username": "KitsuMio7",
+        "verified": true
+      }
+    ]
+  }
+}

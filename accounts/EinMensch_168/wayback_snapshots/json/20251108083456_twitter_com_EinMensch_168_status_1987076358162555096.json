@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987076346892447745",
+        "3_1987076346745634816"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "1987076358162555096",
+    "created_at": "2025-11-08T08:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T09:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987076358162555096"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rF28uC7yO5",
+          "end": 38,
+          "expanded_url": "https://x.com/EinMensch_168/status/1987076358162555096/photo/1",
+          "media_key": "3_1987076346892447745",
+          "start": 15,
+          "url": "https://t.co/rF28uC7yO5"
+        },
+        {
+          "display_url": "pic.x.com/rF28uC7yO5",
+          "end": 38,
+          "expanded_url": "https://x.com/EinMensch_168/status/1987076358162555096/photo/1",
+          "media_key": "3_1987076346745634816",
+          "start": 15,
+          "url": "https://t.co/rF28uC7yO5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987076358162555096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "家里翻出来的自制油蜡包和相机 https://t.co/rF28uC7yO5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1987076346892447745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ODaNYa8AEVUvz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1987076346745634816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ODaM1awAAQNcR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987076346892447745",
+            "3_1987076346745634816"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "1987076358162555096",
+        "created_at": "2025-11-08T08:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T09:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987076358162555096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rF28uC7yO5",
+              "end": 38,
+              "expanded_url": "https://x.com/EinMensch_168/status/1987076358162555096/photo/1",
+              "media_key": "3_1987076346892447745",
+              "start": 15,
+              "url": "https://t.co/rF28uC7yO5"
+            },
+            {
+              "display_url": "pic.x.com/rF28uC7yO5",
+              "end": 38,
+              "expanded_url": "https://x.com/EinMensch_168/status/1987076358162555096/photo/1",
+              "media_key": "3_1987076346745634816",
+              "start": 15,
+              "url": "https://t.co/rF28uC7yO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987076358162555096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家里翻出来的自制油蜡包和相机 https://t.co/rF28uC7yO5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "学习雷锋好榜样",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "潘国平",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956250009793650688/y_E5BChX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 129,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 34
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2042429454249836687",
+    "created_at": "2026-04-11T06:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042854513552633955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1671916340956000258",
+          "start": 0,
+          "username": "Sunan_Wang_0"
+        },
+        {
+          "end": 29,
+          "id": "1868562193484251136",
+          "start": 14,
+          "username": "LengChamSayBye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042854513552633955",
+    "in_reply_to_user_id": "1671916340956000258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042509354805698598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sunan_Wang_0 @LengChamSayBye 不断减少的同时不断增加"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2042429454249836687",
+        "created_at": "2026-04-11T06:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042854513552633955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1671916340956000258",
+              "start": 0,
+              "username": "Sunan_Wang_0"
+            },
+            {
+              "end": 29,
+              "id": "1868562193484251136",
+              "start": 14,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042854513552633955",
+        "in_reply_to_user_id": "1671916340956000258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042509354805698598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sunan_Wang_0 @LengChamSayBye 不断减少的同时不断增加"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671916340956000258",
+        "conversation_id": "2042429454249836687",
+        "created_at": "2026-04-10T07:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042509354805698598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042509354805698598",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4626,
+          "like_count": 0,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042429454249836687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye 圈外人，想问一下，你们真是要紫砂的吗😨？你们是咋维持人数？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃1.0，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。\n            ——双刀王小桃-2026-3.1",
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 107,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 131
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T16:21:54.000Z",
+        "description": "啊是的是的是的，啊不是不是不是。",
+        "id": "1671916340956000258",
+        "location": "中国苏南",
+        "name": "王苏南",
+        "pinned_tweet_id": "1904027698030395613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989346743541288960/qhGKxlGZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 84,
+          "like_count": 20837,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 603
+        },
+        "username": "Sunan_Wang_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |清水推 |日常 #霉粉 #蚊子姐粉 #打雷姐粉 #艾薇儿粉 #查理小程序粉 #瓜西姐粉 #插排姐粉 #A妹粉 #劳奶奶粉 #素人粿粉 #酱鸭99 #牛姐粉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              },
+              {
+                "end": 82,
+                "start": 79,
+                "tag": "霉粉"
+              },
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "蚊子姐粉"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "打雷姐粉"
+              },
+              {
+                "end": 100,
+                "start": 95,
+                "tag": "艾薇儿粉"
+              },
+              {
+                "end": 108,
+                "start": 101,
+                "tag": "查理小程序粉"
+              },
+              {
+                "end": 114,
+                "start": 109,
+                "tag": "瓜西姐粉"
+              },
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "插排姐粉"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "A妹粉"
+              },
+              {
+                "end": 131,
+                "start": 126,
+                "tag": "劳奶奶粉"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "tag": "素人粿粉"
+              },
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "酱鸭99"
+              },
+              {
+                "end": 148,
+                "start": 144,
+                "tag": "牛姐粉"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 205,
+          "like_count": 5503,
+          "listed_count": 2,
+          "media_count": 779,
+          "tweet_count": 4185
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

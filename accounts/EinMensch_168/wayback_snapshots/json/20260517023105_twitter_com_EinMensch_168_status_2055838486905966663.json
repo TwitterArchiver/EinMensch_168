@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2055838486905966663",
+    "created_at": "2026-05-17T02:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T03:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055838486905966663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YunJiu/status/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/YunJiu/status/2055838212917182843",
+          "start": 16,
+          "url": "https://t.co/f8NOLwrSyF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055838486905966663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055838212917182843",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "终于靠贝斯赚钱了\n我去送外卖了 https://t.co/f8NOLwrSyF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 936,
+        "media_key": "3_2055645048470138880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIceR8JacAAwX2X.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2055838486905966663",
+        "created_at": "2026-05-17T02:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055838486905966663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YunJiu/status/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/YunJiu/status/2055838212917182843",
+              "start": 16,
+              "url": "https://t.co/f8NOLwrSyF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055838486905966663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055838212917182843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "终于靠贝斯赚钱了\n我去送外卖了 https://t.co/f8NOLwrSyF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055645048470138880"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055838212917182843",
+        "created_at": "2026-05-17T02:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055838212917182843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F8l9pSHsQ2",
+              "end": 23,
+              "expanded_url": "https://x.com/YunJiu/status/2055838212917182843/photo/1",
+              "media_key": "3_2055645048470138880",
+              "start": 0,
+              "url": "https://t.co/F8l9pSHsQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055838212917182843",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/F8l9pSHsQ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10年下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨尽力让自己变得更好丨我在学习与研究丨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2055650664039248103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 329,
+          "like_count": 3083,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 1203
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105076,
+          "following_count": 788,
+          "like_count": 36832,
+          "listed_count": 293,
+          "media_count": 18632,
+          "tweet_count": 26753
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

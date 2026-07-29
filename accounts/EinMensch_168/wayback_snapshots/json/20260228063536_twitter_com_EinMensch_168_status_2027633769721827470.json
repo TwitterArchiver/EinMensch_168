@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027633767175884803"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2027633769721827470",
+    "created_at": "2026-02-28T06:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T07:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027633769721827470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hiGAgEEj4E",
+          "end": 32,
+          "expanded_url": "https://x.com/EinMensch_168/status/2027633769721827470/photo/1",
+          "media_key": "3_2027633767175884803",
+          "start": 9,
+          "url": "https://t.co/hiGAgEEj4E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027633769721827470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的头壳建模好了 https://t.co/hiGAgEEj4E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_2027633767175884803",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOaKxsbEAMxH8h.jpg",
+        "width": 976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027633767175884803"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2027633769721827470",
+        "created_at": "2026-02-28T06:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027633769721827470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hiGAgEEj4E",
+              "end": 32,
+              "expanded_url": "https://x.com/EinMensch_168/status/2027633769721827470/photo/1",
+              "media_key": "3_2027633767175884803",
+              "start": 9,
+              "url": "https://t.co/hiGAgEEj4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027633769721827470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的头壳建模好了 https://t.co/hiGAgEEj4E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我已内卷致死｜在校高一学生\n我来外网纯是因为无聊",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026364444683751424/wHBmVhSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 39,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 30
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

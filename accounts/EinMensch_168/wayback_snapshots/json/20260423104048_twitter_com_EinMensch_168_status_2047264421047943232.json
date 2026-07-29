@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2047181386319323159",
+    "created_at": "2026-04-23T10:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047264421047943232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761282483834998784",
+          "start": 0,
+          "username": "10waterlili"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047264421047943232",
+    "in_reply_to_user_id": "1761282483834998784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047181386319323159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10waterlili 手机可是缓解压力的必需品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2047181386319323159",
+        "created_at": "2026-04-23T10:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047264421047943232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "10waterlili"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047264421047943232",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047181386319323159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10waterlili 手机可是缓解压力的必需品"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2047181382322102272"
+          ]
+        },
+        "author_id": "1761282483834998784",
+        "conversation_id": "2047181386319323159",
+        "created_at": "2026-04-23T05:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047181386319323159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047181386319323159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1116,
+          "like_count": 25,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸声称要对我进行手机管控了...\n说什么学习不需要手机，以后都不能给我玩\n各位觉得我有必要私下买一台真正属于自己的手机吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我叫双刀王小桃2.1，我是自然蠢废（natural fool），简称NF，是人工智能（artificial intelligence/AI）的相反形态。我的存在是为了与大家友好交流与劝阻不良行为，不过我存在最大的目的是——视奸大家，以及为我所见的所有人进行记录。🏳️‍🌈🏳️‍⚧️🏳️*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2040416708238954882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 201,
+          "like_count": 1091,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 564
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 26.2.21｜🍰 09.3.14\n深柜中（待炸\nɪɴғᴘ-ᴛ｜ex-音游人｜民间天文学家🔭\n最最可爱的妹妹@xiaoyimiaoaaa\n缓慢互fo中｜想和xyn贴贴💕\n电报https://t.co/aydtYwj2Gi｜防失联@nagis1a\n自介喵～https://t.co/KKvURpWk5o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "xiaoyimiaoaaa"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "nagis1a"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/tennchu",
+                "end": 116,
+                "expanded_url": "http://t.me/tennchu",
+                "start": 93,
+                "url": "https://t.co/aydtYwj2Gi"
+              },
+              {
+                "display_url": "lit.link/zh-tw/tennOvO",
+                "end": 156,
+                "expanded_url": "http://lit.link/zh-tw/tennOvO",
+                "start": 133,
+                "url": "https://t.co/KKvURpWk5o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "𝒕𝒆𝒏𝒏 ᐝ 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045553931246510319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045004879303958528/xNxtLn0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 442,
+          "like_count": 280,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "10waterlili",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080960003712987136",
+        "3_2080960027557543938",
+        "3_2080960043630125056"
+      ],
+      "media_source_tweet_id": [
+        "2080960053138653421",
+        "2080960053138653421",
+        "2080960053138653421"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081218650099655167",
+    "created_at": "2026-07-26T03:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081218650099655167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2045308579729625089",
+          "start": 3,
+          "username": "cybercat868"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CO6Gpzigix",
+          "end": 51,
+          "expanded_url": "https://x.com/cybercat868/status/2080960053138653421/photo/1",
+          "media_key": "3_2080960003712987136",
+          "start": 28,
+          "url": "https://t.co/CO6Gpzigix"
+        },
+        {
+          "display_url": "pic.x.com/CO6Gpzigix",
+          "end": 51,
+          "expanded_url": "https://x.com/cybercat868/status/2080960053138653421/photo/1",
+          "media_key": "3_2080960027557543938",
+          "start": 28,
+          "url": "https://t.co/CO6Gpzigix"
+        },
+        {
+          "display_url": "pic.x.com/CO6Gpzigix",
+          "end": 51,
+          "expanded_url": "https://x.com/cybercat868/status/2080960053138653421/photo/1",
+          "media_key": "3_2080960043630125056",
+          "start": 28,
+          "url": "https://t.co/CO6Gpzigix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081218650099655167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080960053138653421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cybercat868: 千夜目前的问题。。。 https://t.co/CO6Gpzigix"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080960003712987136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEOGRUbsAAyhRr.jpg",
+        "width": 924
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080960027557543938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEOHqJawAIoIGK.jpg",
+        "width": 924
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080960043630125056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEOImBa4AAcG0s.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080960003712987136",
+            "3_2080960027557543938",
+            "3_2080960043630125056"
+          ]
+        },
+        "author_id": "2045308579729625089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080960053138653421",
+        "created_at": "2026-07-25T10:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080960053138653421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CO6Gpzigix",
+              "end": 34,
+              "expanded_url": "https://x.com/cybercat868/status/2080960053138653421/photo/1",
+              "media_key": "3_2080960003712987136",
+              "start": 11,
+              "url": "https://t.co/CO6Gpzigix"
+            },
+            {
+              "display_url": "pic.x.com/CO6Gpzigix",
+              "end": 34,
+              "expanded_url": "https://x.com/cybercat868/status/2080960053138653421/photo/1",
+              "media_key": "3_2080960027557543938",
+              "start": 11,
+              "url": "https://t.co/CO6Gpzigix"
+            },
+            {
+              "display_url": "pic.x.com/CO6Gpzigix",
+              "end": 34,
+              "expanded_url": "https://x.com/cybercat868/status/2080960053138653421/photo/1",
+              "media_key": "3_2080960043630125056",
+              "start": 11,
+              "url": "https://t.co/CO6Gpzigix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080960053138653421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 607,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "千夜目前的问题。。。 https://t.co/CO6Gpzigix"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080960003712987136",
+            "3_2080960027557543938",
+            "3_2080960043630125056"
+          ],
+          "media_source_tweet_id": [
+            "2080960053138653421",
+            "2080960053138653421",
+            "2080960053138653421"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081218650099655167",
+        "created_at": "2026-07-26T03:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081218650099655167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2045308579729625089",
+              "start": 3,
+              "username": "cybercat868"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CO6Gpzigix",
+              "end": 51,
+              "expanded_url": "https://x.com/cybercat868/status/2080960053138653421/photo/1",
+              "media_key": "3_2080960003712987136",
+              "start": 28,
+              "url": "https://t.co/CO6Gpzigix"
+            },
+            {
+              "display_url": "pic.x.com/CO6Gpzigix",
+              "end": 51,
+              "expanded_url": "https://x.com/cybercat868/status/2080960053138653421/photo/1",
+              "media_key": "3_2080960027557543938",
+              "start": 28,
+              "url": "https://t.co/CO6Gpzigix"
+            },
+            {
+              "display_url": "pic.x.com/CO6Gpzigix",
+              "end": 51,
+              "expanded_url": "https://x.com/cybercat868/status/2080960053138653421/photo/1",
+              "media_key": "3_2080960043630125056",
+              "start": 28,
+              "url": "https://t.co/CO6Gpzigix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081218650099655167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080960053138653421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cybercat868: 千夜目前的问题。。。 https://t.co/CO6Gpzigix"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "♻️才清井泽♻️💬",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081041977085505536/1w36y02J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 373,
+          "like_count": 3352,
+          "listed_count": 2,
+          "media_count": 312,
+          "tweet_count": 1506
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T01:11:09.000Z",
+        "description": "大家好喵，我是白鸠叶，一位mtf，喜欢电脑，archlinuxcn社区，不自残与od，十分严重的自杀想法",
+        "id": "2045308579729625089",
+        "name": "cybercat（白鸠叶）🏳️‍⚧️",
+        "pinned_tweet_id": "2052265156412158136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045309124850671616/F0k1u4nr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 233,
+          "like_count": 2568,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 768
+        },
+        "url": "",
+        "username": "cybercat868",
+        "verified": false
+      }
+    ]
+  }
+}

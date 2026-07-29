@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "1906703965338710210",
+    "created_at": "2025-03-31T13:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T14:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906703965338710210"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1906703965338710210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我这的学校学生哪里是人，只是老师的绩效罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "1906703965338710210",
+        "created_at": "2025-03-31T13:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T14:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906703965338710210"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906703965338710210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这的学校学生哪里是人，只是老师的绩效罢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "马克思主义/毛泽东主义/反官僚主义、形式主义/反压迫剥削/主张人人平等/正在学习中",
+        "id": "1659190798104297476",
+        "name": "EinMensch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884943704986714112/Bu12rl1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 73,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

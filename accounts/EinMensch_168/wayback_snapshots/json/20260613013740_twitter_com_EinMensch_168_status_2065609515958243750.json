@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2065417721693757910",
+    "created_at": "2026-06-13T01:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T02:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065609515958243750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2065297017396690944",
+          "start": 0,
+          "username": "nnon12onn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065609515958243750",
+    "in_reply_to_user_id": "2065297017396690944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065417721693757910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nnon12onn 玩游戏莫名其妙组队后就认识了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2065417721693757910",
+        "created_at": "2026-06-13T01:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T02:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065609515958243750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2065297017396690944",
+              "start": 0,
+              "username": "nnon12onn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065609515958243750",
+        "in_reply_to_user_id": "2065297017396690944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065417721693757910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nnon12onn 玩游戏莫名其妙组队后就认识了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065297017396690944",
+        "conversation_id": "2065417721693757910",
+        "created_at": "2026-06-12T12:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065417721693757910"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "中国人と繋がりたい"
+            },
+            {
+              "end": 42,
+              "start": 32,
+              "tag": "韓国人と繋がりたい"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065417721693757910",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9744,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 60,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "みんなどこで海外の人と知り合ってるの…？\n#中国人と繋がりたい　#韓国人と繋がりたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 335,
+          "like_count": 3252,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 1356
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-12T04:57:06.000Z",
+        "description": "🇯🇵海外の人とお話ししたいオタク🚺07　NFSW!!　🇨🇳 学习中文　🇰🇷 한국어 공부 중　🇷🇺 Изучаю русский　🇬🇧 Studying English　　聴覚障害あります。",
+        "id": "2065297017396690944",
+        "location": "女子高生です！",
+        "name": "山吹　奏",
+        "pinned_tweet_id": "2065408485538550257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336890111475712/Fs84AiQn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 16,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 82
+        },
+        "username": "nnon12onn",
+        "verified": false
+      }
+    ]
+  }
+}

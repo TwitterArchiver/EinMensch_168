@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2062517510503797086",
+    "created_at": "2026-06-05T18:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T19:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062964579714597131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938630796824514560",
+          "start": 0,
+          "username": "Tabgdoueth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062964579714597131",
+    "in_reply_to_user_id": "1938630796824514560",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062517510503797086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tabgdoueth 1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 211,
+        "media_key": "3_2062517504019464192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-IvgIbAAAm7Or.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2062517510503797086",
+        "created_at": "2026-06-05T18:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062964579714597131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938630796824514560",
+              "start": 0,
+              "username": "Tabgdoueth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062964579714597131",
+        "in_reply_to_user_id": "1938630796824514560",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062517510503797086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tabgdoueth 1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062517504019464192"
+          ]
+        },
+        "author_id": "1938630796824514560",
+        "conversation_id": "2062517510503797086",
+        "created_at": "2026-06-04T12:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062517510503797086"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "蓝v互关"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tyyJd6EUnp",
+              "end": 54,
+              "expanded_url": "https://x.com/Tabgdoueth/status/2062517510503797086/photo/1",
+              "media_key": "3_2062517504019464192",
+              "start": 31,
+              "url": "https://t.co/tyyJd6EUnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062517510503797086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14778,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 355,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冲刺万粉\n\n蓝v互关有无\n\n你留言我来关 #蓝v互关 #互关 https://t.co/tyyJd6EUnp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "10年下旬生人丨无攻击性丨不OD不割手不抽烟不喝酒不滥交不嚼榔丨🖤🩶🤍💚🤍🩶🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 328,
+          "like_count": 3247,
+          "listed_count": 2,
+          "media_count": 238,
+          "tweet_count": 1309
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-27T16:09:52.000Z",
+        "description": "15年入圈｜早期项目挖掘｜热衷分享｜全职交易员 #binance #Okx｜资深Holder｜#btc忠实信仰者 #eth #bnb #okb #sol TG：https://t.co/o3AhDpgoMf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 24,
+                "tag": "binance"
+              },
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "Okx"
+              },
+              {
+                "end": 56,
+                "start": 47,
+                "tag": "btc忠实信仰者"
+              },
+              {
+                "end": 61,
+                "start": 57,
+                "tag": "eth"
+              },
+              {
+                "end": 66,
+                "start": 62,
+                "tag": "bnb"
+              },
+              {
+                "end": 71,
+                "start": 67,
+                "tag": "okb"
+              },
+              {
+                "end": 76,
+                "start": 72,
+                "tag": "sol"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Tangdoueth",
+                "end": 103,
+                "expanded_url": "https://t.me/Tangdoueth",
+                "start": 80,
+                "url": "https://t.co/o3AhDpgoMf"
+              }
+            ]
+          }
+        },
+        "id": "1938630796824514560",
+        "name": "Ox糖豆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001248120068612096/ZyzvOyFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11538,
+          "following_count": 2735,
+          "like_count": 5793,
+          "listed_count": 4,
+          "media_count": 333,
+          "tweet_count": 7410
+        },
+        "username": "Tabgdoueth",
+        "verified": true
+      }
+    ]
+  }
+}

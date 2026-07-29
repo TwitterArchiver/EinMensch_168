@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "1555951494528122880",
+    "created_at": "2026-02-26T17:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T18:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027069419818823966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1143215028881018880",
+          "start": 0,
+          "username": "_Darthsoldier_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027069419818823966",
+    "in_reply_to_user_id": "1143215028881018880",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027066016652529701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Darthsoldier_ Thank you."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "1555951494528122880",
+        "created_at": "2026-02-26T17:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027069419818823966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1143215028881018880",
+              "start": 0,
+              "username": "_Darthsoldier_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027069419818823966",
+        "in_reply_to_user_id": "1143215028881018880",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027066016652529701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Darthsoldier_ Thank you."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1143215028881018880",
+        "conversation_id": "1555951494528122880",
+        "created_at": "2026-02-26T16:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027066016652529701"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Bundeswehr",
+              "probability": 0.6044,
+              "start": 15,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027066016652529701",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027058979206246475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 Bundeswehr uniforms are not reproduced because they're still common surplus so it's surely original"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我已内卷致死｜在校高一学生",
+        "id": "1659190798104297476",
+        "location": "北冰洋",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026364444683751424/wHBmVhSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 38,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-24T17:51:17.000Z",
+        "description": "Silly militaria collector, history and star wars nerd. I also like anime and cosplaying, mainly GFL and OC charas (I am a guy btw ♂) \nMy cos gallery on Kofi ⏬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/darthsoldier",
+                "end": 23,
+                "expanded_url": "http://ko-fi.com/darthsoldier",
+                "start": 0,
+                "url": "https://t.co/yDPUUwbBvp"
+              }
+            ]
+          }
+        },
+        "id": "1143215028881018880",
+        "location": "Stasi dungeon Ost Berlin",
+        "name": "Darthsoldier",
+        "pinned_tweet_id": "1625278682615930883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008162751198232578/yhhshij-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24574,
+          "following_count": 2064,
+          "like_count": 280562,
+          "listed_count": 51,
+          "media_count": 8347,
+          "tweet_count": 55343
+        },
+        "url": "https://t.co/yDPUUwbBvp",
+        "username": "_Darthsoldier_",
+        "verified": false
+      }
+    ]
+  }
+}

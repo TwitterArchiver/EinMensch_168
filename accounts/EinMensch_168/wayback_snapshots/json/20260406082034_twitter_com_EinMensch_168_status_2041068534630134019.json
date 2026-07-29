@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2041068534630134019",
+    "created_at": "2026-04-06T08:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T09:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041068534630134019"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041068534630134019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "王小桃 对战争雷霆的评价\n☆☆☆☆☆差评\n玩着玩着就红温了喵，身上还莫名其妙多了一双丝袜和小裙子喵，说话也莫名其妙喵喵喵了喵，整天觉都睡不着喵，一不玩战雷就坐立难安喵，真的要害死我了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2041068534630134019",
+        "created_at": "2026-04-06T08:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041068534630134019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041068534630134019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "王小桃 对战争雷霆的评价\n☆☆☆☆☆差评\n玩着玩着就红温了喵，身上还莫名其妙多了一双丝袜和小裙子喵，说话也莫名其妙喵喵喵了喵，整天觉都睡不着喵，一不玩战雷就坐立难安喵，真的要害死我了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "我已内卷致死｜在校高一学生\n我来外网纯是因为无聊",
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "1906703965338710210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029955644959379460/QeEKlQqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 91,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 90
+        },
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}
