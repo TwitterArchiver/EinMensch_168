@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082845337082122240",
+        "3_2082845351728521216",
+        "3_2082845366207254528"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2082845381084508450",
+    "created_at": "2026-07-30T15:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082845381084508450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U7jX1vIGWw",
+          "end": 152,
+          "expanded_url": "https://x.com/EinMensch_168/status/2082845381084508450/photo/1",
+          "media_key": "3_2082845337082122240",
+          "start": 129,
+          "url": "https://t.co/U7jX1vIGWw"
+        },
+        {
+          "display_url": "pic.x.com/U7jX1vIGWw",
+          "end": 152,
+          "expanded_url": "https://x.com/EinMensch_168/status/2082845381084508450/photo/1",
+          "media_key": "3_2082845351728521216",
+          "start": 129,
+          "url": "https://t.co/U7jX1vIGWw"
+        },
+        {
+          "display_url": "pic.x.com/U7jX1vIGWw",
+          "end": 152,
+          "expanded_url": "https://x.com/EinMensch_168/status/2082845381084508450/photo/1",
+          "media_key": "3_2082845366207254528",
+          "start": 129,
+          "url": "https://t.co/U7jX1vIGWw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082845381084508450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的不是在崇洋媚外和什么支黑，我一直都深爱着我的祖国和我的同胞，我愿意为了祖国和同胞捐钱捐物、驰援灾区、支援需要我的地方，我发表各种文章、视频、调查报告从来没有任何反动势力在支持我，我只是为了为受苦受难的同胞发声，让人们看到ta们、重视ta们、帮助ta们 https://t.co/U7jX1vIGWw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1010,
+        "media_key": "3_2082845337082122240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfAzHbb0AA15WY.jpg",
+        "width": 1458
+      },
+      {
+        "height": 983,
+        "media_key": "3_2082845351728521216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfAz9_aIAASzvf.jpg",
+        "width": 1322
+      },
+      {
+        "height": 1039,
+        "media_key": "3_2082845366207254528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfA0z7aEAAjw3B.jpg",
+        "width": 1557
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082845337082122240",
+            "3_2082845351728521216",
+            "3_2082845366207254528"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2082845381084508450",
+        "created_at": "2026-07-30T15:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082845381084508450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7jX1vIGWw",
+              "end": 152,
+              "expanded_url": "https://x.com/EinMensch_168/status/2082845381084508450/photo/1",
+              "media_key": "3_2082845337082122240",
+              "start": 129,
+              "url": "https://t.co/U7jX1vIGWw"
+            },
+            {
+              "display_url": "pic.x.com/U7jX1vIGWw",
+              "end": 152,
+              "expanded_url": "https://x.com/EinMensch_168/status/2082845381084508450/photo/1",
+              "media_key": "3_2082845351728521216",
+              "start": 129,
+              "url": "https://t.co/U7jX1vIGWw"
+            },
+            {
+              "display_url": "pic.x.com/U7jX1vIGWw",
+              "end": 152,
+              "expanded_url": "https://x.com/EinMensch_168/status/2082845381084508450/photo/1",
+              "media_key": "3_2082845366207254528",
+              "start": 129,
+              "url": "https://t.co/U7jX1vIGWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082845381084508450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不是在崇洋媚外和什么支黑，我一直都深爱着我的祖国和我的同胞，我愿意为了祖国和同胞捐钱捐物、驰援灾区、支援需要我的地方，我发表各种文章、视频、调查报告从来没有任何反动势力在支持我，我只是为了为受苦受难的同胞发声，让人们看到ta们、重视ta们、帮助ta们 https://t.co/U7jX1vIGWw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "以身殉道不惧，理想永不湮灭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "♻️才清井泽♻️💬",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081041977085505536/1w36y02J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 373,
+          "like_count": 3380,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 1523
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

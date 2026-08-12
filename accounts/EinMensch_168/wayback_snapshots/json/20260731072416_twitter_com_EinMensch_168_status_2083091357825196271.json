@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083091345045135360"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2083091357825196271",
+    "created_at": "2026-07-31T07:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083091357825196271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j8ENt6r9yP",
+          "end": 26,
+          "expanded_url": "https://x.com/EinMensch_168/status/2083091357825196271/photo/1",
+          "media_key": "3_2083091345045135360",
+          "start": 3,
+          "url": "https://t.co/j8ENt6r9yP"
+        },
+        {
+          "display_url": "x.com/1gdsb/status/2…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/1gdsb/status/2082990139475890620",
+          "start": 27,
+          "url": "https://t.co/1geqprPR06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083091357825196271",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082990139475890620",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "受着 https://t.co/j8ENt6r9yP https://t.co/1geqprPR06"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2083091345045135360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOigiqgbIAAcUhO.jpg",
+        "width": 1264
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082990127215984640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhEfAtawAA_Gp5.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083091345045135360"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2083091357825196271",
+        "created_at": "2026-07-31T07:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083091357825196271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j8ENt6r9yP",
+              "end": 26,
+              "expanded_url": "https://x.com/EinMensch_168/status/2083091357825196271/photo/1",
+              "media_key": "3_2083091345045135360",
+              "start": 3,
+              "url": "https://t.co/j8ENt6r9yP"
+            },
+            {
+              "display_url": "x.com/1gdsb/status/2…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/1gdsb/status/2082990139475890620",
+              "start": 27,
+              "url": "https://t.co/1geqprPR06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083091357825196271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082990139475890620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "受着 https://t.co/j8ENt6r9yP https://t.co/1geqprPR06"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082990127215984640"
+          ]
+        },
+        "author_id": "2024068861134528512",
+        "conversation_id": "2082990139475890620",
+        "created_at": "2026-07-31T00:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082990139475890620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UeD6ga8uK5",
+              "end": 26,
+              "expanded_url": "https://x.com/1gdsb/status/2082990139475890620/photo/1",
+              "media_key": "3_2082990127215984640",
+              "start": 3,
+              "url": "https://t.co/UeD6ga8uK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082990139475890620",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解封 https://t.co/UeD6ga8uK5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "以身殉道不惧，理想永不湮灭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "♻️才清井泽♻️💬",
+        "pinned_tweet_id": "2047728143939862951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081041977085505536/1w36y02J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 374,
+          "like_count": 3382,
+          "listed_count": 2,
+          "media_count": 322,
+          "tweet_count": 1524
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T10:30:04.000Z",
+        "description": "卖身还债\n200/次全广州可去\n具体要求私",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cn_1gdsb1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cn_1gdsb1",
+                "start": 0,
+                "url": "https://t.co/nDeqjDhbvO"
+              }
+            ]
+          }
+        },
+        "id": "2024068861134528512",
+        "location": "广州海珠赤岗",
+        "name": "cn_1gdsb",
+        "pinned_tweet_id": "2082990267796521412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068400073894236160/GFl-Hbh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 596,
+          "like_count": 4393,
+          "listed_count": 3,
+          "media_count": 575,
+          "tweet_count": 2343
+        },
+        "url": "https://t.co/nDeqjDhbvO",
+        "username": "1gdsb",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084565231997792258"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2084565257499111425",
+    "created_at": "2026-08-04T09:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084565257499111425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YHJOpGlnga",
+          "end": 23,
+          "expanded_url": "https://x.com/EinMensch_168/status/2084565257499111425/video/1",
+          "media_key": "13_2084565231997792258",
+          "start": 0,
+          "url": "https://t.co/YHJOpGlnga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084565257499111425",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/YHJOpGlnga"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11633,
+        "height": 720,
+        "media_key": "13_2084565231997792258",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084565231997792258/img/feZFEtBKiE9449Ip.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084565231997792258/vid/avc1/480x270/jKCXWrtrIrvWYv5S.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084565231997792258/vid/avc1/640x360/Q3ybD3MJoWQcjHDQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084565231997792258/vid/avc1/1280x720/5g3HwfJftAExSgxz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084565231997792258/pl/x7ZDRO5K8tUirGue.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084565231997792258"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2084565257499111425",
+        "created_at": "2026-08-04T09:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084565257499111425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YHJOpGlnga",
+              "end": 23,
+              "expanded_url": "https://x.com/EinMensch_168/status/2084565257499111425/video/1",
+              "media_key": "13_2084565231997792258",
+              "start": 0,
+              "url": "https://t.co/YHJOpGlnga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084565257499111425",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YHJOpGlnga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "以身殉道不惧，理想永不湮灭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "♻️才清井泽♻️💬",
+        "pinned_tweet_id": "2047728143939862951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081041977085505536/1w36y02J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 373,
+          "like_count": 3382,
+          "listed_count": 2,
+          "media_count": 323,
+          "tweet_count": 1527
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

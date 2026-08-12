@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2084572143736799469",
+    "created_at": "2026-08-04T09:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084572143736799469"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084572143736799469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我怎么莫名其妙有封邮政快递？打电话说是文件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2084572143736799469",
+        "created_at": "2026-08-04T09:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084572143736799469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084572143736799469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怎么莫名其妙有封邮政快递？打电话说是文件"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "以身殉道不惧，理想永不湮灭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "♻️才清井泽♻️💬",
+        "pinned_tweet_id": "2047728143939862951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081041977085505536/1w36y02J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 373,
+          "like_count": 3383,
+          "listed_count": 2,
+          "media_count": 323,
+          "tweet_count": 1528
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false
+      }
+    ]
+  }
+}

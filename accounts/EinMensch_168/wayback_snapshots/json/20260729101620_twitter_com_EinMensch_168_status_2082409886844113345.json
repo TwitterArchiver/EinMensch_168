@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2082409886844113345",
+    "created_at": "2026-07-29T10:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082409886844113345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1592401094273302528",
+          "start": 3,
+          "username": "LuoLuo_Miki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082409886844113345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082399117578473595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LuoLuo_Miki: 你最好不是强迫别人的，这次真的让我感到愤怒了😡，你是怎么下得去手的？人家自杀过那么多次，刚见面不到半天就上床"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2082409886844113345",
+        "created_at": "2026-07-29T10:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082409886844113345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1592401094273302528",
+              "start": 3,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082409886844113345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082399117578473595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LuoLuo_Miki: 你最好不是强迫别人的，这次真的让我感到愤怒了😡，你是怎么下得去手的？人家自杀过那么多次，刚见面不到半天就上床"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2082399117578473595",
+        "created_at": "2026-07-29T09:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082399117578473595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1gdsb/status/2…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/1gdsb/status/2082394544616956107",
+              "start": 55,
+              "url": "https://t.co/BWLg3NWkXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082399117578473595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 9,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082394544616956107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你最好不是强迫别人的，这次真的让我感到愤怒了😡，你是怎么下得去手的？人家自杀过那么多次，刚见面不到半天就上床 https://t.co/BWLg3NWkXZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "以身殉道不惧，理想永不湮灭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "♻️才清井泽♻️💬",
+        "pinned_tweet_id": "2060630109196071179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081041977085505536/1w36y02J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 375,
+          "like_count": 3373,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 1519
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "location": "距离你126米",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 189,
+          "like_count": 873,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 681
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      }
+    ]
+  }
+}
