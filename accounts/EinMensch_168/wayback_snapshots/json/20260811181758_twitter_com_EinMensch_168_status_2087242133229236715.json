@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2087242133229236715",
+    "created_at": "2026-08-11T18:17:58.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T19:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087242133229236715"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087242133229236715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "wc，我不想现在就上学啊，我不想被占用那么多假期，暑假实放不到一个月，上学之后还要和那群做题区呆在一起，还要天天忍受各种严苛规定，还要被迫食用导致我肠胃坏了的学校食堂饭菜，周末也被占用成了单休甚至没有，还有心机表子的告状，还有限制的自由，还有每天十二点睡六点起的极品作息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2087242133229236715",
+        "created_at": "2026-08-11T18:17:58.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T19:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087242133229236715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087242133229236715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wc，我不想现在就上学啊，我不想被占用那么多假期，暑假实放不到一个月，上学之后还要和那群做题区呆在一起，还要天天忍受各种严苛规定，还要被迫食用导致我肠胃坏了的学校食堂饭菜，周末也被占用成了单休甚至没有，还有心机表子的告状，还有限制的自由，还有每天十二点睡六点起的极品作息"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "以身殉道不惧，理想永不湮灭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "is_identity_verified": false,
+        "location": "0.3km",
+        "most_recent_tweet_id": "2087242133229236715",
+        "name": "♻️才清井泽♻️💬",
+        "pinned_tweet_id": "2047728143939862951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659190798104297476/1784994103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081041977085505536/1w36y02J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 372,
+          "like_count": 3346,
+          "listed_count": 2,
+          "media_count": 326,
+          "tweet_count": 1538
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

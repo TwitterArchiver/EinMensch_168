@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2093034667310297543",
+    "created_at": "2026-08-28T14:30:08.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T15:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093345390418383140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1695108682605080576",
+          "start": 0,
+          "username": "ccnanoQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093345390418383140",
+    "in_reply_to_user_id": "1695108682605080576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093343770343358973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccnanoQAQ 什么原因？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2093034667310297543",
+        "created_at": "2026-08-28T14:30:08.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T15:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093345390418383140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1695108682605080576",
+              "start": 0,
+              "username": "ccnanoQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093345390418383140",
+        "in_reply_to_user_id": "1695108682605080576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093343770343358973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccnanoQAQ 什么原因？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695108682605080576",
+        "conversation_id": "2093034667310297543",
+        "created_at": "2026-08-28T14:23:41.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T15:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093343770343358973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093343770343358973",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093034667310297543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 我的腰一直压迫神经要死了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "AAA桃桃桃大王才井/才清井泽",
+        "id": "1659190798104297476",
+        "is_identity_verified": false,
+        "location": "位置",
+        "most_recent_tweet_id": "2093345390418383140",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2047728143939862951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659190798104297476/1787753258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092614950405693440/mCjdKyjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 376,
+          "like_count": 3381,
+          "listed_count": 2,
+          "media_count": 322,
+          "tweet_count": 1552
+        },
+        "url": "",
+        "username": "EinMensch_168",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-25T16:20:04.000Z",
+        "description": "20岁，栖息于日本某处。仿佛无处不在，却又无影无踪。",
+        "id": "1695108682605080576",
+        "is_identity_verified": false,
+        "location": "浙江。",
+        "most_recent_tweet_id": "2093344363824951575",
+        "name": "ccnano🇫🇷 （废萌版）",
+        "pinned_tweet_id": "1779609957475680724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695108682605080576/1786428701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759962566225481728/ktAnhzqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3388,
+          "following_count": 1097,
+          "like_count": 72054,
+          "listed_count": 2,
+          "media_count": 1960,
+          "tweet_count": 15965
+        },
+        "url": "",
+        "username": "ccnanoQAQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

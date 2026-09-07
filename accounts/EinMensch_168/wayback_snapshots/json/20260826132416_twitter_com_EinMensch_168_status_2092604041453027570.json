@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2092601292510437750",
+    "created_at": "2026-08-26T13:24:16.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092604041453027570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2069171874966413312",
+          "start": 0,
+          "username": "Storyandzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092604041453027570",
+    "in_reply_to_user_id": "2069171874966413312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092602572964340108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Storyandzi 可用时间不多找不到事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2092601292510437750",
+        "created_at": "2026-08-26T13:24:16.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092604041453027570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2069171874966413312",
+              "start": 0,
+              "username": "Storyandzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092604041453027570",
+        "in_reply_to_user_id": "2069171874966413312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092602572964340108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Storyandzi 可用时间不多找不到事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069171874966413312",
+        "conversation_id": "2092601292510437750",
+        "created_at": "2026-08-26T13:18:26.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092602572964340108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092602572964340108",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092601292510437750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 找点事干"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "is_identity_verified": false,
+        "location": "0.3km",
+        "most_recent_tweet_id": "2092604041453027570",
+        "name": "♻️才清井泽♻️💬",
+        "pinned_tweet_id": "2047728143939862951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659190798104297476/1784994103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081041977085505536/1w36y02J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 370,
+          "like_count": 3382,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 1568
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-22T21:34:44.000Z",
+        "description": "Without a thinking mind,There was no will to yield, no voice to weep for suffering.",
+        "id": "2069171874966413312",
+        "is_identity_verified": true,
+        "location": "home",
+        "most_recent_tweet_id": "2092603137383346349",
+        "name": "peach",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069171874966413312/1782321126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082014864059645952/DhstpVhZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 226,
+          "like_count": 719,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "Storyandzi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

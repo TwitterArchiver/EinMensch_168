@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2093358822958268871",
+    "created_at": "2026-08-28T15:23:30.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T16:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093358822958268871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090485992373497856",
+          "start": 3,
+          "username": "Demonnn77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093358822958268871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093242899064586273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Demonnn77: 家长给未成年孩子提供吃穿住行是最基本的义务，这一点上没有什么好感恩的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2093358822958268871",
+        "created_at": "2026-08-28T15:23:30.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T16:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093358822958268871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090485992373497856",
+              "start": 3,
+              "username": "Demonnn77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093358822958268871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093242899064586273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Demonnn77: 家长给未成年孩子提供吃穿住行是最基本的义务，这一点上没有什么好感恩的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090485992373497856",
+        "conversation_id": "2093242899064586273",
+        "created_at": "2026-08-28T07:42:52.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T08:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093242899064586273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093242899064586273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 21194,
+          "like_count": 741,
+          "quote_count": 1,
+          "reply_count": 43,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "家长给未成年孩子提供吃穿住行是最基本的义务，这一点上没有什么好感恩的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "AAA桃桃桃大王才井/才清井泽",
+        "id": "1659190798104297476",
+        "is_identity_verified": false,
+        "location": "位置",
+        "most_recent_tweet_id": "2093358822958268871",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2047728143939862951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659190798104297476/1787753258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092614950405693440/mCjdKyjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 378,
+          "like_count": 3385,
+          "listed_count": 2,
+          "media_count": 322,
+          "tweet_count": 1555
+        },
+        "url": "",
+        "username": "EinMensch_168",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T17:11:25.000Z",
+        "description": "🌈♀ 双相 老公奴 pr80梦女 阴间引路人\n时不时会频繁无法发帖 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rin_demon",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rin_demon",
+                "start": 0,
+                "url": "https://t.co/KR3neoh0gz"
+              }
+            ]
+          }
+        },
+        "id": "2090485992373497856",
+        "is_identity_verified": false,
+        "location": ":3",
+        "most_recent_tweet_id": "2093314997548151265",
+        "name": "三清剑",
+        "pinned_tweet_id": "2093193687446819170",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090485992373497856/1787253532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091955819143462913/4omDxaX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 187,
+          "like_count": 1957,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 575
+        },
+        "url": "https://t.co/KR3neoh0gz",
+        "username": "Demonnn77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

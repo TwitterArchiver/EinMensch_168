@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "conversation_id": "2091360685938618878",
+    "created_at": "2026-08-23T03:24:01.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T04:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091365820496785467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1948797747089604613",
+          "start": 0,
+          "username": "BloodCatOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091365820496785467",
+    "in_reply_to_user_id": "1948797747089604613",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091361237250830353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BloodCatOvO 煤油❌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "conversation_id": "2091360685938618878",
+        "created_at": "2026-08-23T03:24:01.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T04:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091365820496785467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1948797747089604613",
+              "start": 0,
+              "username": "BloodCatOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091365820496785467",
+        "in_reply_to_user_id": "1948797747089604613",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091361237250830353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BloodCatOvO 煤油❌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948797747089604613",
+        "conversation_id": "2091360685938618878",
+        "created_at": "2026-08-23T03:05:49.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T04:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091361237250830353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659190798104297476",
+              "start": 0,
+              "username": "EinMensch_168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091361237250830353",
+        "in_reply_to_user_id": "1659190798104297476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091360685938618878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EinMensch_168 酒精？（X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "攀登雪山有一点，生是传奇，死是路标",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "is_identity_verified": false,
+        "location": "0.3km",
+        "most_recent_tweet_id": "2091365820496785467",
+        "name": "♻️才清井泽♻️💬",
+        "pinned_tweet_id": "2047728143939862951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659190798104297476/1784994103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081041977085505536/1w36y02J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 368,
+          "like_count": 3385,
+          "listed_count": 2,
+          "media_count": 349,
+          "tweet_count": 1597
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-25T17:29:44.000Z",
+        "description": "一隻治癒的幸運喵/03/INFP-T/姐姐@XixIccn_n/妹妹@Skystar_meow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "XixIccn_n"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "Skystar_meow"
+              }
+            ]
+          }
+        },
+        "id": "1948797747089604613",
+        "is_identity_verified": false,
+        "location": "台北市, 台灣",
+        "most_recent_tweet_id": "2091364094465155112",
+        "name": "血貓🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948797747089604613/1753464930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008798402721779712/ltmSqjDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 1077,
+          "like_count": 11172,
+          "listed_count": 4,
+          "media_count": 31,
+          "tweet_count": 2138
+        },
+        "url": "",
+        "username": "BloodCatOvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

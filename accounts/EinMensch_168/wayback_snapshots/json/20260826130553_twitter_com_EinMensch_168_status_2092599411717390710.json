@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092599400233414656"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2092599411717390710",
+    "created_at": "2026-08-26T13:05:53.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092599411717390710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sfIXumMvSz",
+          "end": 26,
+          "expanded_url": "https://x.com/EinMensch_168/status/2092599411717390710/photo/1",
+          "media_key": "3_2092599400233414656",
+          "start": 3,
+          "url": "https://t.co/sfIXumMvSz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092599411717390710",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092599400233414656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回村 https://t.co/sfIXumMvSz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2092599400233414656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpoEUQbsAAO0zS.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092599400233414656"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2092599411717390710",
+        "created_at": "2026-08-26T13:05:53.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092599411717390710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sfIXumMvSz",
+              "end": 26,
+              "expanded_url": "https://x.com/EinMensch_168/status/2092599411717390710/photo/1",
+              "media_key": "3_2092599400233414656",
+              "start": 3,
+              "url": "https://t.co/sfIXumMvSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092599411717390710",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092599400233414656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回村 https://t.co/sfIXumMvSz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "is_identity_verified": false,
+        "location": "0.3km",
+        "most_recent_tweet_id": "2092599411717390710",
+        "name": "♻️才清井泽♻️💬",
+        "pinned_tweet_id": "2047728143939862951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659190798104297476/1784994103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081041977085505536/1w36y02J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 370,
+          "like_count": 3387,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 1566
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

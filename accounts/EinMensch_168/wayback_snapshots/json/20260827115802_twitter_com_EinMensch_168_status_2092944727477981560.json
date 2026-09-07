@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092944700437348352",
+        "3_2092944708876263424"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092944727477981560",
+    "created_at": "2026-08-27T11:58:02.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092944727477981560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dES3mleUMt",
+          "end": 32,
+          "expanded_url": "https://x.com/EinMensch_168/status/2092944727477981560/photo/1",
+          "media_key": "3_2092944700437348352",
+          "start": 9,
+          "url": "https://t.co/dES3mleUMt"
+        },
+        {
+          "display_url": "pic.x.com/dES3mleUMt",
+          "end": 32,
+          "expanded_url": "https://x.com/EinMensch_168/status/2092944727477981560/photo/1",
+          "media_key": "3_2092944708876263424",
+          "start": 9,
+          "url": "https://t.co/dES3mleUMt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092944727477981560",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092944700437348352"
+      },
+      {
+        "media_key": "3_2092944708876263424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "继续我的天天打洞 https://t.co/dES3mleUMt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_2092944700437348352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuiHbwawAAl7_F.jpg",
+        "width": 2736
+      },
+      {
+        "height": 1264,
+        "media_key": "3_2092944708876263424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuiH7MaYAAQeT0.jpg",
+        "width": 2736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092944700437348352",
+            "3_2092944708876263424"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092944727477981560",
+        "created_at": "2026-08-27T11:58:02.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092944727477981560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dES3mleUMt",
+              "end": 32,
+              "expanded_url": "https://x.com/EinMensch_168/status/2092944727477981560/photo/1",
+              "media_key": "3_2092944700437348352",
+              "start": 9,
+              "url": "https://t.co/dES3mleUMt"
+            },
+            {
+              "display_url": "pic.x.com/dES3mleUMt",
+              "end": 32,
+              "expanded_url": "https://x.com/EinMensch_168/status/2092944727477981560/photo/1",
+              "media_key": "3_2092944708876263424",
+              "start": 9,
+              "url": "https://t.co/dES3mleUMt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092944727477981560",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092944700437348352"
+          },
+          {
+            "media_key": "3_2092944708876263424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "继续我的天天打洞 https://t.co/dES3mleUMt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "AAA桃桃桃大王才井",
+        "id": "1659190798104297476",
+        "is_identity_verified": false,
+        "location": "位置",
+        "most_recent_tweet_id": "2092944727477981560",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2047728143939862951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659190798104297476/1787753258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092614950405693440/mCjdKyjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 374,
+          "like_count": 3360,
+          "listed_count": 2,
+          "media_count": 314,
+          "tweet_count": 1526
+        },
+        "url": "",
+        "username": "EinMensch_168",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
