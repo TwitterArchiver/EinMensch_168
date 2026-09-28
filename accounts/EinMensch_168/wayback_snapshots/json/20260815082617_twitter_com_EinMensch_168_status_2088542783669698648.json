@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088177776591507458"
+      ],
+      "media_source_tweet_id": [
+        "2088177783419871594"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2088542783669698648",
+    "created_at": "2026-08-15T08:26:17.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T09:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088542783669698648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1893984432270475264",
+          "start": 3,
+          "username": "bailixing114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yBej6BcXX5",
+          "end": 55,
+          "expanded_url": "https://x.com/bailixing114514/status/2088177783419871594/photo/1",
+          "media_key": "3_2088177776591507458",
+          "start": 32,
+          "url": "https://t.co/yBej6BcXX5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088542783669698648",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088177776591507458"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088177783419871594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bailixing114514: 这是哪年的新闻啊？（ https://t.co/yBej6BcXX5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1780,
+        "media_key": "3_2088177776591507458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqyn8maEAIhaJb.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088177776591507458"
+          ],
+          "media_source_tweet_id": [
+            "2088177783419871594"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2088542783669698648",
+        "created_at": "2026-08-15T08:26:17.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088542783669698648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1893984432270475264",
+              "start": 3,
+              "username": "bailixing114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yBej6BcXX5",
+              "end": 55,
+              "expanded_url": "https://x.com/bailixing114514/status/2088177783419871594/photo/1",
+              "media_key": "3_2088177776591507458",
+              "start": 32,
+              "url": "https://t.co/yBej6BcXX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088542783669698648",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088177776591507458"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088177783419871594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bailixing114514: 这是哪年的新闻啊？（ https://t.co/yBej6BcXX5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088177776591507458"
+          ]
+        },
+        "author_id": "1893984432270475264",
+        "conversation_id": "2088177783419871594",
+        "created_at": "2026-08-14T08:15:54.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088177783419871594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yBej6BcXX5",
+              "end": 34,
+              "expanded_url": "https://x.com/bailixing114514/status/2088177783419871594/photo/1",
+              "media_key": "3_2088177776591507458",
+              "start": 11,
+              "url": "https://t.co/yBej6BcXX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088177783419871594",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088177776591507458"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 18048,
+          "like_count": 395,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "这是哪年的新闻啊？（ https://t.co/yBej6BcXX5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "攀登雪山有一点，生是传奇，死是路标",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "is_identity_verified": false,
+        "location": "0.3km",
+        "most_recent_tweet_id": "2088542783669698648",
+        "name": "♻️才清井泽♻️💬",
+        "pinned_tweet_id": "2047728143939862951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659190798104297476/1784994103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081041977085505536/1w36y02J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 373,
+          "like_count": 3378,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 1574
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-24T11:20:59.000Z",
+        "description": "鬼知道大号 @baizhouzi520 怎么封了😅|小证含糖家长党🍥|hrt日期2024.12.11|did成员有白洲，黎星，诗遥，haku……|术力口重度依赖|同类欢迎互fo喵～|梗图真人喵！不是机器人！|同类蓝v互fo喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "baizhouzi520"
+              }
+            ]
+          }
+        },
+        "id": "1893984432270475264",
+        "is_identity_verified": false,
+        "location": "浦島トンネル",
+        "most_recent_tweet_id": "2088487067886194913",
+        "name": "白白白白洲洲洲洲🍥🍔🍙💊（二代目）",
+        "pinned_tweet_id": "2087021453560705351",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1893984432270475264/1777457188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049428712932913152/44JwCgoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 587,
+          "like_count": 2062,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 463
+        },
+        "url": "",
+        "username": "bailixing114514",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659190798104297476",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Careers",
+          "id": "847544972781826048",
+          "name": "Careers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Recruitment",
+          "id": "961961812492148736",
+          "name": "Recruitment"
+        }
+      }
+    ],
+    "conversation_id": "2093549615568326920",
+    "created_at": "2026-08-29T04:01:39.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T05:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093549615568326920"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2093549615568326920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然发现我就是个傻逼，我证件营业执照都会伪造，甚至已经有开着的食品企业执照，我还到处求人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659190798104297476",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Recruitment",
+              "id": "961961812492148736",
+              "name": "Recruitment"
+            }
+          }
+        ],
+        "conversation_id": "2093549615568326920",
+        "created_at": "2026-08-29T04:01:39.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T05:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093549615568326920"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093549615568326920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现我就是个傻逼，我证件营业执照都会伪造，甚至已经有开着的食品企业执照，我还到处求人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "AAA桃桃桃大王才井/才清井泽",
+        "id": "1659190798104297476",
+        "is_identity_verified": false,
+        "location": "位置",
+        "most_recent_tweet_id": "2093549615568326920",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2047728143939862951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659190798104297476/1787753258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092614950405693440/mCjdKyjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 379,
+          "like_count": 3388,
+          "listed_count": 2,
+          "media_count": 322,
+          "tweet_count": 1559
+        },
+        "url": "",
+        "username": "EinMensch_168",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

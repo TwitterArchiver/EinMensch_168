@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091095829553815552"
+      ]
+    },
+    "author_id": "1659190798104297476",
+    "conversation_id": "2091095841771778135",
+    "created_at": "2026-08-22T09:31:14.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T10:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091095841771778135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DZ0yGVPswK",
+          "end": 137,
+          "expanded_url": "https://x.com/EinMensch_168/status/2091095841771778135/photo/1",
+          "media_key": "3_2091095829553815552",
+          "start": 114,
+          "url": "https://t.co/DZ0yGVPswK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091095841771778135",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091095829553815552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "瓯江之畔，温江乐队之名温江取自此江之古称。\n——瓯江，古称温江、永嘉江、慎江，中国东海独流入海河流，唐代称温江，唐高宗上元二年（675），析括州之永嘉、安固二县置温州，治设永嘉，这是“温州”得名的开始，永嘉江也一度被改称温江。 https://t.co/DZ0yGVPswK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1893,
+        "media_key": "3_2091095829553815552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUQk-_bIAA9M3g.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091095829553815552"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2091095841771778135",
+        "created_at": "2026-08-22T09:31:14.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T10:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091095841771778135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZ0yGVPswK",
+              "end": 137,
+              "expanded_url": "https://x.com/EinMensch_168/status/2091095841771778135/photo/1",
+              "media_key": "3_2091095829553815552",
+              "start": 114,
+              "url": "https://t.co/DZ0yGVPswK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091095841771778135",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091095829553815552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "瓯江之畔，温江乐队之名温江取自此江之古称。\n——瓯江，古称温江、永嘉江、慎江，中国东海独流入海河流，唐代称温江，唐高宗上元二年（675），析括州之永嘉、安固二县置温州，治设永嘉，这是“温州”得名的开始，永嘉江也一度被改称温江。 https://t.co/DZ0yGVPswK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "攀登雪山有一点，生是传奇，死是路标",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "is_identity_verified": false,
+        "location": "0.3km",
+        "most_recent_tweet_id": "2091095841771778135",
+        "name": "♻️才清井泽♻️💬",
+        "pinned_tweet_id": "2047728143939862951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659190798104297476/1784994103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081041977085505536/1w36y02J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 370,
+          "like_count": 3381,
+          "listed_count": 2,
+          "media_count": 347,
+          "tweet_count": 1589
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
